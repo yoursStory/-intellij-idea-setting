@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastLanguages">
+      <language-pair target="CHINESE" />
+    </option>
+    <histories>
+      <item value="extension" />
+      <item value="Castle" />
+      <item value="Access Decision Manager" />
+      <item value="Url Access Decision Manager" />
+      <item value="add Converter" />
+      <item value="assets Sub Directory" />
+      <item value="assets Root" />
+      <item value="reply" />
+      <item value="section" />
+      <item value="mounted" />
+      <item value="breadcrumb" />
+      <item value="badge" />
+      <item value="vulnerabilities" />
+      <item value="vue-router" />
+      <item value="We don't want the listener doing callbacks into arbitrary code * while holding its own Monitor. The code where we extract each * Observable from the Vector and store the state of the listener * needs synchronization, but notifying listeners does not (should not). * The worst result of any potential race-condition here is that: * 1) a newly-added listener will miss a notification in progress * 2) a recently unregistered listener will be wrongly notified * when it doesn't care" />
+      <item value="indicate" />
+      <item value="delegate" />
+      <item value="Latke framework configuration utility facade." />
+      <item value="This is a Least Recently Used (LRU) pure memory cache. This cache use a thread-safe {@link DoubleLinkedMap} to hold * the objects, and the least recently used objects will be moved to the end of the list and to remove by invoking * {@link #collect()} method." />
+      <item value="synchronized" />
+      <item value="compliance" />
+      <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at" />
+      <item value="This provides static methods to convert comma delimited text into a * JSONArray, and to convert a JSONArray into comma delimited text. Comma * delimited text is a very popular format for data interchange. It is * understood by most database, spreadsheet, and organizer programs. * &lt;p&gt; * Each row of text represents a row in a table or a data record. Each row * ends with a NEWLINE character. Each row contains one or more values. * Values are separated by commas. A value can contain any character except * for comma, unless is is wrapped in single quotes or double quotes. * &lt;p&gt; * The first row usually contains the names of the columns. * &lt;p&gt; * A comma delimited list can be converted into a JSONArray of JSONObjects. * The names for the elements in the JSONObjects can be taken from the names * in the first row." />
+      <item value="The HTTPTokener extends the JSONTokener to provide additional methods * for the parsing of HTTP headers." />
+      <item value="Produce a copy of a string in which the characters '+', '%', '=', ';' * and control characters are replaced with &quot;%hh&quot;. This is a gentle form * of URL encoding, attempting to cause as little distortion to the * string as possible. The characters '=' and ';' are meta characters in * cookies. By convention, they are escaped using the URL-encoding. This is * only a convention, not a standard. Often, cookies are expected to have * encoded values. We encode '=' and ';' because we must. We encode '%' and * '+' because they are meta characters in URL encoding." />
+      <item value="JSON Tokener" />
+      <item value="embedded" />
+      <item value="* Solo with embedded Jetty, &lt;a href=&quot;https://github.com/b3log/solo/issues/12037&quot;&gt;standalone mode&lt;/a&gt;. * &lt;ul&gt; * &lt;li&gt;Windows: java -cp &quot;WEB-INF/lib/*;WEB-INF/classes&quot; org.b3log.solo.Starter&lt;/li&gt; * &lt;li&gt;Unix-like: java -cp &quot;WEB-INF/lib/*:WEB-INF/classes&quot; org.b3log.solo.Starter&lt;/li&gt; * &lt;/ul&gt; * * @author &lt;a href=&quot;http://88250.b3log.org&quot;&gt;Liang Ding&lt;/a&gt; * @version 1.1.0.15, Dec 15, 2018 * @since 1.2.0" />
+      <item value="Batch" />
+      <item value="Snowflake Id Generator" />
+      <item value="test Batch Insert" />
+      <item value="Inject Mocks" />
+      <item value="Nest Conditional" />
+      <item value="Conditional" />
+      <item value="set Total Executor" />
+      <item value="set List Executor" />
+      <item value="Converter" />
+      <item value="poll Last" />
+      <item value="casts" />
+      <item value="undo Stack" />
+      <item value="A linear collection that supports element insertion and removal at * both ends. The name &lt;i&gt;deque&lt;/i&gt; is short for &quot;double ended queue&quot; * and is usually pronounced &quot;deck&quot;. Most {@code Deque} * implementations place no fixed limits on the number of elements * they may contain, but this interface supports capacity-restricted * deques as well as those with no fixed size limit. * * &lt;p&gt;This interface defines methods to access the elements at both * ends of the deque. Methods are provided to insert, remove, and * examine the element. Each of these methods exists in two forms: * one throws an exception if the operation fails, the other returns a * special value (either {@code null} or {@code false}, depending on * the operation). The latter form of the insert operation is * designed specifically for use with capacity-restricted * {@code Deque} implementations; in most implementations, insert * operations cannot fail." />
+      <item value="Deque" />
+      <item value="Shrink Spell" />
+      <item value="Invisibility Spell" />
+      <item value="undo Last Spell" />
+      <item value="print Status" />
+      <item value="cast Spell" />
+      <item value="Wizard" />
+      <item value="Goblin" />
+      <item value="Encapsulate a request as an object, thereby letting you&#10;parameterize clients with different requests, queue or log requests, and&#10;support undoable operations." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
+        <entry key="BASQUE" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Calibri" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI Light" />
+  </component>
+</application>

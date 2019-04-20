@@ -1,0 +1,91 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/File Header.txt.ft" timestamp="1543406273307">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="H:/project/github/java-design-patterns/dao/src/test/java/com/tfb/test/DisplacementTest.java" timestamp="1543511820470">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="H:/project/github/java-design-patterns/abstract-document/src/main/java/com/iluwatar/abstractdocument/App.java" timestamp="1542801965359">
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="68" column="48" />
+        <mark key="^" line="68" column="56" />
+        <mark key="." line="68" column="48" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543406275316">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1543406258935">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Program Files/oracle/java/jdk1.8.0_144/src.zip!/java/util/Spliterators.java" timestamp="1543511015763" />
+      <file name="H:/project/github/java-design-patterns/dao/README.md" timestamp="1543075767817">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1543406251236">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="H:/project/github/java-design-patterns/dao/src/main/java/com/iluwatar/dao/DbCustomerDao.java" timestamp="1543508132413">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="97" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1543406270180">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFN0cmVhbVN1cHBvcnQuc3RyZWFtKG5ldyBTcGxpdGVyYXRvcnMuQWJzdHJhY3RTcGxpdGVyYXRvcjxDdXN0b21lcj4oTG9uZy5NQVhfVkFMVUUsIAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCn0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCn0K</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAKICAgICAgfQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text>l</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

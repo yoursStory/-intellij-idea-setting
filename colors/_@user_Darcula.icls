@@ -1,0 +1,32 @@
+﻿<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.3333334" />
+  <metaInfo>
+    <property name="created">2018-11-28T19:31:36</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.3.0.0</property>
+    <property name="modified">2018-11-28T20:10:04</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="3067c6" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="477cc6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
