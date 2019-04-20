@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="Logger Factory" />
       <item value="extension" />
       <item value="Castle" />
       <item value="Access Decision Manager" />
@@ -53,7 +54,6 @@
       <item value="cast Spell" />
       <item value="Wizard" />
       <item value="Goblin" />
-      <item value="Encapsulate a request as an object, thereby letting you&#10;parameterize clients with different requests, queue or log requests, and&#10;support undoable operations." />
     </histories>
     <option name="languageScores">
       <map>
