@@ -1,0 +1,26 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Gradle Kotlin DSL Build Script.gradle" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Gradle Kotlin DSL Settings.gradle" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="JavaFXApplication.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="MobileResourceBundle.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+    <internal_templates>
+      <template name="AMD JavaScript File.js" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="ColdFusion File.cfm" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="ColdFusion Script Component.cfc" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="ColdFusion Script Interface.cfc" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="ColdFusion Tag Component.cfc" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="ColdFusion Tag Interface.cfc" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="Groovy Class.groovy" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="Groovy Interface.groovy" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="HTML4 File.html" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="module-info.java" reformat="false" live-template-enabled="true" enabled="true" />
+      <template name="package-info.java" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="tsconfig.json.json" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="XHTML File.xhtml" reformat="false" live-template-enabled="false" enabled="true" />
+    </internal_templates>
+  </component>
+</application>
