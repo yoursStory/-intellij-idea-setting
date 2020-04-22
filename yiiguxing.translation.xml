@@ -1,0 +1,88 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Paragraphs" />
+      <item value="Transient" />
+      <item value="sentinel" />
+      <item value="Returns an immutable list containing only the specified object.&#10;     * The returned list is serializable." />
+      <item value="alias" />
+      <item value="setting Able" />
+      <item value="settingable" />
+      <item value="generate Part Leader" />
+      <item value="Value Padding" />
+      <item value="Waits for this thread to die.&#10;     *&#10;     * &lt;p&gt; An invocation of this method behaves in exactly the same&#10;     * way as the invocation&#10;     *&#10;     * &lt;blockquote&gt;&#10;     * {@linkplain #join(long) join}{@code (0)}&#10;     * &lt;/blockquote&gt;&#10;     *&#10;     * @throws  InterruptedException&#10;     *          if any thread has interrupted the current thread. The&#10;     *          &lt;i&gt;interrupted status&lt;/i&gt; of the current thread is&#10;     *          cleared when this exception is thrown." />
+      <item value="exactly" />
+      <item value="invocation" />
+      <item value="False Sharing" />
+      <item value="volatile" />
+      <item value="ITERATIONS" />
+      <item value="duration" />
+      <item value="expose" />
+      <item value="Aware" />
+      <item value="system Class Loader" />
+      <item value="out" />
+      <item value="cause" />
+      <item value="last Exception" />
+      <item value="&lt;p&gt; If there are more arguments than format specifiers, the extra arguments&#10; * are ignored.&#10; *&#10; * &lt;p&gt; Unless otherwise specified, passing a {@code null} argument to any&#10; * method or constructor in this class will cause a {@link" />
+      <item value="* &lt;p&gt; Unless otherwise specified, passing a {@code null} argument to any * method or constructor in this class will cause a {@link * NullPointerException} to be thrown." />
+      <item value="Retention" />
+      <item value="grant Usage Menu Item" />
+      <item value="Returns an {@link Optional} describing some element of the stream, or an * empty {@code Optional} if the stream is empty. * * &lt;p&gt;This is a &lt;a href=&quot;package-summary.html#StreamOps&quot;&gt;short-circuiting * terminal operation&lt;/a&gt;. * * &lt;p&gt;The behavior of this operation is explicitly nondeterministic; it is * free to select any element in the stream. This is to allow for maximal * performance in parallel operations; the cost is that multiple invocations * on the same source may not return the same result. (If a stable result * is desired, use {@link #findFirst()} instead.) * * @return an {@code Optional} describing some element of this stream, or an * empty {@code Optional} if the stream is empty * @throws NullPointerException if the element selected is null" />
+      <item value="execel" />
+      <item value="answer status FINISHED" />
+      <item value="IllegalAccessException if this {@code Method} object * is enforcing Java language access control and the underlying * method is inaccessible. * @exception IllegalArgumentException if the method is an * instance method and the specified object argument * is not an instance of the class or interface * declaring the underlying method (or of a subclass * or implementor thereof); if the number of actual * and formal parameters differ; if an unwrapping * conversion for primitive arguments fails; or if, * after possible unwrapping, a parameter value * cannot be converted to the corresponding formal * parameter type by a method invocation conversion. * @exception InvocationTargetException if the underlying method * throws an exception. * @exception NullPointerException if the specified object is null * and the method is an instance method. * @exception ExceptionInInitializerError if the initialization * provoked by this method fails." />
+      <item value="Invokes the underlying method represented by this {@code Method} * object, on the specified object with the specified parameters. * Individual parameters are automatically unwrapped to match * primitive formal parameters, and both primitive and reference * parameters are subject to method invocation conversions as * necessary. * * &lt;p&gt;If the underlying method is static, then the specified {@code obj} * argument is ignored. It may be null. * * &lt;p&gt;If the number of formal parameters required by the underlying method is * 0, the supplied {@code args} array may be of length 0 or null. * * &lt;p&gt;If the underlying method is an instance method, it is invoked * using dynamic method lookup as documented in The Java Language * Specification, Second Edition, section 15.12.4.4; in particular, * overriding based on the runtime type of the target object will occur. * * &lt;p&gt;If the underlying method is static, the class that declared * the method is initialized if it has not already been initialized. * * &lt;p&gt;If the method completes normally, the value it returns is * returned to the caller of invoke; if the value has a primitive * type, it is first appropriately wrapped in an object. However, * if the value has the type of an array of a primitive type, the * elements of the array are &lt;i&gt;not&lt;/i&gt; wrapped in objects; in * other words, an array of primitive type is returned. If the * underlying method return type is void, the invocation returns * null." />
+      <item value="Invokes the underlying method represented by this {@code Method} * object, on the specified object with the specified parameters. * Individual parameters are automatically unwrapped to match * primitive formal parameters, and both primitive and reference * parameters are subject to method invocation conversions as * necessary. * * &lt;p&gt;If the underlying method is static, then the specified {@code obj} * argument is ignored. It may be null. * * &lt;p&gt;If the number of formal parameters required by the underlying method is * 0, the supplied {@code args} array may be of length 0 or null. * * &lt;p&gt;If the underlying method is an instance method, it is invoked * using dynamic method lookup as documented in The Java Language * Specification, Second Edition, section 15.12.4.4; in particular, * overriding based on the runtime type of the target object will occur. * * &lt;p&gt;If the underlying method is static, the class that declared * the method is initialized if it has not already been initialized. * * &lt;p&gt;If the method completes normally, the value it returns is * returned to the caller of invoke; if the value has a primitive * type, it is first appropriately wrapped in an object. However, * if the value has the type of an array of a primitive type, the * elements of the array are &lt;i&gt;not&lt;/i&gt; wrapped in objects; in * other words, an array of primitive type is returned. If the * underlying method return type is void, the invocation returns * null. * * @param obj the object the underlying method is invoked from * @param args the arguments used for the method call * @return the result of dispatching the method represented by * this object on {@code obj} with parameters * {@code args} * * @exception IllegalAccessException if this {@code Method} object * is enforcing Java language access control and the underlying * method is inaccessible. * @exception IllegalArgumentException if the method is an * instance method and the specified object argument * is not an instance of the class or interface * declaring the underlying method (or of a subclass * or implementor thereof); if the number of actual * and formal parameters differ; if an unwrapping * conversion for primitive arguments fails; or if, * after possible unwrapping, a parameter value * cannot be converted to the corresponding formal * parameter type by a method invocation conversion. * @exception InvocationTargetException if the underlying method * throws an exception. * @exception NullPointerException if the specified object is null * and the method is an instance method. * @exception ExceptionInInitializerError if the initialization * provoked by this method fails." />
+      <item value="logger" />
+      <item value="Logger" />
+      <item value="建议得分" />
+      <item value="error" />
+      <item value="field" />
+      <item value="验证是否已提交" />
+      <item value="INSERT PROCESS INSTANCE finished org code" />
+      <item value="get Finshed Org Code" />
+      <item value="view Audited" />
+      <item value="Unfold" />
+      <item value="CHARGE OFFICE" />
+      <item value="varchar" />
+      <item value="define" />
+      <item value="维护" />
+      <item value="norm Data维护" />
+      <item value="record" />
+      <item value="人工" />
+      <item value="manual" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="569" />
+        <entry key="FRENCH" value="6" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="SPANISH" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="512e876ddd7d2c77" />
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<templateSet group="MyGroup">
+  <template name="add" value="/**&#10; *@Author:tfb&#10; *@Description:&#10; *@Date:$time$ $date$ &#10;$parms$&#10; */" description="add commend" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="parms" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n\\b' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

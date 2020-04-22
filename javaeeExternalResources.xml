@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/334543e7_spring-beans.xsd" />
+    <ignored-resource url="http://www.zeroturnaround.com" />
+  </component>
+</application>

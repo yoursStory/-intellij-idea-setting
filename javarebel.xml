@@ -1,0 +1,18 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.ide.RemoteServerIdCounter" value="0" />
+        <entry key="com.zeroturnaround.jrebel.ide.RemoteServers" value="{&quot;RemoteServers&quot;:[]}" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.1.1" />
+        <entry key="com.zeroturnaround.jrebel.remoting.SyncOnBuild" value="false" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2020.2.0" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+      </map>
+    </option>
+    <option name="javaRebelPath" value="C:\Users\Administrator\.IntelliJIdea2017.3\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
+  </component>
+</application>
