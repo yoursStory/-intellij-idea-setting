@@ -1638,7 +1638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>1542</Count>
+          <Count>1545</Count>
         </Item>
       </Statistic>
       <Statistic Action="切换行断点(L)">
