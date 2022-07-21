@@ -1,5 +1,0 @@
-<keymap version="1" name="Default 复制" parent="$default">
-  <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
-</keymap>

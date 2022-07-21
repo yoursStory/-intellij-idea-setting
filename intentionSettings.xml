@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="XML/Convert tag to attribute" />
-    <ignoreAction name="XML/Insert namespace prefix" />
-  </component>
-</application>
