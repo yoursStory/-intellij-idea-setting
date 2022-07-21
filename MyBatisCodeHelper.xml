@@ -1,0 +1,9 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="ifUseNewMapping" value="488" />
+      </Profile>
+    </option>
+  </component>
+</application>
