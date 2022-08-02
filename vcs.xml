@@ -262,6 +262,18 @@
           <option name="url" value="git@192.168.1.153:trafficview_v2.x_web/youda-alarm-eventlog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:trafficview_v2.x_web/daas-config-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:trafficview_v2.x_web/daas-config-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:trafficview_v2.x_web/dolphinscheduler.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project\trafficview_v2.x_web" />
