@@ -282,9 +282,17 @@
           <option name="url" value="git@192.168.1.153:nb-iot/nbiot-data-collect.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:vaf/common/vaf-daas-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:vaf/common/uni-main-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\nb-iot" />
+    <option name="cloneParentDir" value="D:\project\vaf\common" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
