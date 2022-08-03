@@ -274,9 +274,13 @@
           <option name="url" value="git@192.168.1.153:trafficview_v2.x_web/dolphinscheduler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:nb-iot/nbiot-web-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\trafficview_v2.x_web" />
+    <option name="cloneParentDir" value="D:\project\nb-iot" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
