@@ -306,6 +306,10 @@
           <option name="url" value="git@192.168.1.153:vaf/common/uni-alarm-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.153:vaf/common/uni-topology-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project\vaf\common" />
