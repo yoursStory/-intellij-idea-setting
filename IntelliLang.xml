@@ -2,10 +2,17 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="JSON" injector-id="java">
       <display-name>HashMap.put (java.util)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("put").withParameters("java.lang.Object", "java.lang.Object").definedInClass("java.util.HashMap"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
     </injection>
     <injection language="RegExp" injector-id="java">
       <display-name>String (java.lang)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("replaceAll").withParameters("java.lang.String", "java.lang.String").definedInClass("java.lang.String"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("replaceFirst").withParameters("java.lang.String", "java.lang.String").definedInClass("java.lang.String"))]]></place>
