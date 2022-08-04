@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="escalation" />
       <item value="scenario Analysis Report" />
       <item value="demand" />
       <item value="      Returns the trigonometric cosine of an angle. Special cases:&#10;      &lt;ul&gt;&lt;li&gt;If the argument is NaN or an infinity, then the&#10;      result is NaN.&lt;ul&gt;&#10;     &#10;      &lt;p&gt;The computed result must be within 1 ulp of the exact result.&#10;      Results must be semi-monotonic." />
@@ -50,12 +51,11 @@
       <item value="Timer Utils" />
       <item value="transient" />
       <item value="&#9; * Notify all &lt;strong&gt;matching&lt;/strong&gt; listeners registered with this&#10;&#9; * application of an application event. Events may be framework events&#10;&#9; * (such as ContextRefreshedEvent) or application-specific events.&#10;&#9; * &lt;p&gt;Such an event publication step is effectively a hand-off to the&#10;&#9; * multicaster and does not imply synchronous/asynchronous execution&#10;&#9; * or even immediate execution at all. Event listeners are encouraged&#10;&#9; * to be as efficient as possible, individually using asynchronous&#10;&#9; * execution for longer-running and potentially blocking operations.&#10;&#9; * @param event the event to publish" />
-      <item value=" *     &lt;li&gt;get all subtypes of some type&#10; *     &lt;li&gt;get all types/constructors/methods/fields annotated with some annotation, optionally with annotation parameters matching&#10; *     &lt;li&gt;get all resources matching matching a regular expression&#10; *     &lt;li&gt;get all methods with specific signature including parameters, parameter annotations and return type&#10; *     &lt;li&gt;get all methods parameter names&#10; *     &lt;li&gt;get all fields/methods/constructors usages in code" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="ENGLISH" value="644" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
