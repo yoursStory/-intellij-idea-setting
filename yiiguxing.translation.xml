@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="  Simple stop watch, allowing for timing of a number of tasks, exposing total&#10;  running time and running time for each named task.&#10; &#10;  &lt;p&gt;Conceals use of {@link SystemnanoTime()}, improving the readability of&#10;  application code and reducing the likelihood of calculation errors.&#10; &#10;  &lt;p&gt;Note that this object is not designed to be thread-safe and does not use&#10;  synchronization.&#10; &#10;  &lt;p&gt;This class is normally used to verify performance during proof-of-concept&#10;  work and in development, rather than as part of production applications.&#10; &#10;  &lt;p&gt;As of Spring Framework 5.2, running time is tracked and reported in" />
       <item value="escalation" />
       <item value="scenario Analysis Report" />
       <item value="demand" />
@@ -50,12 +51,11 @@
       <item value="associated" />
       <item value="Timer Utils" />
       <item value="transient" />
-      <item value="&#9; * Notify all &lt;strong&gt;matching&lt;/strong&gt; listeners registered with this&#10;&#9; * application of an application event. Events may be framework events&#10;&#9; * (such as ContextRefreshedEvent) or application-specific events.&#10;&#9; * &lt;p&gt;Such an event publication step is effectively a hand-off to the&#10;&#9; * multicaster and does not imply synchronous/asynchronous execution&#10;&#9; * or even immediate execution at all. Event listeners are encouraged&#10;&#9; * to be as efficient as possible, individually using asynchronous&#10;&#9; * execution for longer-running and potentially blocking operations.&#10;&#9; * @param event the event to publish" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="ENGLISH" value="645" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659420652796" />
+    <option name="lastTrimTime" value="1660272095577" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
