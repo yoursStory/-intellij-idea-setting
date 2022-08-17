@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="asset Manage CK Info" />
       <item value="  Simple stop watch, allowing for timing of a number of tasks, exposing total&#10;  running time and running time for each named task.&#10; &#10;  &lt;p&gt;Conceals use of {@link SystemnanoTime()}, improving the readability of&#10;  application code and reducing the likelihood of calculation errors.&#10; &#10;  &lt;p&gt;Note that this object is not designed to be thread-safe and does not use&#10;  synchronization.&#10; &#10;  &lt;p&gt;This class is normally used to verify performance during proof-of-concept&#10;  work and in development, rather than as part of production applications.&#10; &#10;  &lt;p&gt;As of Spring Framework 5.2, running time is tracked and reported in" />
       <item value="escalation" />
       <item value="scenario Analysis Report" />
@@ -8,7 +9,6 @@
       <item value="      Returns the trigonometric cosine of an angle. Special cases:&#10;      &lt;ul&gt;&lt;li&gt;If the argument is NaN or an infinity, then the&#10;      result is NaN.&lt;ul&gt;&#10;     &#10;      &lt;p&gt;The computed result must be within 1 ulp of the exact result.&#10;      Results must be semi-monotonic." />
       <item value="  Instances of this class support both reading and writing to a&#10;  random access file. A random access file behaves like a large&#10;  array of bytes stored in the file system. There is a kind of cursor,&#10;  or index into the implied array, called the &lt;em&gt;file pointer&lt;em&gt;;&#10;  input operations read bytes starting at the file pointer and advance&#10;  the file pointer past the bytes read. If the random access file is&#10;  created in readwrite mode, then output operations are also available;&#10;  output operations write bytes starting at the file pointer and advance&#10;  the file pointer past the bytes written. Output operations that write&#10;  past the current end of the implied array cause the array to be&#10;  extended. The file pointer can be read by the&#10;  {@code getFilePointer} method and set by the {@code seek}&#10;  method.&#10;  &lt;p&gt;&#10;  It is generally true of all the reading routines in this class that&#10;  if end-of-file is reached before the desired number of bytes has been&#10;  read, an {@code EOFException} (which is a kind of&#10;  {@code IOException}) is thrown. If any byte cannot be read for&#10;  any reason other than end-of-file, an {@code IOException} other&#10;  than {@code EOFException} is thrown. In particular, an&#10;  {@code IOException} may be thrown if the stream has been closed." />
       <item value="Reads in &lt;b&gt;little endian&lt;b&gt; order, as required by the zipfile&#10;  format." />
-      <item value="asset Manage CK Info" />
       <item value="max Fill Read Capacity" />
       <item value="      Waits at most {@code millis} milliseconds for this thread to&#10;      die. A timeout of {@code 0} means to wait forever.&#10;     &#10;      &lt;p&gt; This implementation uses a loop of {@code this.wait} calls&#10;      conditioned on {@code this.isAlive}. As a thread terminates the&#10;      {@code this.notifyAll} method is invoked. It is recommended that&#10;      applications not use {@code wait}, {@code notify}, or&#10;      {@code notifyAll} on {@code Thread} instances." />
       <item value="Method called to assign value serializer for property" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="ENGLISH" value="646" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
