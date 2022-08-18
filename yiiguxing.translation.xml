@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assembly" />
+      <item value="asse" />
+      <item value="firewall-cmd --add-port=123/tcp --permanent" />
       <item value="asset Manage CK Info" />
       <item value="  Simple stop watch, allowing for timing of a number of tasks, exposing total&#10;  running time and running time for each named task.&#10; &#10;  &lt;p&gt;Conceals use of {@link SystemnanoTime()}, improving the readability of&#10;  application code and reducing the likelihood of calculation errors.&#10; &#10;  &lt;p&gt;Note that this object is not designed to be thread-safe and does not use&#10;  synchronization.&#10; &#10;  &lt;p&gt;This class is normally used to verify performance during proof-of-concept&#10;  work and in development, rather than as part of production applications.&#10; &#10;  &lt;p&gt;As of Spring Framework 5.2, running time is tracked and reported in" />
       <item value="escalation" />
@@ -48,14 +51,11 @@
       <item value="Hashed Wheel Bucket" />
       <item value="normalized Ticks Per Wheel" />
       <item value="check Positive" />
-      <item value="associated" />
-      <item value="Timer Utils" />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="659" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="CHINESE" value="661" />
+        <entry key="ENGLISH" value="647" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660272095577" />
+    <option name="lastTrimTime" value="1660817696460" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
