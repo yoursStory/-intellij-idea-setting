@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="  Like the assembly:attached goal, assemble an application bundle or&#10;  distribution using an assembly descriptor from the command line. This goal&#10;  will force Maven to build all included POMs up to the package phase BEFORE the&#10;  assembly is processed. This goal differs from assembly:assembly in that it&#10;  ignores the &lt;formats&gt; section of the assembly descriptor, and forces the&#10;  assembly to be created as a directory in the project's build-output directory&#10;  (usually .target).&#10;  This goal is also functionally equivalent to using the assembly:assembly goal&#10;  in conjunction with the dir assembly format.&#10;  NOTE: This goal should ONLY be run from the command line, and if building a&#10;  multimodule project it should be used from the root POM. Use the&#10;  assembly:directory-single goal for binding your assembly to the lifecycle." />
+      <item value="Assemble an application bundle or distribution using an assembly descriptor&#10;  from the command line. This goal will force Maven to build all included POMs&#10;  up to the package phase BEFORE the assembly is processed.&#10;  NOTE: This goal should ONLY be run from the command line, and if building a&#10;  multimodule project it should be used from the root POM. Use the&#10;  assembly:single goal for binding your assembly to the lifecycle." />
       <item value="assembly" />
       <item value="asse" />
       <item value="firewall-cmd --add-port=123/tcp --permanent" />
@@ -49,13 +51,11 @@
       <item value=" * &lt;li&gt; to decide whether an access to a critical system&#10; * resource is to be allowed or denied, based on the security policy&#10; * currently in effect,&#10; * &lt;li&gt;to mark code as being &quot;privileged&quot;, thus affecting subsequent&#10; * access determinations, and&#10; * &lt;li&gt;to obtain a &quot;snapshot&quot; of the current calling context so&#10; * access-control decisions from a different context can be made with&#10; * respect to the saved context. &lt;/ul&gt;&#10; *&#10; * &lt;p&gt; The {@link #checkPermission(Permission) checkPermission} method&#10; * determines whether the access request indicated by a specified&#10; * permission should be granted or denied. A sample call appears&#10; * below. In this example, {@code checkPermission} will determine&#10; * whether or not to grant &quot;read&quot; access to the file named &quot;testFile&quot; in&#10; * the &quot;/temp&quot; directory." />
       <item value="     * Performs the specified {@code PrivilegedAction} with privileges&#10;     * enabled. The action is performed with &lt;i&gt;all&lt;/i&gt; of the permissions&#10;     * possessed by the caller's protection domain.&#10;     *&#10;     * &lt;p&gt; If the action's {@code run} method throws an (unchecked)&#10;     * exception, it will propagate through this method.&#10;     *&#10;     * &lt;p&gt; Note that any DomainCombiner associated with the current&#10;     * AccessControlContext will be ignored while the action is performed.&#10;     *&#10;     * @param &lt;T&gt; the type of the value returned by the PrivilegedAction's&#10;     *                  {@code run} method.&#10;     *&#10;     * @param action the action to be performed.&#10;     *&#10;     * @return the value returned by the action's {@code run} method.&#10;     *&#10;     * @exception NullPointerException if the action is {@code null}" />
       <item value="Hashed Wheel Bucket" />
-      <item value="normalized Ticks Per Wheel" />
-      <item value="check Positive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="661" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="ENGLISH" value="649" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
