@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stream Cluster" />
       <item value="truncated" />
       <item value="Complex Transformer" />
       <item value="on Miss Default Value" />
@@ -50,12 +51,11 @@
       <item value=" * {@code ClassLoader} that does &lt;i&gt;not&lt;/i&gt; always delegate to the parent loader&#10; * as normal class loaders do. This enables, for example, instrumentation to be&#10; * forced in the overriding ClassLoader, or a &quot;throwaway&quot; class loading behavior&#10; * where selected application classes are temporarily loaded in the overriding&#10; * {@code ClassLoader} for introspection purposes before eventually loading an&#10; * instrumented version of the class in the given parent {@code ClassLoader}.&#10; *" />
       <item value="subtype" />
       <item value="Caller Sensitive" />
-      <item value="     * Returns the context ClassLoader for this Thread. The context&#10;     * ClassLoader is provided by the creator of the thread for use&#10;     * by code running in this thread when loading classes and resources.&#10;     * If not {@linkplain #setContextClassLoader set}, the default is the&#10;     * ClassLoader context of the parent Thread. The context ClassLoader of the&#10;     * primordial thread is typically set to the class loader used to load the&#10;     * application.&#10;     *&#10;     * &lt;p&gt;If a security manager is present, and the invoker's class loader is not&#10;     * {@code null} and is not the same as or an ancestor of the context class&#10;     * loader, then this method invokes the security manager's {@link&#10;     * SecurityManager#checkPermission(java.security.Permission) checkPermission}&#10;     * method with a {@link RuntimePermission RuntimePermission}{@code&#10;     * (&quot;getClassLoader&quot;)} permission to verify that retrieval of the context&#10;     * class loader is permitted." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="654" />
+        <entry key="ENGLISH" value="655" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660817696460" />
+    <option name="lastTrimTime" value="1661304964425" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
