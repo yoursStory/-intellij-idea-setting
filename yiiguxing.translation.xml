@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Comparable" />
+      <item value="comparable" />
+      <item value="delta" />
       <item value="Round Robin Load Balancer" />
       <item value="Noop Service Instance List Supplier" />
       <item value="Stream Cluster" />
@@ -48,14 +51,11 @@
       <item value="is Eligible For Overriding" />
       <item value="     * Returns a set backed by the specified map.  The resulting set displays&#10;     * the same ordering, concurrency, and performance characteristics as the&#10;     * backing map.  In essence, this factory method provides a {@link Set}&#10;     * implementation corresponding to any {@link Map} implementation.  There&#10;     * is no need to use this method on a {@link Map} implementation that&#10;     * already has a corresponding {@link Set} implementation (such as {@link&#10;     * HashMap} or {@link TreeMap}).&#10;     *&#10;     * &lt;p&gt;Each method invocation on the set returned by this method results in&#10;     * exactly one method invocation on the backing map or its &lt;tt&gt;keySet&lt;/tt&gt;&#10;     * view, with one exception.  The &lt;tt&gt;addAll&lt;/tt&gt; method is implemented&#10;     * as a sequence of &lt;tt&gt;put&lt;/tt&gt; invocations on the backing map.&#10;     *&#10;     * &lt;p&gt;The specified map must be empty at the time this method is invoked,&#10;     * and should not be accessed directly after this method returns.  These&#10;     * conditions are ensured if the map is created empty, passed directly&#10;     * to this method, and no reference to the map is retained, as illustrated&#10;     * in the following code fragment:&#10;     * &lt;pre&gt;" />
       <item value="     * Returns a set backed by the specified map.  The resulting set displays&#10;     * the same ordering, concurrency, and performance characteristics as the&#10;     * backing map.  In essence, this factory method provides a {@link Set}&#10;     * implementation corresponding to any {@link Map} implementation.  There&#10;     * is no need to use this method on a {@link Map} implementation that&#10;     * already has a corresponding {@link Set} implementation (such as {@link&#10;     * HashMap} or {@link TreeMap}).&#10;     *&#10;     * &lt;p&gt;Each method invocation on the set returned by this method results in&#10;     * exactly one method invocation on the backing map or its &lt;tt&gt;keySet&lt;/tt&gt;&#10;     * view, with one exception.  The &lt;tt&gt;addAll&lt;/tt&gt; method is implemented&#10;     * as a sequence of &lt;tt&gt;put&lt;/tt&gt; invocations on the backing map.&#10;     *&#10;     * &lt;p&gt;The specified map must be empty at the time this method is invoked,&#10;     * and should not be accessed directly after this method returns.  These&#10;     * conditions are ensured if the map is created empty, passed directly&#10;     * to this method, and no reference to the map is retained, as illustrated&#10;     * in the following code fragment:&#10;     * &lt;pre&gt;&#10;     *    Set&amp;lt;Object&amp;gt; weakHashSet = Collections.newSetFromMap(&#10;     *        new WeakHashMap&amp;lt;Object, Boolean&amp;gt;());&#10;     * &lt;/pre&gt;" />
-      <item value="override Delegate" />
-      <item value="     * Registers the caller as parallel capable.&#10;     * The registration succeeds if and only if all of the following&#10;     * conditions are met:&#10;     * &lt;ol&gt;&#10;     * &lt;li&gt; no instance of the caller has been created&lt;/li&gt;&#10;     * &lt;li&gt; all of the super classes (except class Object) of the caller are&#10;     * registered as parallel capable&lt;/li&gt;&#10;     * &lt;/ol&gt;&#10;     * &lt;p&gt;Note that once a class loader is registered as parallel capable, there&#10;     * is no way to change it back.&lt;/p&gt;&#10;     *&#10;     * @return  true if the caller is successfully registered as&#10;     *          parallel capable and false if otherwise." />
-      <item value=" * {@code ClassLoader} that does &lt;i&gt;not&lt;/i&gt; always delegate to the parent loader&#10; * as normal class loaders do. This enables, for example, instrumentation to be&#10; * forced in the overriding ClassLoader, or a &quot;throwaway&quot; class loading behavior&#10; * where selected application classes are temporarily loaded in the overriding&#10; * {@code ClassLoader} for introspection purposes before eventually loading an&#10; * instrumented version of the class in the given parent {@code ClassLoader}.&#10; *" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="662" />
-        <entry key="ENGLISH" value="657" />
+        <entry key="ENGLISH" value="660" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
