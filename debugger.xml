@@ -86,13 +86,8 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+    </general>
   </component>
 </application>
