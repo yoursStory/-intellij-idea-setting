@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Map Key Genrator" />
+      <item value="Map Key Generator" />
       <item value="全局配置" />
       <item value="@SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that statements in your method body declare they generate.&#10;@SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed checked exception types. The JVM does not check for the consistency of the checked exception system; javac does, and this annotation lets you opt out of its mechanism.&#10;Complete documentation is found at the project lombok features page for @SneakyThrows .&#10;Example:&#10;   @SneakyThrows(UnsupportedEncodingException.class)&#10;   public String utf8ToString(byte[] bytes) {&#10;       return new String(bytes, &quot;UTF-8&quot;);&#10;   }&#10;   &#10;Becomes:&#10;   public String utf8ToString(byte[] bytes) {&#10;       try {&#10;           return new String(bytes, &quot;UTF-8&quot;);&#10;       } catch (UnsupportedEncodingException uniqueName) {&#10;           throw useMagicTrickeryToHideThisFromTheCompiler(uniqueName);&#10;            This trickery involves a bytecode transformer run automatically during the final stages of compilation;&#10;            there is no runtime dependency on lombok.&#10;       }&#10;   " />
       <item value="Inclusion mechanism similar to PROPERTY with respect to deserialization; but one that is produced by a &quot;regular&quot; accessible property during serialization. This means that TypeSerializer will do nothing, and expects a property with defined name to be output using some other mechanism (like default POJO property serialization, or custom serializer).&#10;Note that this behavior is quite similar to that of using JsonTypeId annotation; except that here TypeSerializer is basically suppressed; whereas with JsonTypeId, output of regular property is suppressed. This mostly matters with respect to output order; this choice is the only way to ensure specific placement of type id during serialization.&#10;自:&#10;2.3.0 but databind only since 2.5.0." />
@@ -49,12 +51,10 @@
       <item value="create Contextual" />
       <item value=" * Add-on interface that {@link JsonSerializer}s can implement to get a callback&#10; * that can be used to create contextual instances of serializer to use for&#10; * handling properties of supported type. This can be useful&#10; * for serializers that can be configured by annotations, or should otherwise&#10; * have differing behavior depending on what kind of property is being serialized.&#10; *&lt;p&gt;&#10; * Note that in cases where serializer needs both contextualization and&#10; * resolution -- that is, implements both this interface and {@link ResolvableSerializer}&#10; * -- resolution via {@link ResolvableSerializer} occurs first, and contextual&#10; * resolution (via this interface) later on." />
       <item value="     * Method called to see if a different (or differently configured) serializer&#10;     * is needed to serialize values of specified property.&#10;     * Note that instance that this method is called on is typically shared one and&#10;     * as a result method should &lt;b&gt;NOT&lt;/b&gt; modify this instance but rather construct&#10;     * and return a new instance. This instance should only be returned as-is, in case&#10;     * it is already suitable for use.&#10;     * &#10;     * @param prov Serializer provider to use for accessing config, other serializers&#10;     * @param property Method or field that represents the property&#10;     *   (and is used to access value to serialize).&#10;     *   Should be available; but there may be cases where caller cannot provide it and&#10;     *   null is passed instead (in which case impls usually pass 'this' serializer as is)&#10;     * &#10;     * @return Serializer to use for serializing values of specified property;&#10;     *   may be this instance or a new instance." />
-      <item value="Desensitize" />
-      <item value="Phone Desensitize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="672" />
+        <entry key="CHINESE" value="674" />
         <entry key="ENGLISH" value="673" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
