@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finger For Save Buffer" />
+      <item value="Retains only the elements in this set that are contained in the specified collection (optional operation). In other words, removes from this set all of its elements that are not contained in the specified collection. If the specified collection is also a set, this operation effectively modifies this set so that its value is the intersection of the two sets.&#10;形参:&#10;c – collection containing elements to be retained in this set&#10;返回值:&#10;true if this set changed as a result of the call&#10;抛出:&#10;UnsupportedOperationException – if the retainAll operation is not supported by this set&#10;ClassCastException – if the class of an element of this set is incompatible with the specified collection (optional)&#10;NullPointerException – if this set contains a null element and the specified collection does not permit null elements (optional), or if the specified collection is null&#10;请参阅:&#10;" />
       <item value="origenal" />
       <item value="handle" />
       <item value="audio" />
@@ -49,13 +51,11 @@
       <item value="is Assignable From" />
       <item value="  * Determines if the class or interface represented by this&#10;     * {@code Class} object is either the same as, or is a superclass or&#10;     * superinterface of, the class or interface represented by the specified&#10;     * {@code Class} parameter. It returns {@code true} if so;&#10;     * otherwise it returns {@code false}. If this {@code Class}&#10;     * object represents a primitive type, this method returns&#10;     * {@code true} if the specified {@code Class} parameter is&#10;     * exactly this {@code Class} object; otherwise it returns&#10;     * {@code false}.&#10;     *&#10;     * &lt;p&gt; Specifically, this method tests whether the type represented by the&#10;     * specified {@code Class} parameter can be converted to the type&#10;     * represented by this {@code Class} object via an identity conversion&#10;     * or via a widening reference conversion. See &lt;cite&gt;The Java Language&#10;     * Specification&lt;/cite&gt;, sections {@jls 5.1.1} and {@jls 5.1.4},&#10;     * for details." />
       <item value="structured" />
-      <item value="compared" />
-      <item value=" * Vanilla {@link com.fasterxml.jackson.databind.Module} implementation that allows registration&#10; * of serializers and deserializers, bean serializer&#10; * and deserializer modifiers, registration of subtypes and mix-ins&#10; * as well as some other commonly&#10; * needed aspects (addition of custom {@link AbstractTypeResolver}s,&#10; * {@link com.fasterxml.jackson.databind.deser.ValueInstantiator}s).&#10; *&lt;p&gt;&#10; * NOTE: although it is not expected that sub-types should need to&#10; * override {@link #setupModule(SetupContext)} method, if they choose&#10; * to do so they MUST call {@code super.setupModule(context);}&#10; * to ensure that registration works as expected.&#10; *&lt;p&gt;&#10; * WARNING: when registering {@link JsonSerializer}s and {@link JsonDeserializer}s,&#10; * only type erased {@code Class} is compared: this means that usually you should&#10; * NOT use this implementation for registering structured types such as&#10; * {@link java.util.Collection}s or {@link java.util.Map}s: this because parametric&#10; * type information will not be considered and you may end up having &quot;wrong&quot; handler&#10; * for your type.&#10; * What you need to do, instead, is to implement {@link com.fasterxml.jackson.databind.deser.Deserializers} &#10; * and/or {@link com.fasterxml.jackson.databind.ser.Serializers} callbacks to match full type&#10; * signatures (with {@link JavaType})." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="676" />
+        <entry key="CHINESE" value="677" />
+        <entry key="ENGLISH" value="678" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
