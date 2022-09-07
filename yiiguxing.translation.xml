@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="handle" />
       <item value="audio" />
       <item value="Map Key Genrator" />
       <item value="Map Key Generator" />
@@ -50,12 +51,11 @@
       <item value="compared" />
       <item value=" * Vanilla {@link com.fasterxml.jackson.databind.Module} implementation that allows registration&#10; * of serializers and deserializers, bean serializer&#10; * and deserializer modifiers, registration of subtypes and mix-ins&#10; * as well as some other commonly&#10; * needed aspects (addition of custom {@link AbstractTypeResolver}s,&#10; * {@link com.fasterxml.jackson.databind.deser.ValueInstantiator}s).&#10; *&lt;p&gt;&#10; * NOTE: although it is not expected that sub-types should need to&#10; * override {@link #setupModule(SetupContext)} method, if they choose&#10; * to do so they MUST call {@code super.setupModule(context);}&#10; * to ensure that registration works as expected.&#10; *&lt;p&gt;&#10; * WARNING: when registering {@link JsonSerializer}s and {@link JsonDeserializer}s,&#10; * only type erased {@code Class} is compared: this means that usually you should&#10; * NOT use this implementation for registering structured types such as&#10; * {@link java.util.Collection}s or {@link java.util.Map}s: this because parametric&#10; * type information will not be considered and you may end up having &quot;wrong&quot; handler&#10; * for your type.&#10; * What you need to do, instead, is to implement {@link com.fasterxml.jackson.databind.deser.Deserializers} &#10; * and/or {@link com.fasterxml.jackson.databind.ser.Serializers} callbacks to match full type&#10; * signatures (with {@link JavaType})." />
       <item value="create Contextual" />
-      <item value=" * Add-on interface that {@link JsonSerializer}s can implement to get a callback&#10; * that can be used to create contextual instances of serializer to use for&#10; * handling properties of supported type. This can be useful&#10; * for serializers that can be configured by annotations, or should otherwise&#10; * have differing behavior depending on what kind of property is being serialized.&#10; *&lt;p&gt;&#10; * Note that in cases where serializer needs both contextualization and&#10; * resolution -- that is, implements both this interface and {@link ResolvableSerializer}&#10; * -- resolution via {@link ResolvableSerializer} occurs first, and contextual&#10; * resolution (via this interface) later on." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="674" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="ENGLISH" value="675" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
