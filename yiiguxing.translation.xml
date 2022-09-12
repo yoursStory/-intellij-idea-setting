@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="  JSON Message converter - {@code Bytes} on output, String, Bytes, or byte[] on input.&#10;  Used in conjunction with Kafka&#10;  {@code BytesSerializer(BytesDeserializer, ByteArrayDeserializer, or StringDeserializer)}.&#10;  More efficient than {@link StringJsonMessageConverter} because the&#10;  {@code String&lt;-&gt;byte[]} conversion is avoided.&#10; &#10;  @author Gary Russell" />
+      <item value="  JSON Message converter - {@code byte[]} on output, String, Bytes, or byte[] on input.&#10;  Used in conjunction with Kafka&#10;  {@code ByteArraySerializer(ByteArrayDeserializer, BytesDeserializer, or StringDeserializer)}.&#10;  More efficient than {@link StringJsonMessageConverter} because the&#10;  {@code String&lt;-&gt;byte[]} conversion is avoided." />
       <item value="      Overridable method that determines {@link SerializationFeature} that is used as&#10;      the global default in determining if datetime value serialized should use numeric&#10;      format (&quot;timestamp&quot;) or not.&#10;     &lt;p&gt;&#10;      Note that this feature is just the baseline setting and may be overridden on per-type&#10;      or per-property basis." />
       <item value="accpet" />
       <item value="      Constructs an empty array deque with an initial capacity&#10;      sufficient to hold the specified number of elements.&#10;     &#10;      @param numElements lower bound on initial capacity of the deque" />
@@ -49,13 +51,11 @@
       <item value="  Instances of this class support both reading and writing to a&#10;  random access file. A random access file behaves like a large&#10;  array of bytes stored in the file system. There is a kind of cursor,&#10;  or index into the implied array, called the &lt;em&gt;file pointer&lt;em&gt;;&#10;  input operations read bytes starting at the file pointer and advance&#10;  the file pointer past the bytes read. If the random access file is&#10;  created in readwrite mode, then output operations are also available;&#10;  output operations write bytes starting at the file pointer and advance&#10;  the file pointer past the bytes written. Output operations that write&#10;  past the current end of the implied array cause the array to be&#10;  extended. The file pointer can be read by the&#10;  {@code getFilePointer} method and set by the {@code seek}&#10;  method.&#10;  &lt;p&gt;&#10;  It is generally true of all the reading routines in this class that&#10;  if end-of-file is reached before the desired number of bytes has been&#10;  read, an {@code EOFException} (which is a kind of&#10;  {@code IOException}) is thrown. If any byte cannot be read for&#10;  any reason other than end-of-file, an {@code IOException} other&#10;  than {@code EOFException} is thrown. In particular, an&#10;  {@code IOException} may be thrown if the stream has been closed." />
       <item value="Reads in &lt;b&gt;little endian&lt;b&gt; order, as required by the zipfile&#10;  format." />
       <item value="max Fill Read Capacity" />
-      <item value="      Waits at most {@code millis} milliseconds for this thread to&#10;      die. A timeout of {@code 0} means to wait forever.&#10;     &#10;      &lt;p&gt; This implementation uses a loop of {@code this.wait} calls&#10;      conditioned on {@code this.isAlive}. As a thread terminates the&#10;      {@code this.notifyAll} method is invoked. It is recommended that&#10;      applications not use {@code wait}, {@code notify}, or&#10;      {@code notifyAll} on {@code Thread} instances." />
-      <item value="Method called to assign value serializer for property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="683" />
-        <entry key="ENGLISH" value="684" />
+        <entry key="CHINESE" value="685" />
+        <entry key="ENGLISH" value="686" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662530711519" />
+    <option name="lastTrimTime" value="1662977620647" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
