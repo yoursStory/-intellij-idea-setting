@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Msg Producer" />
       <item value="invalid Stream Id Counter" />
       <item value="image Crc Counter" />
       <item value="audio Crc Suc Counter" />
@@ -50,12 +51,11 @@
       <item value="字典" />
       <item value="Complex Transformer Proxy" />
       <item value="  Like the assembly:attached goal, assemble an application bundle or&#10;  distribution using an assembly descriptor from the command line. This goal&#10;  will force Maven to build all included POMs up to the package phase BEFORE the&#10;  assembly is processed. This goal differs from assembly:assembly in that it&#10;  ignores the &lt;formats&gt; section of the assembly descriptor, and forces the&#10;  assembly to be created as a directory in the project's build-output directory&#10;  (usually .target).&#10;  This goal is also functionally equivalent to using the assembly:assembly goal&#10;  in conjunction with the dir assembly format.&#10;  NOTE: This goal should ONLY be run from the command line, and if building a&#10;  multimodule project it should be used from the root POM. Use the&#10;  assembly:directory-single goal for binding your assembly to the lifecycle." />
-      <item value="Assemble an application bundle or distribution using an assembly descriptor&#10;  from the command line. This goal will force Maven to build all included POMs&#10;  up to the package phase BEFORE the assembly is processed.&#10;  NOTE: This goal should ONLY be run from the command line, and if building a&#10;  multimodule project it should be used from the root POM. Use the&#10;  assembly:single goal for binding your assembly to the lifecycle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="697" />
-        <entry key="ENGLISH" value="698" />
+        <entry key="CHINESE" value="698" />
+        <entry key="ENGLISH" value="699" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
