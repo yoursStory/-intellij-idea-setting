@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compares this date-time to another date-time.&#10;The comparison is primarily based on the date-time, from earliest to latest. It is &quot;consistent with equals&quot;, as defined by Comparable.&#10;If all the date-times being compared are instances of LocalDateTime, then the comparison will be entirely based on the date-time. If some dates being compared are in different chronologies, then the chronology is also considered, see ChronoLocalDateTime.compareTo.&#10;Params:&#10;other – the other date-time to compare to, not null&#10;Returns:&#10;the comparator value, negative if less, positive if greater" />
       <item value="content" />
       <item value="restore" />
       <item value="actions Collector" />
@@ -50,12 +51,11 @@
       <item value="Definition of different type identifiers that can be included in JSON during serialization, and used for deserialization." />
       <item value="Comparable" />
       <item value="comparable" />
-      <item value="delta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="709" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="CHINESE" value="710" />
+        <entry key="ENGLISH" value="711" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
