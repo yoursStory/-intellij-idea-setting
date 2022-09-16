@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
       <item value="actions Collector" />
       <item value="Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer. Special cases:&#10;If the argument value is already equal to a mathematical integer, then the result is the same as the argument.&#10;If the argument is NaN or an infinity or positive zero or negative zero, then the result is the same as the argument.&#10;If the argument value is less than zero but greater than -1.0, then the result is negative zero.&#10;Note that the value of Math.ceil(x) is exactly the value of -Math.floor(-x).&#10;Params:&#10;a – a value.&#10;Returns:&#10;the smallest (closest to negative infinity) floating-point value that is greater than or equal to the argument and is equal to a mathematical integer." />
       <item value="ceil" />
@@ -50,12 +51,11 @@
       <item value="comparable" />
       <item value="delta" />
       <item value="Round Robin Load Balancer" />
-      <item value="Noop Service Instance List Supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="707" />
-        <entry key="ENGLISH" value="708" />
+        <entry key="CHINESE" value="708" />
+        <entry key="ENGLISH" value="709" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
