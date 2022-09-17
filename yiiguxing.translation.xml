@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="F Fmpeg Frame Grabber" />
       <item value="nnotation which indicates that a method parameter should be bound to a web request parameter.&#10;Supported for annotated handler methods in Spring MVC and Spring WebFlux as follows:&#10;In Spring MVC, &quot;request parameters&quot; map to query parameters, form data, and parts in multipart requests. This is because the Servlet API combines query parameters and form data into a single map called &quot;parameters&quot;, and that includes automatic parsing of the request body.&#10;In Spring WebFlux, &quot;request parameters&quot; map to query parameters only. To work with all 3, query, form data, and multipart data, you can use data binding to a command object annotated with ModelAttribute.&#10;If the method parameter type is Map and a request parameter name is specified, then the request parameter value is converted to a Map assuming an appropriate conversion strategy is available.&#10;If the method parameter is Map&lt;String, String&gt; or MultiValueMap&lt;String, String&gt; and a parameter name is not specified, then the map parameter is populated with all request parameter names" />
       <item value="Compares this date-time to another date-time.&#10;The comparison is primarily based on the date-time, from earliest to latest. It is &quot;consistent with equals&quot;, as defined by Comparable.&#10;If all the date-times being compared are instances of LocalDateTime, then the comparison will be entirely based on the date-time. If some dates being compared are in different chronologies, then the chronology is also considered, see ChronoLocalDateTime.compareTo.&#10;Params:&#10;other – the other date-time to compare to, not null&#10;Returns:&#10;the comparator value, negative if less, positive if greater" />
       <item value="content" />
@@ -50,12 +51,11 @@
       <item value="Means that no serialized typing-property is used. Types are deduced based on the fields available. Deduction is limited to the names of fields (not their values or, consequently, any nested descendants). Exceptions will be thrown if not enough unique information is present to select a single subtype. If deduction is being used annotation properties visible, property and include are ignored." />
       <item value="This means that no explicit type metadata is included, and typing is purely done using contextual information possibly augmented with other annotations." />
       <item value="Definition of different type identifiers that can be included in JSON during serialization, and used for deserialization." />
-      <item value="Comparable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
