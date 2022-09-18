@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="validate" />
       <item value="Initialize the given BeanWrapper with the custom editors registered with this factory. To be called for BeanWrappers that will create and populate bean instances.&#10;The default implementation delegates to registerCustomEditors. Can be overridden in subclasses.&#10;Params:&#10;bw – the BeanWrapper to initialize" />
       <item value="This annotation has been deprecated as of the 3.0.1 release.&#10;  &lt;code&gt;@EnableDiscoveryClient&lt;code&gt; is no longer needed, discovery client&#10;  implementations are enabled as long as an implementation is on the classpath.&#10;  &lt;code&gt;@EnableCircuitBreaker&lt;code&gt; is no longer used now that Hystrix has been removed&#10;  from Spring Cloud." />
       <item value="iptv hash consistency VIDEO FILE" />
@@ -50,12 +51,11 @@
       <item value="@SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that statements in your method body declare they generate.&#10;@SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed checked exception types. The JVM does not check for the consistency of the checked exception system; javac does, and this annotation lets you opt out of its mechanism.&#10;Complete documentation is found at the project lombok features page for @SneakyThrows .&#10;Example:&#10;   @SneakyThrows(UnsupportedEncodingException.class)&#10;   public String utf8ToString(byte[] bytes) {&#10;       return new String(bytes, &quot;UTF-8&quot;);&#10;   }&#10;   &#10;Becomes:&#10;   public String utf8ToString(byte[] bytes) {&#10;       try {&#10;           return new String(bytes, &quot;UTF-8&quot;);&#10;       } catch (UnsupportedEncodingException uniqueName) {&#10;           throw useMagicTrickeryToHideThisFromTheCompiler(uniqueName);&#10;            This trickery involves a bytecode transformer run automatically during the final stages of compilation;&#10;            there is no runtime dependency on lombok.&#10;       }&#10;   " />
       <item value="Inclusion mechanism similar to PROPERTY with respect to deserialization; but one that is produced by a &quot;regular&quot; accessible property during serialization. This means that TypeSerializer will do nothing, and expects a property with defined name to be output using some other mechanism (like default POJO property serialization, or custom serializer).&#10;Note that this behavior is quite similar to that of using JsonTypeId annotation; except that here TypeSerializer is basically suppressed; whereas with JsonTypeId, output of regular property is suppressed. This mostly matters with respect to output order; this choice is the only way to ensure specific placement of type id during serialization.&#10;自:&#10;2.3.0 but databind only since 2.5.0." />
       <item value="Inclusion mechanism that wraps typed JSON value (POJO serialized as JSON) in a 2-element JSON array: first element is the serialized type identifier, and second element the serialized POJO as JSON Object." />
-      <item value="Inclusion mechanism that wraps typed JSON value (POJO serialized as JSON) in a JSON Object that has a single entry, where field name is serialized type identifier, and value is the actual JSON value.&#10;Note: can only be used if type information can be serialized as String. This is true for standard type metadata types, but not necessarily for custom types." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="717" />
-        <entry key="ENGLISH" value="718" />
+        <entry key="CHINESE" value="718" />
+        <entry key="ENGLISH" value="719" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
