@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="combine Predicates" />
       <item value="Returns a view of the portion of this map whose keys are greater than or equal to fromKey. The returned map is backed by this map, so changes in the returned map are reflected in this map, and vice-versa. The returned map supports all optional map operations that this map supports.&#10;The returned map will throw an IllegalArgumentException on an attempt to insert a key outside its range.&#10;Params:&#10;fromKey – low endpoint (inclusive) of the keys in the returned map&#10;Returns:&#10;a view of the portion of this map whose keys are greater than or equal to fromKey&#10;Throws:&#10;ClassCastException – if fromKey is not compatible with this map's comparator (or, if the map has no comparator, if fromKey does not implement Comparable). Implementations may, but are not required to, throw this exception if fromKey cannot be compared to keys currently in the map.&#10;NullPointerException – if fromKey is null and this map does not permit null keys&#10;IllegalArgumentException – if this map itself has a restricted range, and fromKey lies outside the bounds of the range" />
       <item value="The prefix of the properties that are valid to bind to this object. Synonym for prefix(). A valid prefix is defined by one or more words separated with dots (e.g. &quot;acme.system.feature&quot;).&#10;Returns:&#10;the prefix of the properties to bind" />
       <item value="validate" />
@@ -50,12 +51,11 @@
       <item value="Map Key Genrator" />
       <item value="Map Key Generator" />
       <item value="全局配置" />
-      <item value="@SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that statements in your method body declare they generate.&#10;@SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed checked exception types. The JVM does not check for the consistency of the checked exception system; javac does, and this annotation lets you opt out of its mechanism.&#10;Complete documentation is found at the project lombok features page for @SneakyThrows .&#10;Example:&#10;   @SneakyThrows(UnsupportedEncodingException.class)&#10;   public String utf8ToString(byte[] bytes) {&#10;       return new String(bytes, &quot;UTF-8&quot;);&#10;   }&#10;   &#10;Becomes:&#10;   public String utf8ToString(byte[] bytes) {&#10;       try {&#10;           return new String(bytes, &quot;UTF-8&quot;);&#10;       } catch (UnsupportedEncodingException uniqueName) {&#10;           throw useMagicTrickeryToHideThisFromTheCompiler(uniqueName);&#10;            This trickery involves a bytecode transformer run automatically during the final stages of compilation;&#10;            there is no runtime dependency on lombok.&#10;       }&#10;   " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="CHINESE" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
