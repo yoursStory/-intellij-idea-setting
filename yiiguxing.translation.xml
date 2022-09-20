@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="for Each Byte Asc 0" />
       <item value="Get numElements out of the CodecOutputList and forward these through the pipeline." />
       <item value="fire Channel Read" />
       <item value="Returns:&#10;true if the processor wants to continue the loop and handle the next byte in the buffer. false if the processor wants to stop handling bytes and abort the loop." />
@@ -50,12 +51,11 @@
       <item value="      Overridable method that determines {@link SerializationFeature} that is used as&#10;      the global default in determining if datetime value serialized should use numeric&#10;      format (&quot;timestamp&quot;) or not.&#10;     &lt;p&gt;&#10;      Note that this feature is just the baseline setting and may be overridden on per-type&#10;      or per-property basis." />
       <item value="accpet" />
       <item value="      Constructs an empty array deque with an initial capacity&#10;      sufficient to hold the specified number of elements.&#10;     &#10;      @param numElements lower bound on initial capacity of the deque" />
-      <item value="Circular Fifo Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="731" />
-        <entry key="ENGLISH" value="732" />
+        <entry key="CHINESE" value="732" />
+        <entry key="ENGLISH" value="733" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
