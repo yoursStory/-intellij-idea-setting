@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sub File" />
       <item value="Writes a String to the client, without a carriage return-line feed (CRLF) character at the end.&#10;Params:&#10;s – the String to send to the client&#10;Throws:&#10;IOException – if an input or output exception occurred" />
       <item value="Creates the directory named by this abstract pathname, including any necessary but nonexistent parent directories. Note that if this operation fails it may have succeeded in creating some of the necessary parent directories.&#10;Returns:&#10;true if and only if the directory was created, along with all necessary parent directories; false otherwise&#10;Throws:&#10;SecurityException – If a security manager exists and its SecurityManager.checkRead(String) method does not permit verification of the existence of the named directory and all necessary parent directories; or if the SecurityManager.checkWrite(String) method does not permit the named directory and all necessary parent directories to be created" />
       <item value="Obtains an instance of LocalDate from the epoch day count.&#10;This returns a LocalDate with the specified epoch-day. The EPOCH_DAY is a simple incrementing count of days where day 0 is 1970-01-01. Negative numbers represent earlier days.&#10;Params:&#10;epochDay – the Epoch Day to convert, based on the epoch 1970-01-01&#10;Returns:&#10;the local date, not null&#10;Throws:&#10;DateTimeException – if the epoch day exceeds the supported date range" />
@@ -50,12 +51,11 @@
       <item value="alarm Check" />
       <item value="notice Source Alarm" />
       <item value="negative" />
-      <item value="Checksum State Enum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="737" />
-        <entry key="ENGLISH" value="738" />
+        <entry key="CHINESE" value="738" />
+        <entry key="ENGLISH" value="739" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
