@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A Round-Robin-based implementation of ReactorServiceInstanceLoadBalancer.&#10;Author:&#10;Spencer Gibb, Olga Maciaszek-Sharma" />
+      <item value="A no-op implementation of ServiceInstanceListSupplier." />
       <item value="Return a builder to mutate properties of this request by wrapping it with ServerHttpRequestDecorator and returning either mutated values or delegating back to this instance." />
       <item value=" Preserve-Host header attribute name" />
       <item value="preserve the original url" />
@@ -49,13 +51,11 @@
       <item value="image Crc Counter" />
       <item value="audio Crc Suc Counter" />
       <item value="invalid Stream Id Conuter" />
-      <item value="finger Conutor" />
-      <item value="finger Conuter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
-        <entry key="ENGLISH" value="744" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="4" />
         <entry key="FRENCH" value="4" />
