@@ -11,6 +11,24 @@
             </list>
           </option>
         </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="INSIGHT_LIVE_S02" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
       </list>
     </option>
     <option name="profiles">
