@@ -90,5 +90,12 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
       <option name="hideDebuggerOnProcessTermination" value="true" />
     </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
   </component>
 </application>
