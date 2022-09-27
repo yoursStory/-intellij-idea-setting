@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="  Provides constants for paths in the {@code proc} filesystem on Linux.&#10;  &lt;p&gt;&#10;  If the user desires to configure a custom {@code proc} path, it must be&#10;  declared in the OSHI configuration file or updated in the&#10;  {@link GlobalConfig} class prior to initializing this class." />
+      <item value="      Updates instance variables from reading procmeminfo. While most of the&#10;      information is available in the sysinfo structure, the most accurate&#10;      calculation of MemAvailable is only available from reading this pseudo-file.&#10;      The maintainers of the Linux Kernel have indicated this location will be kept&#10;      up to date if the calculation changes: see&#10;      https:git.kernel.orgcgitlinuxkernelgittorvaldslinux.gitcommit?&#10;      id=34e431b0ae398fc54ea69ff85ec700722c9da773&#10;      &lt;p&gt;&#10;      Internally, reading procmeminfo is faster than sysinfo because it only&#10;      spends time populating the memory components of the sysinfo structure.&#10;     &#10;      @return A pair containing available and total memory in bytes" />
+      <item value=" The Firmware represents the low level BIOS or equivalent." />
+      <item value="  Display refers to the information regarding a video source and monitor&#10;  identified by the EDID standard." />
+      <item value="  The presence of this annotation indicates that the author believes the class&#10;  is not thread-safe. The absence of this annotation does not indicate that the&#10;  class is thread-safe, instead this annotation is for cases where a naïve&#10;  assumption could be easily made that the class is thread-safe. In general, it&#10;  is a bad plan to assume a class is thread safe without good reason.&#10;  &lt;p&gt;&#10;  This annotation is intended for internal use in OSHI as a temporary&#10;  workaround until it is available in {@code jakarta.annotations}." />
+      <item value="  The presence of this annotation indicates that the author believes the class&#10;  to be immutable and hence inherently thread-safe. An immutable class is one&#10;  where the state of an instance cannot be &lt;i&gt;seen&lt;i&gt; to change. As a result&#10;  &lt;ul&gt;&#10;  &lt;li&gt;All public fields must be {@code final}&lt;li&gt;&#10;  &lt;li&gt;All public final reference fields are either {@code null} or refer to&#10;  other immutable objects&lt;li&gt;&#10;  &lt;li&gt;Constructors and methods do not publish references to any potentially&#10;  mutable internal state.&lt;li&gt;&#10;  &lt;ul&gt;&#10;  Performance optimization may mean that instances of an immutable class may&#10;  have mutable internal state. The critical point is that callers cannot tell&#10;  the difference. For example {@link String} is an immutable class, despite&#10;  having an internal int that is non-final but used as a cache for&#10;  {@link StringhashCode()}.&#10;  &lt;p&gt;&#10;  Immutable objects are inherently thread-safe; they may be passed between&#10;  threads or published without synchronization.&#10;  &lt;p&gt;&#10;  This annotation is intended for internal use in OSHI as a temporary&#10;  workaround until it is available in {@code jakarta.annotations}." />
       <item value="A custom @Configuration for the load balancer client. Can contain override @Bean definition for the pieces that make up the client.&#10;Returns:&#10;configuration classes for the load balancer client.&#10;See Also:&#10;for the defaults" />
       <item value="The name of the load balancer client, uniquely identifying a set of client resources, including a load balancer.&#10;Returns:&#10;the name of the load balancer client" />
       <item value="A Round-Robin-based implementation of ReactorServiceInstanceLoadBalancer.&#10;Author:&#10;Spencer Gibb, Olga Maciaszek-Sharma" />
@@ -45,12 +51,6 @@
       <item value="Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer. Special cases:&#10;If the argument value is already equal to a mathematical integer, then the result is the same as the argument.&#10;If the argument is NaN or an infinity or positive zero or negative zero, then the result is the same as the argument.&#10;If the argument value is less than zero but greater than -1.0, then the result is negative zero.&#10;Note that the value of Math.ceil(x) is exactly the value of -Math.floor(-x).&#10;Params:&#10;a – a value.&#10;Returns:&#10;the smallest (closest to negative infinity) floating-point value that is greater than or equal to the argument and is equal to a mathematical integer." />
       <item value="ceil" />
       <item value="floor" />
-      <item value="Unit that represents the concept of a millisecond. For the ISO calendar system, it is equal to the 1000th part of the second u" />
-      <item value="Obtains a Duration representing the duration between two temporal objects.&#10;This calculates the duration between two temporal objects. If the objects are of different types, then the duration is calculated based on the type of the first object. For example, if the first argument is a LocalTime then the second argument is converted to a LocalTime.&#10;The specified temporal objects must support the SECONDS unit. For full accuracy, either the NANOS unit or the NANO_OF_SECOND field should be supported.&#10;The result of this method can be a negative period if the end is before the start. To guarantee to obtain a positive duration call abs() on the result.&#10;Params:&#10;startInclusive – the start instant, inclusive, not null&#10;endExclusive – the end instant, exclusive, not null" />
-      <item value="Temporal" />
-      <item value="Msg Producer" />
-      <item value="invalid Stream Id Counter" />
-      <item value="image Crc Counter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663414120938" />
+    <option name="lastTrimTime" value="1664248295077" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
