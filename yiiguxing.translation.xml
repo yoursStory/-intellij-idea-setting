@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="    &#10;      Updates interface network statistics on this interface. Statistics include&#10;      packets and bytes sent and received, and interface speed.&#10;     &#10;      @return {@code true} if the update was successful, {@code false} otherwise.&#10;     " />
+      <item value="      Instantiates a list of {@link LogicalVolumeGroup} objects, representing a&#10;      storage pool or group of devices, partitions, volumes, or other&#10;      implementation specific means of file storage.&#10;      &lt;p&gt;&#10;      If not yet implemented or if logical volume groups do not exist, returns an&#10;      empty list.&#10;      &lt;p&gt;&#10;      Currently implemented for Linux (LVM2), macOS (Core Storage), and Windows&#10;      (Storage Spaces).&#10;     &#10;      @return A list of {@link LogicalVolumeGroup} objects or an empty list if none&#10;              are present." />
+      <item value="      Gets a list of non-local {@link NetworkIF} objects, representing a network&#10;      interface. The list excludes local interfaces.&#10;     &#10;      @return A list of {@link NetworkIF} objects representing the interfaces" />
+      <item value="      Gets a list {@link NetworkIF} objects, representing a network interface.&#10;     &#10;      @param includeLocalInterfaces&#10;                 whether to include local interfaces (loopback or no hardware&#10;                 address) in the result&#10;      @return A list of {@link NetworkIF} objects representing the interfaces" />
+      <item value="      Instantiates a {@link oshi.hardware.Sensors} object, representing CPU&#10;      temperature and fan speed.&#10;     &#10;      @return A Sensors object" />
+      <item value="      Instantiates a list of {@link oshi.hardware.SoundCard} objects, representing&#10;      the Sound cards.&#10;     &#10;      @return A list of SoundCard objects or an empty list if none are present." />
+      <item value="      Retrieves the Video RAM (VRAM) available on the GPU&#10;     &#10;      @return Total number of bytes." />
+      <item value="      Instantiates a list of {@link oshi.hardware.GraphicsCard} objects,&#10;      representing the Graphics cards.&#10;     &#10;      @return A list of objects or an empty list if none are present." />
+      <item value="Microarchitecture" />
       <item value="   Create a new instance of {@link SystemInfo}. This is the main entry point to&#10;      OSHI and provides access to cross-platform code.&#10;      &lt;p&gt;&#10;      Platform-specific Hardware and Software objects are retrieved via memoized&#10;      suppliers. To conserve memory at the cost of additional processing time,&#10;      create a new version of SystemInfo() for subsequent calls. To conserve&#10;      processing time at the cost of additional memory usage, re-use the same&#10;      {@link SystemInfo} object for future queries." />
       <item value="memoized" />
       <item value=" Convenience class for returning multiple objects from methods." />
@@ -42,15 +51,6 @@
       <item value="The prefix of the properties that are valid to bind to this object. Synonym for prefix(). A valid prefix is defined by one or more words separated with dots (e.g. &quot;acme.system.feature&quot;).&#10;Returns:&#10;the prefix of the properties to bind" />
       <item value="validate" />
       <item value="Initialize the given BeanWrapper with the custom editors registered with this factory. To be called for BeanWrappers that will create and populate bean instances.&#10;The default implementation delegates to registerCustomEditors. Can be overridden in subclasses.&#10;Params:&#10;bw – the BeanWrapper to initialize" />
-      <item value="This annotation has been deprecated as of the 3.0.1 release.&#10;  &lt;code&gt;@EnableDiscoveryClient&lt;code&gt; is no longer needed, discovery client&#10;  implementations are enabled as long as an implementation is on the classpath.&#10;  &lt;code&gt;@EnableCircuitBreaker&lt;code&gt; is no longer used now that Hystrix has been removed&#10;  from Spring Cloud." />
-      <item value="iptv hash consistency VIDEO FILE" />
-      <item value="deflate" />
-      <item value="fetch Cover Pic" />
-      <item value="fetch" />
-      <item value="F Fmpeg Frame Grabber" />
-      <item value="nnotation which indicates that a method parameter should be bound to a web request parameter.&#10;Supported for annotated handler methods in Spring MVC and Spring WebFlux as follows:&#10;In Spring MVC, &quot;request parameters&quot; map to query parameters, form data, and parts in multipart requests. This is because the Servlet API combines query parameters and form data into a single map called &quot;parameters&quot;, and that includes automatic parsing of the request body.&#10;In Spring WebFlux, &quot;request parameters&quot; map to query parameters only. To work with all 3, query, form data, and multipart data, you can use data binding to a command object annotated with ModelAttribute.&#10;If the method parameter type is Map and a request parameter name is specified, then the request parameter value is converted to a Map assuming an appropriate conversion strategy is available.&#10;If the method parameter is Map&lt;String, String&gt; or MultiValueMap&lt;String, String&gt; and a parameter name is not specified, then the map parameter is populated with all request parameter names" />
-      <item value="Compares this date-time to another date-time.&#10;The comparison is primarily based on the date-time, from earliest to latest. It is &quot;consistent with equals&quot;, as defined by Comparable.&#10;If all the date-times being compared are instances of LocalDateTime, then the comparison will be entirely based on the date-time. If some dates being compared are in different chronologies, then the chronology is also considered, see ChronoLocalDateTime.compareTo.&#10;Params:&#10;other – the other date-time to compare to, not null&#10;Returns:&#10;the comparator value, negative if less, positive if greater" />
-      <item value="content" />
     </histories>
     <option name="languageScores">
       <map>
