@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="report" />
       <item value="because" />
       <item value="cause" />
       <item value="  Generic {@link org.apache.kafka.common.serialization.Serializer Serializer} for sending&#10;  Java objects to Kafka as JSON.&#10;  &lt;p&gt;&#10;  IMPORTANT: Configuration must be done completely with property setters or via&#10;  {@link configure(Map, boolean)}, not a mixture. If any setters have been called,&#10;  {@link configure(Map, boolean)} will be a no-op.&#10; &#10;  @param &lt;T&gt; class of the entity, representing messages" />
@@ -50,7 +51,6 @@
       <item value="Iterates over the readable bytes of this buffer with the specified processor in ascending order.&#10;Returns:&#10;-1 if the processor iterated to or beyond the end of the readable bytes. The last-visited index If the ByteProcessor.process(byte) returned false." />
       <item value="colon" />
       <item value="Strip Prefix" />
-      <item value="combine Predicates" />
     </histories>
     <option name="languageScores">
       <map>
