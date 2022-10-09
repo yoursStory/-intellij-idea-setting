@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="      @param o1 the first object to be compared.&#10;      @param o2 the second object to be compared.&#10;      @return a negative integer, zero, or a positive integer as the&#10;              first argument is less than, equal to, or greater than the&#10;              second." />
       <item value="report" />
       <item value="because" />
       <item value="cause" />
@@ -50,7 +51,6 @@
       <item value="We return here, this forces decode to be called again where we will decode the content" />
       <item value="Iterates over the readable bytes of this buffer with the specified processor in ascending order.&#10;Returns:&#10;-1 if the processor iterated to or beyond the end of the readable bytes. The last-visited index If the ByteProcessor.process(byte) returned false." />
       <item value="colon" />
-      <item value="Strip Prefix" />
     </histories>
     <option name="languageScores">
       <map>
