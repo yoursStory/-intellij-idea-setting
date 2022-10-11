@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="  &amp;64;SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that&#10;  statements in your method body declare they generate.&#10;  &lt;p&gt;&#10;  &amp;64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed&#10;  checked exception types. The JVM does not check for the consistency of the checked exception system; javac does,&#10;  and this annotation lets you opt out of its mechanism.&#10;  &lt;p&gt;&#10;  Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesSneakyThrows&quot;&gt;the project lombok features page for &amp;64;SneakyThrows&lt;a&gt;.&#10;  &lt;p&gt;&#10;  Example:" />
       <item value="decorate" />
       <item value="      &lt;p&gt;This method eliminates the need for explicit range operations (of&#10;      the sort that commonly exist for arrays).  Any operation that expects&#10;      a list can be used as a range operation by passing a subList view&#10;      instead of a whole list.  For example, the following idiom&#10;      removes a range of elements from a list:&#10;      &lt;pre&gt;&#10;           list.subList(from, to).clear();&#10;      &lt;pre&gt;&#10;      Similar idioms may be constructed for {@link indexOf(Object)} and&#10;      {@link lastIndexOf(Object)}, and all of the algorithms in the&#10;      {@link Collections} class can be applied to a subList.&#10;     &#10;      &lt;p&gt;The semantics of the list returned by this method become undefined if&#10;      the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in&#10;      any way other than via the returned list.  (Structural modifications are&#10;      those that change the size of this list, or otherwise perturb it in such&#10;      a fashion that iterations in progress may yield incorrect results.)" />
       <item value="相似度" />
@@ -50,7 +51,6 @@
       <item value="Obtains an instance of LocalDateTime using seconds from the epoch of 1970-01-01T00:00:00Z.&#10;This allows the epoch-second field to be converted to a local date-time. This is primarily intended for low-level conversions rather than general application usage.&#10;Params:&#10;epochSecond – the number of seconds from the epoch of 1970-01-01T00:00:00Z&#10;nanoOfSecond – the nanosecond within the second, from 0 to 999,999,999&#10;offset – the zone offset, not null&#10;Returns:&#10;the local date-time, not null&#10;Throws:&#10;DateTimeException – if the result exceeds the supported range, or if the nano-of-second is invalid" />
       <item value="subfix" />
       <item value="for Each Byte Asc 0" />
-      <item value="Get numElements out of the CodecOutputList and forward these through the pipeline." />
     </histories>
     <option name="languageScores">
       <map>
