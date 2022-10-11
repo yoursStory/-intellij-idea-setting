@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decorate" />
       <item value="      &lt;p&gt;This method eliminates the need for explicit range operations (of&#10;      the sort that commonly exist for arrays).  Any operation that expects&#10;      a list can be used as a range operation by passing a subList view&#10;      instead of a whole list.  For example, the following idiom&#10;      removes a range of elements from a list:&#10;      &lt;pre&gt;&#10;           list.subList(from, to).clear();&#10;      &lt;pre&gt;&#10;      Similar idioms may be constructed for {@link indexOf(Object)} and&#10;      {@link lastIndexOf(Object)}, and all of the algorithms in the&#10;      {@link Collections} class can be applied to a subList.&#10;     &#10;      &lt;p&gt;The semantics of the list returned by this method become undefined if&#10;      the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in&#10;      any way other than via the returned list.  (Structural modifications are&#10;      those that change the size of this list, or otherwise perturb it in such&#10;      a fashion that iterations in progress may yield incorrect results.)" />
       <item value="相似度" />
       <item value="multiply" />
@@ -50,7 +51,6 @@
       <item value="subfix" />
       <item value="for Each Byte Asc 0" />
       <item value="Get numElements out of the CodecOutputList and forward these through the pipeline." />
-      <item value="fire Channel Read" />
     </histories>
     <option name="languageScores">
       <map>
