@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Xdr Query" />
       <item value="Dimension" />
       <item value="      &lt;p&gt;Populate the JavaBeans properties of the specified bean, based on&#10;      the specified namevalue pairs.&lt;p&gt;&#10;     &#10;      &lt;p&gt;For more details see &lt;code&gt;BeanUtilsBean&lt;code&gt;.&lt;p&gt;&#10;     &#10;      @param bean JavaBean whose properties are being populated&#10;      @param properties Map keyed by property name, with the&#10;       corresponding (String or String[]) value(s) to be set" />
       <item value="in progress" />
@@ -50,7 +51,6 @@
       <item value="Return a builder to mutate properties of this request by wrapping it with ServerHttpRequestDecorator and returning either mutated values or delegating back to this instance." />
       <item value=" Preserve-Host header attribute name" />
       <item value="preserve the original url" />
-      <item value="decode slice header" />
     </histories>
     <option name="languageScores">
       <map>
