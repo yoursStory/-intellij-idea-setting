@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Infinity" />
+      <item value="exchange" />
       <item value="Data Source Transaction Manager" />
       <item value="Wildcard" />
       <item value="parse Inject Value" />
@@ -49,8 +51,6 @@
       <item value="Triplet" />
       <item value="  System information. This is the main entry point to OSHI.&#10;  &lt;p&gt;&#10;  This object provides getters which instantiate the appropriate&#10;  platform-specific implementations of {@link oshi.software.os.OperatingSystem}&#10;  (software) and {@link oshi.hardware.HardwareAbstractionLayer} (hardware)." />
       <item value="  Provides constants for paths in the {@code proc} filesystem on Linux.&#10;  &lt;p&gt;&#10;  If the user desires to configure a custom {@code proc} path, it must be&#10;  declared in the OSHI configuration file or updated in the&#10;  {@link GlobalConfig} class prior to initializing this class." />
-      <item value="      Updates instance variables from reading procmeminfo. While most of the&#10;      information is available in the sysinfo structure, the most accurate&#10;      calculation of MemAvailable is only available from reading this pseudo-file.&#10;      The maintainers of the Linux Kernel have indicated this location will be kept&#10;      up to date if the calculation changes: see&#10;      https:git.kernel.orgcgitlinuxkernelgittorvaldslinux.gitcommit?&#10;      id=34e431b0ae398fc54ea69ff85ec700722c9da773&#10;      &lt;p&gt;&#10;      Internally, reading procmeminfo is faster than sysinfo because it only&#10;      spends time populating the memory components of the sysinfo structure.&#10;     &#10;      @return A pair containing available and total memory in bytes" />
-      <item value=" The Firmware represents the low level BIOS or equivalent." />
     </histories>
     <option name="languageScores">
       <map>
