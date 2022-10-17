@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wildcard Devoted DB Meta Resolver" />
+      <item value="JDBC Compatiblity" />
       <item value="Infinity" />
       <item value="exchange" />
       <item value="Data Source Transaction Manager" />
@@ -49,8 +51,6 @@
       <item value="memoized" />
       <item value=" Convenience class for returning multiple objects from methods." />
       <item value="Triplet" />
-      <item value="  System information. This is the main entry point to OSHI.&#10;  &lt;p&gt;&#10;  This object provides getters which instantiate the appropriate&#10;  platform-specific implementations of {@link oshi.software.os.OperatingSystem}&#10;  (software) and {@link oshi.hardware.HardwareAbstractionLayer} (hardware)." />
-      <item value="  Provides constants for paths in the {@code proc} filesystem on Linux.&#10;  &lt;p&gt;&#10;  If the user desires to configure a custom {@code proc} path, it must be&#10;  declared in the OSHI configuration file or updated in the&#10;  {@link GlobalConfig} class prior to initializing this class." />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665311221928" />
+    <option name="lastTrimTime" value="1665991082147" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
