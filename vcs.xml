@@ -390,6 +390,10 @@
           <option name="url" value="http://192.168.1.153/vaf/tenant3/liaoling-zhiguan-sync" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/ystory_admin/datagear.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\project" />
