@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="determine Data Source" />
       <item value="Wildcard Devoted DB Meta Resolver" />
       <item value="JDBC Compatiblity" />
       <item value="Infinity" />
@@ -50,7 +51,6 @@
       <item value="   Create a new instance of {@link SystemInfo}. This is the main entry point to&#10;      OSHI and provides access to cross-platform code.&#10;      &lt;p&gt;&#10;      Platform-specific Hardware and Software objects are retrieved via memoized&#10;      suppliers. To conserve memory at the cost of additional processing time,&#10;      create a new version of SystemInfo() for subsequent calls. To conserve&#10;      processing time at the cost of additional memory usage, re-use the same&#10;      {@link SystemInfo} object for future queries." />
       <item value="memoized" />
       <item value=" Convenience class for returning multiple objects from methods." />
-      <item value="Triplet" />
     </histories>
     <option name="languageScores">
       <map>
