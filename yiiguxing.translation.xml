@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="      Returns an immutable list consisting of {@code n} copies of the&#10;      specified object.  The newly allocated data object is tiny (it contains&#10;      a single reference to the data object).  This method is useful in&#10;      combination with the {@code List.addAll} method to grow lists.&#10;      The returned list is serializable." />
       <item value="table Columns" />
       <item value="      Attempts to establish a connection to the given database URL.&#10;      The &lt;code&gt;DriverManager&lt;code&gt; attempts to select an appropriate driver from&#10;      the set of registered JDBC drivers.&#10;     &#10;      @param url a database url of the form&#10;       &lt;code&gt; jdbc:&lt;em&gt;subprotocol&lt;em&gt;:&lt;em&gt;subname&lt;em&gt;&lt;code&gt;&#10;      @return a connection to the URL&#10;      @exception SQLException if a database access error occurs or the url is&#10;      {@code null}&#10;      @throws SQLTimeoutException  when the driver has determined that the&#10;      timeout value specified by the {@code setLoginTimeout} method&#10;      has been exceeded and has at least tried to cancel the&#10;      current database connection attempt" />
       <item value="HOUR" />
@@ -50,7 +51,6 @@
       <item value="report" />
       <item value="because" />
       <item value="cause" />
-      <item value="  Generic {@link org.apache.kafka.common.serialization.Serializer Serializer} for sending&#10;  Java objects to Kafka as JSON.&#10;  &lt;p&gt;&#10;  IMPORTANT: Configuration must be done completely with property setters or via&#10;  {@link configure(Map, boolean)}, not a mixture. If any setters have been called,&#10;  {@link configure(Map, boolean)} will be a no-op.&#10; &#10;  @param &lt;T&gt; class of the entity, representing messages" />
     </histories>
     <option name="languageScores">
       <map>
