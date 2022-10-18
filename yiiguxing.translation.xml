@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="particle" />
+      <item value="particle Size" />
       <item value="a table name pattern; must match the&#10;             table name as it is stored in the database" />
       <item value="      Retrieves a description of the tables available in the given catalog.&#10;      Only table descriptions matching the catalog, schema, table&#10;      name and type criteria are returned.  They are ordered by&#10;      &lt;code&gt;TABLE_TYPE&lt;code&gt;, &lt;code&gt;TABLE_CAT&lt;code&gt;,&#10;      &lt;code&gt;TABLE_SCHEM&lt;code&gt; and &lt;code&gt;TABLE_NAME&lt;code&gt;.&#10;      &lt;P&gt;&#10;      Each table description has the following columns:" />
       <item value="  Some &lt;code&gt;DatabaseMetaData&lt;code&gt; methods return lists of information&#10;  in the form of &lt;code&gt;ResultSet&lt;code&gt; objects.&#10;  Regular &lt;code&gt;ResultSet&lt;code&gt; methods, such as&#10;  &lt;code&gt;getString&lt;code&gt; and &lt;code&gt;getInt&lt;code&gt;, can be used&#10;  to retrieve the data from these &lt;code&gt;ResultSet&lt;code&gt; objects.  If&#10;  a given form of metadata is not available, an empty &lt;code&gt;ResultSet&lt;code&gt;&#10;  will be returned. Additional columns beyond the columns defined to be&#10;  returned by the &lt;code&gt;ResultSet&lt;code&gt; object for a given method&#10;  can be defined by the JDBC driver vendor and must be accessed&#10;  by their &lt;B&gt;column label&lt;B&gt;.&#10;  &lt;P&gt;&#10;  Some &lt;code&gt;DatabaseMetaData&lt;code&gt; methods take arguments that are&#10;  String patterns.  These arguments all have names such as fooPattern.&#10;  Within a pattern String, &quot;%&quot; means match any substring of 0 or more&#10;  characters, and &quot;_&quot; means match any one character. Only metadata&#10;  entries matching the search pattern are returned. If a search pattern&#10;  argument is set to &lt;code&gt;null&lt;code&gt;, that argument's criterion will&#10;  be dropped from the search.&#10; " />
@@ -49,8 +51,6 @@
       <item value="      Gets a list of non-local {@link NetworkIF} objects, representing a network&#10;      interface. The list excludes local interfaces.&#10;     &#10;      @return A list of {@link NetworkIF} objects representing the interfaces" />
       <item value="      Gets a list {@link NetworkIF} objects, representing a network interface.&#10;     &#10;      @param includeLocalInterfaces&#10;                 whether to include local interfaces (loopback or no hardware&#10;                 address) in the result&#10;      @return A list of {@link NetworkIF} objects representing the interfaces" />
       <item value="      Instantiates a {@link oshi.hardware.Sensors} object, representing CPU&#10;      temperature and fan speed.&#10;     &#10;      @return A Sensors object" />
-      <item value="      Instantiates a list of {@link oshi.hardware.SoundCard} objects, representing&#10;      the Sound cards.&#10;     &#10;      @return A list of SoundCard objects or an empty list if none are present." />
-      <item value="      Retrieves the Video RAM (VRAM) available on the GPU&#10;     &#10;      @return Total number of bytes." />
     </histories>
     <option name="languageScores">
       <map>
