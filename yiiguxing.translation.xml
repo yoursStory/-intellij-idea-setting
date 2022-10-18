@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Column" />
+      <item value="close Quietly" />
       <item value="primitive Type To Wrapper Map" />
       <item value="particle" />
       <item value="particle Size" />
@@ -49,8 +51,6 @@
       <item value="java.sql.SQLException: Cannot change read-only flag after establishing a connection. Use SQLiteConfigsetReadOnly and SQLiteConfig.createConnection()." />
       <item value="    &#10;      Updates interface network statistics on this interface. Statistics include&#10;      packets and bytes sent and received, and interface speed.&#10;     &#10;      @return {@code true} if the update was successful, {@code false} otherwise.&#10;     " />
       <item value="      Instantiates a list of {@link LogicalVolumeGroup} objects, representing a&#10;      storage pool or group of devices, partitions, volumes, or other&#10;      implementation specific means of file storage.&#10;      &lt;p&gt;&#10;      If not yet implemented or if logical volume groups do not exist, returns an&#10;      empty list.&#10;      &lt;p&gt;&#10;      Currently implemented for Linux (LVM2), macOS (Core Storage), and Windows&#10;      (Storage Spaces).&#10;     &#10;      @return A list of {@link LogicalVolumeGroup} objects or an empty list if none&#10;              are present." />
-      <item value="      Gets a list of non-local {@link NetworkIF} objects, representing a network&#10;      interface. The list excludes local interfaces.&#10;     &#10;      @return A list of {@link NetworkIF} objects representing the interfaces" />
-      <item value="      Gets a list {@link NetworkIF} objects, representing a network interface.&#10;     &#10;      @param includeLocalInterfaces&#10;                 whether to include local interfaces (loopback or no hardware&#10;                 address) in the result&#10;      @return A list of {@link NetworkIF} objects representing the interfaces" />
     </histories>
     <option name="languageScores">
       <map>
