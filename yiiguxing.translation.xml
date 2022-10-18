@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="  Query given SQL to create a prepared statement from SQL and a list of&#10;&#9;  arguments to bind to the query, reading the ResultSet on a per-row basis&#10;&#9;  with a RowCallbackHandler.&#10;&#9;  @param sql the SQL query to execute&#10;&#9;  @param rch a callback that will extract results, one row at a time&#10;&#9;  @param args arguments to bind to the query&#10;&#9;  (leaving it to the PreparedStatement to guess the corresponding SQL type);&#10;&#9;  may also contain {@link SqlParameterValue} objects which indicate not&#10;&#9;  only the argument value but also the SQL type and optionally the scale&#10;&#9;  @throws DataAccessException if the query fails" />
       <item value="      Returns an immutable list consisting of {@code n} copies of the&#10;      specified object.  The newly allocated data object is tiny (it contains&#10;      a single reference to the data object).  This method is useful in&#10;      combination with the {@code List.addAll} method to grow lists.&#10;      The returned list is serializable." />
       <item value="table Columns" />
       <item value="      Attempts to establish a connection to the given database URL.&#10;      The &lt;code&gt;DriverManager&lt;code&gt; attempts to select an appropriate driver from&#10;      the set of registered JDBC drivers.&#10;     &#10;      @param url a database url of the form&#10;       &lt;code&gt; jdbc:&lt;em&gt;subprotocol&lt;em&gt;:&lt;em&gt;subname&lt;em&gt;&lt;code&gt;&#10;      @return a connection to the URL&#10;      @exception SQLException if a database access error occurs or the url is&#10;      {@code null}&#10;      @throws SQLTimeoutException  when the driver has determined that the&#10;      timeout value specified by the {@code setLoginTimeout} method&#10;      has been exceeded and has at least tried to cancel the&#10;      current database connection attempt" />
@@ -50,7 +51,6 @@
       <item value="      @param o1 the first object to be compared.&#10;      @param o2 the second object to be compared.&#10;      @return a negative integer, zero, or a positive integer as the&#10;              first argument is less than, equal to, or greater than the&#10;              second." />
       <item value="report" />
       <item value="because" />
-      <item value="cause" />
     </histories>
     <option name="languageScores">
       <map>
