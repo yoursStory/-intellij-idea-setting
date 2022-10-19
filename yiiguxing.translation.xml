@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discarded" />
+      <item value="UNCHALLENGED" />
       <item value="exactly" />
       <item value="      Sets the given catalog name in order to select&#10;      a subspace of this &lt;code&gt;Connection&lt;code&gt; object's database&#10;      in which to work.&#10;      &lt;P&gt;&#10;      If the driver does not support catalogs, it will&#10;      silently ignore this request.&#10;      &lt;p&gt;&#10;      Calling {@code setCatalog} has no effect on previously created or prepared&#10;      {@code Statement} objects. It is implementation defined whether a DBMS&#10;      prepare operation takes place immediately when the {@code Connection}&#10;      method {@code prepareStatement} or {@code prepareCall} is invoked.&#10;      For maximum portability, {@code setCatalog} should be called before a&#10;      {@code Statement} is created or prepared.&#10;     &#10;      @param catalog the name of a catalog (subspace in this&#10;             &lt;code&gt;Connection&lt;code&gt; object's database) in which to work&#10;      @exception SQLException if a database access error occurs&#10;      or this method is called on a closed connection" />
       <item value="      Retrieves this &lt;code&gt;Connection&lt;code&gt; object's current catalog name.&#10;     &#10;      @return the current catalog name or &lt;code&gt;null&lt;code&gt; if there is none&#10;      @exception SQLException if a database access error occurs&#10;      or this method is called on a closed connection" />
@@ -49,8 +51,6 @@
       <item value="相似度" />
       <item value="multiply" />
       <item value="continute Alarm" />
-      <item value="ceil" />
-      <item value="      Returns a {@code BigDecimal} whose value is {@code (this &#10;      divisor)}, and whose scale is as specified.  If rounding must&#10;      be performed to generate a result with the specified scale, the&#10;      specified rounding mode is applied.&#10;     &#10;      @deprecated The method {@link divide(BigDecimal, int, RoundingMode)}&#10;      should be used in preference to this legacy method." />
     </histories>
     <option name="languageScores">
       <map>
