@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="2703" />
+    <option name="newTranslationDialogY" value="454" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Schema" />
+      <item value="dimensions" />
+      <item value="Dimension" />
       <item value="Query Daas Dimension Table Req" />
       <item value="COLUMN KEY" />
       <item value="unique" />
@@ -42,15 +49,12 @@
       <item value="output Depend Indicator" />
       <item value="Performs" />
       <item value="is Xdr Query" />
-      <item value="Dimension" />
       <item value="      &lt;p&gt;Populate the JavaBeans properties of the specified bean, based on&#10;      the specified namevalue pairs.&lt;p&gt;&#10;     &#10;      &lt;p&gt;For more details see &lt;code&gt;BeanUtilsBean&lt;code&gt;.&lt;p&gt;&#10;     &#10;      @param bean JavaBean whose properties are being populated&#10;      @param properties Map keyed by property name, with the&#10;       corresponding (String or String[]) value(s) to be set" />
       <item value="in progress" />
       <item value="progress" />
       <item value="Shifts" />
       <item value=" Inserts all of the elements in the specified collection into this&#10;      list at the specified position (optional operation).  Shifts the&#10;      element currently at that position (if any) and any subsequent&#10;      elements to the right (increases their indices).  The new elements&#10;      will appear in this list in the order that they are returned by the&#10;      specified collection's iterator.  The behavior of this operation is&#10;      undefined if the specified collection is modified while the&#10;      operation is in progress.  (Note that this will occur if the specified&#10;      collection is this list, and it's nonempty.)" />
       <item value="provider" />
-      <item value="Incompatible Class Change Error" />
-      <item value="  &amp;64;SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that&#10;  statements in your method body declare they generate.&#10;  &lt;p&gt;&#10;  &amp;64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed&#10;  checked exception types. The JVM does not check for the consistency of the checked exception system; javac does,&#10;  and this annotation lets you opt out of its mechanism.&#10;  &lt;p&gt;&#10;  Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesSneakyThrows&quot;&gt;the project lombok features page for &amp;64;SneakyThrows&lt;a&gt;.&#10;  &lt;p&gt;&#10;  Example:" />
     </histories>
     <option name="languageScores">
       <map>
