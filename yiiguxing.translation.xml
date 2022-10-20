@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query Daas Dimension Table Req" />
       <item value="COLUMN KEY" />
       <item value="unique" />
       <item value="has Unique Object" />
@@ -50,7 +51,6 @@
       <item value="provider" />
       <item value="Incompatible Class Change Error" />
       <item value="  &amp;64;SneakyThrow will avoid javac's insistence that you either catch or throw onward any checked exceptions that&#10;  statements in your method body declare they generate.&#10;  &lt;p&gt;&#10;  &amp;64;SneakyThrow does not silently swallow, wrap into RuntimeException, or otherwise modify any exceptions of the listed&#10;  checked exception types. The JVM does not check for the consistency of the checked exception system; javac does,&#10;  and this annotation lets you opt out of its mechanism.&#10;  &lt;p&gt;&#10;  Complete documentation is found at &lt;a href=&quot;https:projectlombok.orgfeaturesSneakyThrows&quot;&gt;the project lombok features page for &amp;64;SneakyThrows&lt;a&gt;.&#10;  &lt;p&gt;&#10;  Example:" />
-      <item value="decorate" />
     </histories>
     <option name="languageScores">
       <map>
