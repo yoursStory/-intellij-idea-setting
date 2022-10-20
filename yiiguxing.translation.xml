@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      &lt;p&gt;Abbreviates a String using ellipses. This will turn&#10;      &quot;Now is the time for all good men&quot; into &quot;Now is the time for...&quot;&lt;p&gt;&#10;     " />
       <item value="get Schema" />
       <item value="dimensions" />
       <item value="Dimension" />
@@ -54,7 +55,6 @@
       <item value="progress" />
       <item value="Shifts" />
       <item value=" Inserts all of the elements in the specified collection into this&#10;      list at the specified position (optional operation).  Shifts the&#10;      element currently at that position (if any) and any subsequent&#10;      elements to the right (increases their indices).  The new elements&#10;      will appear in this list in the order that they are returned by the&#10;      specified collection's iterator.  The behavior of this operation is&#10;      undefined if the specified collection is modified while the&#10;      operation is in progress.  (Note that this will occur if the specified&#10;      collection is this list, and it's nonempty.)" />
-      <item value="provider" />
     </histories>
     <option name="languageScores">
       <map>
