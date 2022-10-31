@@ -5,11 +5,14 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  The annotation type {@code java.lang.annotation.Repeatable} is&#10;  used to indicate that the annotation type whose declaration it&#10;  (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of&#10;  {@code @Repeatable} indicates the &lt;em&gt;containing annotation&#10;  type&lt;em&gt; for the repeatable annotation type." />
+      <item value="  The annotation type {@code java.lang.annotation.Repeatable} is&#10;  used to indicate that the annotation type whose declaration it&#10;  (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of&#10;  {@code @Repeatable} indicates the &lt;em&gt;containing annotation&#10;  type&lt;em&gt; for the repeatable annotation type.&#10; &#10;  @since 1.8&#10;  @jls 9.6.3 Repeatable Annotation Types&#10;  @jls 9.7.5 Multiple Annotations of the Same Type" />
+      <item value="check Exceed" />
+      <item value="is Assignable" />
       <item value="      Determines if the specified {@code Class} object represents a&#10;      primitive type.&#10;     &#10;      &lt;p&gt; There are nine predefined {@code Class} objects to represent&#10;      the eight primitive types and void.  These are created by the Java&#10;      Virtual Machine, and have the same names as the primitive types that&#10;      they represent, namely {@code boolean}, {@code byte},&#10;      {@code char}, {@code short}, {@code int},&#10;      {@code long}, {@code float}, and {@code double}.&#10;     &#10;      &lt;p&gt; These objects may only be accessed via the following public static&#10;      final variables, and are the only {@code Class} objects for which&#10;      this method returns {@code true}." />
       <item value="true if and only if this class represents a primitive type" />
       <item value="is Primitive" />
       <item value="    &lt;p&gt;Checks if one {@code Class} can be assigned to a variable of&#10;      another {@code Class}.&lt;p&gt;&#10;     &#10;      &lt;p&gt;Unlike the {@link ClassisAssignableFrom(java.lang.Class)} method,&#10;      this method takes into account widenings of primitive classes and&#10;      {@code null}s.&lt;p&gt;&#10;     &#10;      &lt;p&gt;Primitive widenings allow an int to be assigned to a long, float or&#10;      double. This method returns the correct result for these cases.&lt;p&gt;&#10;     &#10;      &lt;p&gt;{@code Null} may be assigned to any reference type. This method&#10;      will return {@code true} if {@code null} is passed in and the&#10;      toClass is non-primitive.&lt;p&gt;&#10;     &#10;      &lt;p&gt;Specifically, this method tests whether the type represented by the&#10;      specified {@code Class} parameter can be converted to the type&#10;      represented by this {@code Class} object via an identity conversion&#10;      widening primitive or widening reference conversion. See&#10;      &lt;em&gt;&lt;a href=&quot;http:docs.oracle.comjavasespecs&quot;&gt;The Java Language Specification&lt;a&gt;&lt;em&gt;,&#10;      sections 5.1.1, 5.1.2 and 5.1.4 for details.&lt;p&gt;&#10;     &#10;      &lt;p&gt;&lt;strong&gt;Since Lang 3.0,&lt;strong&gt; this method will default behavior for&#10;      calculating assignability between primitive and wrapper types &lt;em&gt;corresponding&#10;      to the running Java version&lt;em&gt;; i.e. autoboxing will be the default&#10;      behavior in VMs running Java versions &amp;gt; 1.5.&lt;p&gt;" />
-      <item value="is Assignable" />
       <item value="Suffer" />
       <item value="title Suffer" />
       <item value="ALL Combine Validators" />
@@ -52,9 +55,6 @@
       <item value="Data Source Transaction Manager" />
       <item value="Wildcard" />
       <item value="parse Inject Value" />
-      <item value="cascade" />
-      <item value="microsecond" />
-      <item value="drills" />
     </histories>
     <option name="languageScores">
       <map>
