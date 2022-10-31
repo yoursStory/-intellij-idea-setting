@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Restrict" />
       <item value="Addiation" />
       <item value="set Max Inactive Interval" />
       <item value="  The annotation type {@code java.lang.annotation.Repeatable} is&#10;  used to indicate that the annotation type whose declaration it&#10;  (meta-)annotates is &lt;em&gt;repeatable&lt;em&gt;. The value of&#10;  {@code @Repeatable} indicates the &lt;em&gt;containing annotation&#10;  type&lt;em&gt; for the repeatable annotation type." />
@@ -54,7 +55,6 @@
       <item value="JDBC Compatiblity" />
       <item value="Infinity" />
       <item value="exchange" />
-      <item value="Data Source Transaction Manager" />
     </histories>
     <option name="languageScores">
       <map>
