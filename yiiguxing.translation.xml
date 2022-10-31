@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ALL Combine Validators" />
+      <item value="get Current Table Column Restrict Name" />
       <item value="build Value List Prop Condition" />
       <item value="      &lt;p&gt;Abbreviates a String using ellipses. This will turn&#10;      &quot;Now is the time for all good men&quot; into &quot;Now is the time for...&quot;&lt;p&gt;&#10;     " />
       <item value="get Schema" />
@@ -53,8 +55,6 @@
       <item value="is Xdr Query" />
       <item value="      &lt;p&gt;Populate the JavaBeans properties of the specified bean, based on&#10;      the specified namevalue pairs.&lt;p&gt;&#10;     &#10;      &lt;p&gt;For more details see &lt;code&gt;BeanUtilsBean&lt;code&gt;.&lt;p&gt;&#10;     &#10;      @param bean JavaBean whose properties are being populated&#10;      @param properties Map keyed by property name, with the&#10;       corresponding (String or String[]) value(s) to be set" />
       <item value="in progress" />
-      <item value="progress" />
-      <item value="Shifts" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665991082147" />
+    <option name="lastTrimTime" value="1667186933269" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
