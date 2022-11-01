@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inject" />
       <item value="      Useful constant for the root locale.  The root locale is the locale whose&#10;      language, country, and variant are empty (&quot;&quot;) strings.  This is regarded&#10;      as the base locale of all locales, and is used as the languagecountry&#10;      neutral locale for the locale sensitive operations." />
       <item value="Restrict" />
       <item value="Addiation" />
@@ -54,7 +55,6 @@
       <item value="determine Data Source" />
       <item value="Wildcard Devoted DB Meta Resolver" />
       <item value="JDBC Compatiblity" />
-      <item value="Infinity" />
     </histories>
     <option name="languageScores">
       <map>
