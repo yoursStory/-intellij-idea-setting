@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Creates a &lt;em&gt;&lt;a href=&quot;Spliterator.htmlbinding&quot;&gt;late-binding&lt;a&gt;&lt;em&gt;&#10;      and &lt;em&gt;fail-fast&lt;em&gt; {@link Spliterator} over the elements in this&#10;      list.&#10;     &#10;      &lt;p&gt;The {@code Spliterator} reports {@link SpliteratorSIZED},&#10;      {@link SpliteratorSUBSIZED}, and {@link SpliteratorORDERED}.&#10;      Overriding implementations should document the reporting of additional&#10;      characteristic values." />
+      <item value="spliter" />
+      <item value="spliterator" />
+      <item value="Spliterator" />
+      <item value="      The default implementation should usually be overridden.  The&#10;      spliterator returned by the default implementation has poor splitting&#10;      capabilities, is unsized, and does not report any spliterator&#10;      characteristics. Implementing classes can nearly always provide a&#10;      better implementation." />
+      <item value="Mutable Property Sources" />
+      <item value="  &lt;h3&gt;Registration&lt;h3&gt;&#10;  &lt;p&gt;An {@code ApplicationContext} auto-detects {@code BeanFactoryPostProcessor}&#10;  beans in its bean definitions and applies them before any other beans get created.&#10;  A {@code BeanFactoryPostProcessor} may also be registered programmatically&#10;  with a {@code ConfigurableApplicationContext}." />
+      <item value="  &lt;p&gt;A {@code BeanFactoryPostProcessor} may interact with and modify bean&#10;  definitions, but never bean instances. Doing so may cause premature bean&#10;  instantiation, violating the container and causing unintended side-effects.&#10;  If bean instance interaction is required, consider implementing&#10;  {@link BeanPostProcessor} instead.&#10; " />
+      <item value="  &lt;p&gt;Useful for custom config files targeted at system administrators that&#10;  override bean properties configured in the application context. See&#10;  {@link PropertyResourceConfigurer} and its concrete implementations for&#10;  out-of-the-box solutions that address such configuration needs.&#10; " />
+      <item value="  Factory hook that allows for custom modification of an application context's&#10;  bean definitions, adapting the bean property values of the context's underlying&#10;  bean factory." />
       <item value="&#9;  Resolve {...} placeholders in the given text, replacing them with corresponding&#10;&#9;  property values as resolved by {@link getProperty}. Unresolvable placeholders with&#10;&#9;  no default value are ignored and passed through unchanged.&#10;&#9;  @param text the String to resolve&#10;&#9;  @return the resolved String (never {@code null})&#10;&#9;  @throws IllegalArgumentException if given text is {@code null}" />
       <item value="synthetic" />
       <item value="Flushable" />
@@ -45,16 +55,6 @@
       <item value="has Unique Object" />
       <item value="nullable Single Result" />
       <item value="discarded" />
-      <item value="UNCHALLENGED" />
-      <item value="exactly" />
-      <item value="      Sets the given catalog name in order to select&#10;      a subspace of this &lt;code&gt;Connection&lt;code&gt; object's database&#10;      in which to work.&#10;      &lt;P&gt;&#10;      If the driver does not support catalogs, it will&#10;      silently ignore this request.&#10;      &lt;p&gt;&#10;      Calling {@code setCatalog} has no effect on previously created or prepared&#10;      {@code Statement} objects. It is implementation defined whether a DBMS&#10;      prepare operation takes place immediately when the {@code Connection}&#10;      method {@code prepareStatement} or {@code prepareCall} is invoked.&#10;      For maximum portability, {@code setCatalog} should be called before a&#10;      {@code Statement} is created or prepared.&#10;     &#10;      @param catalog the name of a catalog (subspace in this&#10;             &lt;code&gt;Connection&lt;code&gt; object's database) in which to work&#10;      @exception SQLException if a database access error occurs&#10;      or this method is called on a closed connection" />
-      <item value="      Retrieves this &lt;code&gt;Connection&lt;code&gt; object's current catalog name.&#10;     &#10;      @return the current catalog name or &lt;code&gt;null&lt;code&gt; if there is none&#10;      @exception SQLException if a database access error occurs&#10;      or this method is called on a closed connection" />
-      <item value="  Query given SQL to create a prepared statement from SQL and a list of&#10;&#9;  arguments to bind to the query, reading the ResultSet on a per-row basis&#10;&#9;  with a RowCallbackHandler.&#10;&#9;  @param sql the SQL query to execute&#10;&#9;  @param rch a callback that will extract results, one row at a time&#10;&#9;  @param args arguments to bind to the query&#10;&#9;  (leaving it to the PreparedStatement to guess the corresponding SQL type);&#10;&#9;  may also contain {@link SqlParameterValue} objects which indicate not&#10;&#9;  only the argument value but also the SQL type and optionally the scale&#10;&#9;  @throws DataAccessException if the query fails" />
-      <item value="      Returns an immutable list consisting of {@code n} copies of the&#10;      specified object.  The newly allocated data object is tiny (it contains&#10;      a single reference to the data object).  This method is useful in&#10;      combination with the {@code List.addAll} method to grow lists.&#10;      The returned list is serializable." />
-      <item value="table Columns" />
-      <item value="      Attempts to establish a connection to the given database URL.&#10;      The &lt;code&gt;DriverManager&lt;code&gt; attempts to select an appropriate driver from&#10;      the set of registered JDBC drivers.&#10;     &#10;      @param url a database url of the form&#10;       &lt;code&gt; jdbc:&lt;em&gt;subprotocol&lt;em&gt;:&lt;em&gt;subname&lt;em&gt;&lt;code&gt;&#10;      @return a connection to the URL&#10;      @exception SQLException if a database access error occurs or the url is&#10;      {@code null}&#10;      @throws SQLTimeoutException  when the driver has determined that the&#10;      timeout value specified by the {@code setLoginTimeout} method&#10;      has been exceeded and has at least tried to cancel the&#10;      current database connection attempt" />
-      <item value="HOUR" />
-      <item value="get Column" />
     </histories>
     <option name="languageScores">
       <map>
