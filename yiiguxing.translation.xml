@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#9;  Resolve {...} placeholders in the given text, replacing them with corresponding&#10;&#9;  property values as resolved by {@link getProperty}. Unresolvable placeholders with&#10;&#9;  no default value are ignored and passed through unchanged.&#10;&#9;  @param text the String to resolve&#10;&#9;  @return the resolved String (never {@code null})&#10;&#9;  @throws IllegalArgumentException if given text is {@code null}" />
       <item value="synthetic" />
       <item value="Flushable" />
       <item value="  An interpreter for printf-style format strings.  This class provides support&#10;  for layout justification and alignment, common formats for numeric, string,&#10;  and datetime data, and locale-specific output.  Common Java types such as&#10;  {@code byte}, {@link java.math.BigDecimal BigDecimal}, and {@link Calendar}&#10;  are supported.  Limited formatting customization for arbitrary user types is&#10;  provided through the {@link Formattable} interface." />
@@ -54,7 +55,6 @@
       <item value="      Attempts to establish a connection to the given database URL.&#10;      The &lt;code&gt;DriverManager&lt;code&gt; attempts to select an appropriate driver from&#10;      the set of registered JDBC drivers.&#10;     &#10;      @param url a database url of the form&#10;       &lt;code&gt; jdbc:&lt;em&gt;subprotocol&lt;em&gt;:&lt;em&gt;subname&lt;em&gt;&lt;code&gt;&#10;      @return a connection to the URL&#10;      @exception SQLException if a database access error occurs or the url is&#10;      {@code null}&#10;      @throws SQLTimeoutException  when the driver has determined that the&#10;      timeout value specified by the {@code setLoginTimeout} method&#10;      has been exceeded and has at least tried to cancel the&#10;      current database connection attempt" />
       <item value="HOUR" />
       <item value="get Column" />
-      <item value="close Quietly" />
     </histories>
     <option name="languageScores">
       <map>
