@@ -2,7 +2,10 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="checkUsage" value="1" />
         <option name="ifUseNewMapping" value="488" />
+        <option name="theUsageCount" value="1670058706368" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
