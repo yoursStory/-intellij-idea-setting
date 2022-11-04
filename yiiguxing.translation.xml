@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Mutation Plan" />
       <item value="combine" />
       <item value="side-effect" />
       <item value="On first setup, you may need to run ` mvn install -DskipTests`&#10;to install the local jars. This is a side-effect of multi-module maven projects" />
@@ -54,7 +55,6 @@
       <item value="  Factory hook that allows for custom modification of new bean instances &amp;mdash;&#10;  for example, checking for marker interfaces or wrapping beans with proxies.&#10; &#10;  &lt;p&gt;Typically, post-processors that populate beans via marker interfaces&#10;  or the like will implement {@link postProcessBeforeInitialization},&#10;  while post-processors that wrap beans with proxies will normally&#10;  implement {@link postProcessAfterInitialization}.&#10; &#10;  &lt;h3&gt;Registration&lt;h3&gt;&#10;  &lt;p&gt;An {@code ApplicationContext} can autodetect {@code BeanPostProcessor} beans&#10;  in its bean definitions and apply those post-processors to any beans subsequently&#10;  created. A plain {@code BeanFactory} allows for programmatic registration of&#10;  post-processors, applying them to all beans created through the bean factory." />
       <item value="  A marker superinterface indicating that a bean is eligible to be notified by the&#10;  Spring container of a particular framework object through a callback-style method.&#10;  The actual method signature is determined by individual subinterfaces but should&#10;  typically consist of just one void-returning method that accepts a single argument.&#10; &#10;  &lt;p&gt;Note that merely implementing {@link Aware} provides no default functionality.&#10;  Rather, processing must be done explicitly, for example in a&#10;  {@link org.springframework.beans.factory.config.BeanPostProcessor}.&#10;  Refer to {@link org.springframework.context.support.ApplicationContextAwareProcessor}&#10;  for an example of processing specific {@code Aware} interface callbacks." />
       <item value="Inject" />
-      <item value="      Useful constant for the root locale.  The root locale is the locale whose&#10;      language, country, and variant are empty (&quot;&quot;) strings.  This is regarded&#10;      as the base locale of all locales, and is used as the languagecountry&#10;      neutral locale for the locale sensitive operations." />
     </histories>
     <option name="languageScores">
       <map>
