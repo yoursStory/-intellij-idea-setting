@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="combine" />
       <item value="side-effect" />
       <item value="On first setup, you may need to run ` mvn install -DskipTests`&#10;to install the local jars. This is a side-effect of multi-module maven projects" />
       <item value=" The most common stream of tokens where every token is buffered up&#10;   and tokens are filtered for a certain channel (the parser will only&#10;   see these tokens).&#10; &#10;   Even though it buffers all of the tokens, this token stream pulls tokens&#10;   from the tokens source on demand. In other words, until you ask for a&#10;   token using consume(), LT(), etc. the stream does not pull from the lexer.&#10; &#10;   The only difference between this stream and BufferedTokenStream superclass&#10;   is that this stream knows how to ignore off channel tokens. There may be&#10;   a performance advantage to using the superclass if you don't pass&#10;   whitespace and comments etc. to the parser on a hidden channel (i.e.,&#10;   you set channel instead of calling skip() in lexer rules.)" />
@@ -47,7 +48,6 @@
       <item value="  An interpreter for printf-style format strings.  This class provides support&#10;  for layout justification and alignment, common formats for numeric, string,&#10;  and datetime data, and locale-specific output.  Common Java types such as&#10;  {@code byte}, {@link java.math.BigDecimal BigDecimal}, and {@link Calendar}&#10;  are supported.  Limited formatting customization for arbitrary user types is&#10;  provided through the {@link Formattable} interface." />
       <item value="tagging" />
       <item value="resolve Embedded Value" />
-      <item value="combine" />
       <item value="Injected" />
       <item value="impacting" />
       <item value="  &lt;p&gt;Implemented interfaces are satisfied in the order in which they are&#10;  mentioned above." />
