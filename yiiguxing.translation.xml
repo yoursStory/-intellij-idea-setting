@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Exist Updateable" />
+      <item value="is Exist Configable" />
       <item value=" maximum number of fractional digits accepted for this number" />
       <item value="Digits" />
       <item value="negative" />
@@ -53,8 +55,6 @@
       <item value="  An interpreter for printf-style format strings.  This class provides support&#10;  for layout justification and alignment, common formats for numeric, string,&#10;  and datetime data, and locale-specific output.  Common Java types such as&#10;  {@code byte}, {@link java.math.BigDecimal BigDecimal}, and {@link Calendar}&#10;  are supported.  Limited formatting customization for arbitrary user types is&#10;  provided through the {@link Formattable} interface." />
       <item value="tagging" />
       <item value="resolve Embedded Value" />
-      <item value="Injected" />
-      <item value="impacting" />
     </histories>
     <option name="languageScores">
       <map>
