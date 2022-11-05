@@ -1,8 +1,14 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="AcceptTabnineInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
   <action id="CWMHostShowPopupAction" />
   <action id="CodotaJavaScriptSearch" />
   <action id="CodotaLeanSearchCrossRefAction" />
+  <action id="Console.TableResult.SelectRow" />
+  <action id="EditorStartNewLineBefore" />
   <action id="OpenCodotaSearch" />
+  <action id="QuickActionPopup" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
