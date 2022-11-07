@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cascade" />
+      <item value="quota" />
       <item value="Column Type Convertor" />
       <item value="is Exist Updateable" />
       <item value="is Exist Configable" />
@@ -53,8 +55,6 @@
       <item value="&#9;  Resolve {...} placeholders in the given text, replacing them with corresponding&#10;&#9;  property values as resolved by {@link getProperty}. Unresolvable placeholders with&#10;&#9;  no default value are ignored and passed through unchanged.&#10;&#9;  @param text the String to resolve&#10;&#9;  @return the resolved String (never {@code null})&#10;&#9;  @throws IllegalArgumentException if given text is {@code null}" />
       <item value="synthetic" />
       <item value="Flushable" />
-      <item value="  An interpreter for printf-style format strings.  This class provides support&#10;  for layout justification and alignment, common formats for numeric, string,&#10;  and datetime data, and locale-specific output.  Common Java types such as&#10;  {@code byte}, {@link java.math.BigDecimal BigDecimal}, and {@link Calendar}&#10;  are supported.  Limited formatting customization for arbitrary user types is&#10;  provided through the {@link Formattable} interface." />
-      <item value="tagging" />
     </histories>
     <option name="languageScores">
       <map>
