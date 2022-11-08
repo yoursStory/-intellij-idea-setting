@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="parent tbl id" />
       <item value="Algorithm" />
       <item value="extAlgorithm" />
       <item value="cascade" />
@@ -54,7 +55,6 @@
       <item value="  &lt;p&gt;A {@code BeanFactoryPostProcessor} may interact with and modify bean&#10;  definitions, but never bean instances. Doing so may cause premature bean&#10;  instantiation, violating the container and causing unintended side-effects.&#10;  If bean instance interaction is required, consider implementing&#10;  {@link BeanPostProcessor} instead.&#10; " />
       <item value="  &lt;p&gt;Useful for custom config files targeted at system administrators that&#10;  override bean properties configured in the application context. See&#10;  {@link PropertyResourceConfigurer} and its concrete implementations for&#10;  out-of-the-box solutions that address such configuration needs.&#10; " />
       <item value="  Factory hook that allows for custom modification of an application context's&#10;  bean definitions, adapting the bean property values of the context's underlying&#10;  bean factory." />
-      <item value="&#9;  Resolve {...} placeholders in the given text, replacing them with corresponding&#10;&#9;  property values as resolved by {@link getProperty}. Unresolvable placeholders with&#10;&#9;  no default value are ignored and passed through unchanged.&#10;&#9;  @param text the String to resolve&#10;&#9;  @return the resolved String (never {@code null})&#10;&#9;  @throws IllegalArgumentException if given text is {@code null}" />
     </histories>
     <option name="languageScores">
       <map>
