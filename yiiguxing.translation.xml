@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="simultaneou" />
+      <item value="Too many simultaneous queries" />
+      <item value="simultaneous" />
       <item value="Convertor" />
       <item value="convertor" />
       <item value="parent tbl id" />
@@ -52,9 +55,6 @@
       <item value="spliterator" />
       <item value="Spliterator" />
       <item value="      The default implementation should usually be overridden.  The&#10;      spliterator returned by the default implementation has poor splitting&#10;      capabilities, is unsized, and does not report any spliterator&#10;      characteristics. Implementing classes can nearly always provide a&#10;      better implementation." />
-      <item value="Mutable Property Sources" />
-      <item value="  &lt;h3&gt;Registration&lt;h3&gt;&#10;  &lt;p&gt;An {@code ApplicationContext} auto-detects {@code BeanFactoryPostProcessor}&#10;  beans in its bean definitions and applies them before any other beans get created.&#10;  A {@code BeanFactoryPostProcessor} may also be registered programmatically&#10;  with a {@code ConfigurableApplicationContext}." />
-      <item value="  &lt;p&gt;A {@code BeanFactoryPostProcessor} may interact with and modify bean&#10;  definitions, but never bean instances. Doing so may cause premature bean&#10;  instantiation, violating the container and causing unintended side-effects.&#10;  If bean instance interaction is required, consider implementing&#10;  {@link BeanPostProcessor} instead.&#10; " />
     </histories>
     <option name="languageScores">
       <map>
