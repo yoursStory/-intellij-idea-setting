@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Convertor" />
+      <item value="convertor" />
       <item value="parent tbl id" />
       <item value="Algorithm" />
       <item value="extAlgorithm" />
@@ -53,8 +55,6 @@
       <item value="Mutable Property Sources" />
       <item value="  &lt;h3&gt;Registration&lt;h3&gt;&#10;  &lt;p&gt;An {@code ApplicationContext} auto-detects {@code BeanFactoryPostProcessor}&#10;  beans in its bean definitions and applies them before any other beans get created.&#10;  A {@code BeanFactoryPostProcessor} may also be registered programmatically&#10;  with a {@code ConfigurableApplicationContext}." />
       <item value="  &lt;p&gt;A {@code BeanFactoryPostProcessor} may interact with and modify bean&#10;  definitions, but never bean instances. Doing so may cause premature bean&#10;  instantiation, violating the container and causing unintended side-effects.&#10;  If bean instance interaction is required, consider implementing&#10;  {@link BeanPostProcessor} instead.&#10; " />
-      <item value="  &lt;p&gt;Useful for custom config files targeted at system administrators that&#10;  override bean properties configured in the application context. See&#10;  {@link PropertyResourceConfigurer} and its concrete implementations for&#10;  out-of-the-box solutions that address such configuration needs.&#10; " />
-      <item value="  Factory hook that allows for custom modification of an application context's&#10;  bean definitions, adapting the bean property values of the context's underlying&#10;  bean factory." />
     </histories>
     <option name="languageScores">
       <map>
