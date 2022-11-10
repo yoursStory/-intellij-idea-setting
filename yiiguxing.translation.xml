@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cascading" />
+      <item value="IMPLICIT" />
+      <item value="&#9;  If the annotation using {@code ExecutableType} is on a type (class or interface),&#10;&#9;  the behavior is equivalent to the annotation not being present." />
+      <item value="agnostic" />
+      <item value="ALL Combine Validators" />
       <item value="exclusions" />
       <item value="simultaneou" />
       <item value="Too many simultaneous queries" />
@@ -50,11 +55,6 @@
       <item value="  Strategy interface for resolving messages, with support for the parameterization&#10;  and internationalization of such messages." />
       <item value="&#9;  Used to dereference a {@link FactoryBean} instance and distinguish it from&#10;&#9;  beans &lt;i&gt;created&lt;i&gt; by the FactoryBean. For example, if the bean named&#10;&#9;  {@code myJndiObject} is a FactoryBean, getting {@code &amp;myJndiObject}&#10;&#9;  will return the factory, not the instance returned by the factory." />
       <item value="&#9;  Replace the property source with the given name with the given property source object.&#10;&#9;  @param name the name of the property source to find and replace&#10;&#9;  @param propertySource the replacement property source&#10;&#9;  @throws IllegalArgumentException if no property source with the given name is present" />
-      <item value="characteristics" />
-      <item value="      Creates a &lt;em&gt;&lt;a href=&quot;Spliterator.htmlbinding&quot;&gt;late-binding&lt;a&gt;&lt;em&gt;&#10;      and &lt;em&gt;fail-fast&lt;em&gt; {@link Spliterator} over the elements in this&#10;      list.&#10;     &#10;      &lt;p&gt;The {@code Spliterator} reports {@link SpliteratorSIZED},&#10;      {@link SpliteratorSUBSIZED}, and {@link SpliteratorORDERED}.&#10;      Overriding implementations should document the reporting of additional&#10;      characteristic values." />
-      <item value="spliter" />
-      <item value="spliterator" />
-      <item value="Spliterator" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667627456170" />
+    <option name="lastTrimTime" value="1668074231743" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
