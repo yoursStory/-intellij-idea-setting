@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclusions" />
       <item value="simultaneou" />
       <item value="Too many simultaneous queries" />
       <item value="simultaneous" />
@@ -54,7 +55,6 @@
       <item value="spliter" />
       <item value="spliterator" />
       <item value="Spliterator" />
-      <item value="      The default implementation should usually be overridden.  The&#10;      spliterator returned by the default implementation has poor splitting&#10;      capabilities, is unsized, and does not report any spliterator&#10;      characteristics. Implementing classes can nearly always provide a&#10;      better implementation." />
     </histories>
     <option name="languageScores">
       <map>
