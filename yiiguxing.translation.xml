@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  {@link HttpInputMessage} that can eventually stores a Jackson view that will be used&#10;  to deserialize the message." />
       <item value="  Marker annotation that indicates that the annotated method&#10;  or field should be serialized by including literal String value&#10;  of the property as is, without quoting of characters.&#10;  This can be useful for injecting values already serialized in JSON or &#10;  passing javascript function definitions from server to a javascript client.&#10; &lt;p&gt;&#10;  Warning: the resulting JSON stream may be invalid depending on your input value." />
       <item value="  A custom {@link ConstraintViolation} which allows to get additional information for a constraint violation.&#10; " />
       <item value="     The '(' numeric flag may be used to format negative numbers with&#10;     parentheses rather than a minus sign.  Group separators are&#10;     automatically inserted." />
@@ -54,7 +55,6 @@
       <item value="cascading" />
       <item value="IMPLICIT" />
       <item value="&#9;  If the annotation using {@code ExecutableType} is on a type (class or interface),&#10;&#9;  the behavior is equivalent to the annotation not being present." />
-      <item value="agnostic" />
     </histories>
     <option name="languageScores">
       <map>
