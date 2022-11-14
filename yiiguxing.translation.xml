@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Velocity Engine" />
       <item value="&#9;  Returns the constraint metadata reported to fail.&#10;&#9;  The returned instance is immutable." />
       <item value="executable Return Value" />
       <item value="executable Parameters" />
@@ -54,7 +55,6 @@
       <item value="Incubating" />
       <item value="  Provides Hibernate Validator extensions to {@link ValidatorFactory} in the context of a predefined scope." />
       <item value="visible side effect" />
-      <item value="      &lt;p&gt;Note that unlike the {@link java.io.Closeableclose close}&#10;      method of {@link java.io.Closeable}, this {@code close} method&#10;      is &lt;em&gt;not&lt;em&gt; required to be idempotent.  In other words,&#10;      calling this {@code close} method more than once may have some&#10;      visible side effect, unlike {@code Closeable.close} which is&#10;      required to have no effect if called more than once." />
     </histories>
     <option name="languageScores">
       <map>
