@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Composite Config" />
+      <item value="Dimension Config" />
+      <item value="predicate" />
+      <item value="Agg Config" />
+      <item value="Comparator" />
+      <item value="Aggregate Collector" />
+      <item value="  A &lt;a href=&quot;package-summary.htmlReduction&quot;&gt;mutable reduction operation&lt;a&gt; that&#10;  accumulates input elements into a mutable result container, optionally transforming&#10;  the accumulated result into a final representation after all input elements&#10;  have been processed.  Reduction operations can be performed either sequentially&#10;  or in parallel.&#10; " />
+      <item value="phantomjs" />
+      <item value="Persist Service" />
       <item value="Velocity Engine" />
       <item value="&#9;  Returns the constraint metadata reported to fail.&#10;&#9;  The returned instance is immutable." />
       <item value="executable Return Value" />
@@ -46,15 +55,6 @@
       <item value="component" />
       <item value="_copy Stack Trace Minus One" />
       <item value="Warning this class consists of generated code." />
-      <item value="     Returns the class of the caller of the method calling this method,&#10;        ignoring frames associated with java.lang.reflect.Method.invoke()&#10;        and its implementation. " />
-      <item value="  This class consists exclusively of static methods that operate on or return&#10;  method handles. They fall into several categories:&#10;  &lt;ul&gt;&#10;  &lt;li&gt;Lookup methods which help create method handles for methods and fields.&#10;  &lt;li&gt;Combinator methods, which combine or transform pre-existing method handles into new ones.&#10;  &lt;li&gt;Other factory methods to create method handles that emulate other common JVM operations or control flow patterns.&#10;  &lt;ul&gt;&#10; " />
-      <item value="Predefined Scope Validator Factory Impl" />
-      <item value="incubating" />
-      <item value="encouraged" />
-      <item value="  Marks the annotated element as incubating. The contract of incubating elements (e.g. packages, types, methods,&#10;  constants etc.) is under active development and may be incompatibly altered - or removed - in subsequent releases.&#10;  &lt;p&gt;&#10;  Usage of incubating APISPI members is encouraged (so the development team can get feedback on these new features)&#10;  but you should be prepared for updating code which is using them as needed." />
-      <item value="Incubating" />
-      <item value="  Provides Hibernate Validator extensions to {@link ValidatorFactory} in the context of a predefined scope." />
-      <item value="visible side effect" />
     </histories>
     <option name="languageScores">
       <map>
