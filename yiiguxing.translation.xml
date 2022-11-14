@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#9;  Returns the constraint metadata reported to fail.&#10;&#9;  The returned instance is immutable." />
+      <item value="executable Return Value" />
+      <item value="executable Parameters" />
+      <item value="interpolated Message" />
+      <item value="expression Variables" />
+      <item value="Constraint Violation" />
+      <item value="is Assignable From" />
+      <item value="&#9;  @param type The type of payload to retrieve&#10;&#9;  @return an instance of the specified type set by the user via&#10;&#9;  {@link HibernateConstraintValidatorContextwithDynamicPayload(Object)} or {@code null} if no constraint payload&#10;&#9;  if the given type has been set." />
+      <item value="  Describes a constraint violation. This object exposes the constraint&#10;  violation context as well as the message describing the violation." />
+      <item value="transient" />
+      <item value="canonical Field Name" />
       <item value="  Enumeration for basic token types used for returning results&#10;  of parsing JSON content." />
       <item value="  {@link HttpInputMessage} that can eventually stores a Jackson view that will be used&#10;  to deserialize the message." />
       <item value="  Marker annotation that indicates that the annotated method&#10;  or field should be serialized by including literal String value&#10;  of the property as is, without quoting of characters.&#10;  This can be useful for injecting values already serialized in JSON or &#10;  passing javascript function definitions from server to a javascript client.&#10; &lt;p&gt;&#10;  Warning: the resulting JSON stream may be invalid depending on your input value." />
@@ -44,17 +55,6 @@
       <item value="  Provides Hibernate Validator extensions to {@link ValidatorFactory} in the context of a predefined scope." />
       <item value="visible side effect" />
       <item value="      &lt;p&gt;Note that unlike the {@link java.io.Closeableclose close}&#10;      method of {@link java.io.Closeable}, this {@code close} method&#10;      is &lt;em&gt;not&lt;em&gt; required to be idempotent.  In other words,&#10;      calling this {@code close} method more than once may have some&#10;      visible side effect, unlike {@code Closeable.close} which is&#10;      required to have no effect if called more than once." />
-      <item value="idempotent" />
-      <item value="     Closes this resource, relinquishing any underlying resources.&#10;      This method is invoked automatically on objects managed by the&#10;      {@code try}-with-resources statement.&#10;     &#10;      &lt;p&gt;While this interface method is declared to throw {@code&#10;      Exception}, implementers are &lt;em&gt;strongly&lt;em&gt; encouraged to&#10;      declare concrete implementations of the {@code close} method to&#10;      throw more specific exceptions, or to throw no exception at all&#10;      if the close operation cannot fail.&#10;     &#10;      &lt;p&gt; Cases where the close operation may fail require careful&#10;      attention by implementers. It is strongly advised to relinquish&#10;      the underlying resources and to internally &lt;em&gt;mark&lt;em&gt; the&#10;      resource as closed, prior to throwing the exception. The {@code&#10;      close} method is unlikely to be invoked more than once and so&#10;      this ensures that the resources are released in a timely manner.&#10;      Furthermore it reduces problems that could arise when the resource&#10;      wraps, or is wrapped, by another resource.&#10;     &#10;      &lt;p&gt;&lt;em&gt;Implementers of this interface are also strongly advised&#10;      to not have the {@code close} method throw {@link&#10;      InterruptedException}.&lt;em&gt;&#10;     &#10;      This exception interacts with a thread's interrupted status,&#10;      and runtime misbehavior is likely to occur if an {@code&#10;      InterruptedException} is {@linkplain ThrowableaddSuppressed&#10;      suppressed}.&#10;     &#10;      More generally, if it would cause problems for an&#10;      exception to be suppressed, the {@code AutoCloseable.close}&#10;      method should not throw it.&#10;     &#10;      &lt;p&gt;Note that unlike the {@link java.io.Closeableclose close}&#10;      method of {@link java.io.Closeable}, this {@code close} method&#10;      is &lt;em&gt;not&lt;em&gt; required to be idempotent.  In other words,&#10;      calling this {@code close} method more than once may have some&#10;      visible side effect, unlike {@code Closeable.close} which is&#10;      required to have no effect if called more than once.&#10;     &#10;      However, implementers of this interface are strongly encouraged&#10;      to make their {@code close} methods idempotent." />
-      <item value="relinquishing" />
-      <item value="  &lt;p&gt;It is possible, and in fact common, for a base class to&#10;  implement AutoCloseable even though not all of its subclasses or&#10;  instances will hold releasable resources.  For code that must operate&#10;  in complete generality, or when it is known that the {@code AutoCloseable}&#10;  instance requires resource release, it is recommended to use {@code&#10;  try}-with-resources constructions. However, when using facilities such as&#10;  {@link java.util.stream.Stream} that support both IO-based and&#10;  non-IO-based forms, {@code try}-with-resources blocks are in&#10;  general unnecessary when using non-IO-based forms." />
-      <item value="  implement AutoCloseable even though not all of its subclasses or&#10;  instances will hold releasable resources.  For code that must operate&#10;  in complete generality, or when it is known that the {@code AutoCloseable}" />
-      <item value="It is possible, and in fact common, for a base class to&#10;  implement AutoCloseable even though not all of its subclasses or&#10;  instances will hold releasable resources.  For code that must operate&#10;  in complete generality, or when it is known that the {@code AutoCloseable}&#10;  instance requires resource release, it is recommended to use {@code&#10;  try}-with-resources constructions. However, when using facilities such as&#10;  {@link java.util.stream.Stream} that support both IO-based and&#10;  non-IO-based forms, {@code try}-with-resources blocks are in&#10;  general unnecessary when using non-IO-based forms." />
-      <item value="exhaustion" />
-      <item value="avoiding" />
-      <item value=" try}-with-resources block for which the object has been declared in&#10;  the resource specification header. This construction ensures prompt&#10;  release, avoiding resource exhaustion exceptions and errors that&#10;  may otherwise occur." />
-      <item value="cascading" />
-      <item value="IMPLICIT" />
     </histories>
     <option name="languageScores">
       <map>
