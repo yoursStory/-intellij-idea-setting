@@ -1,7 +1,10 @@
 <application>
   <component name="TipsStore">
+    <entry projectPath="D:/project/DataX_alibaba" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/DataX_wgzhao" startUpFlag="FIRST" />
     <entry projectPath="D:/project/SpringCloud" startUpFlag="FIRST" />
     <entry projectPath="D:/project/ballcat" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/datagear" startUpFlag="FIRST" />
     <entry projectPath="D:/project/drools" startUpFlag="FIRST" />
     <entry projectPath="D:/project/fernflower" startUpFlag="FIRST" />
     <entry projectPath="D:/project/iptv-gateway-sevice" startUpFlag="FIRST" />
@@ -11,19 +14,29 @@
     <entry projectPath="D:/project/java-ipr" startUpFlag="FIRST" />
     <entry projectPath="D:/project/java-ipr-api" startUpFlag="FIRST" />
     <entry projectPath="D:/project/java-ipr-cloud" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/jeecg-boot" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kboss-release" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kboss_merged" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kl-cloud" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kl-cloud-clone" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kl-cloud-new" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/leecode" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/liaoling-zhiguan-sync" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/oshi" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/phoenix" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/probe-management-test" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/spring-boot" startUpFlag="FIRST" />
     <entry projectPath="D:/project/spring-framework" startUpFlag="FIRST" />
     <entry projectPath="D:/project/spring-statemachine-main" startUpFlag="FIRST" />
     <entry projectPath="D:/project/springall_annotation" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/vaf" startUpFlag="FIRST" />
     <entry projectPath="D:/project/vaf-gateway" startUpFlag="FIRST" />
     <entry projectPath="D:/project/webauto" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/wgcloud" startUpFlag="FIRST" />
     <entry projectPath="D:/project/wx-api" startUpFlag="FIRST" />
     <entry projectPath="D:/project/wx-client" startUpFlag="FIRST" />
     <entry projectPath="D:/project/wx-manage" startUpFlag="FIRST" />
     <entry projectPath="D:/project/wx-paper" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/xiaoyi_crack" startUpFlag="FIRST" />
   </component>
 </application>
