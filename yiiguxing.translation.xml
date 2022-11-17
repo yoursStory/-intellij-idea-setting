@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Circular" />
       <item value="Spring Glue Factory" />
       <item value="enumeration" />
       <item value="  An object that implements the Enumeration interface generates a&#10;  series of elements, one at a time. Successive calls to the&#10;  {@code nextElement} method return successive elements of the&#10;  series.&#10;  &lt;p&gt;&#10;  For example, to print all elements of a {@code Vector&lt;E&gt;} &lt;i&gt;v&lt;i&gt;:&#10;  &lt;pre&gt;&#10;    for (Enumeration&amp;lt;E&amp;gt; e = v.elements(); e.hasMoreElements();)&#10;        System.out.println(e.nextElement());&lt;pre&gt;&#10;  &lt;p&gt;&#10;  Methods are provided to enumerate through the elements of a&#10;  vector, the keys of a hashtable, and the values in a hashtable.&#10;  Enumerations are also used to specify the input streams to a&#10;  {@code SequenceInputStream}.&#10; &#10;  @apiNote&#10;  The functionality of this interface is duplicated by the {@link Iterator}&#10;  interface.  In addition, {@code Iterator} adds an optional remove operation,&#10;  and has shorter method names.  New implementations should consider using&#10;  {@code Iterator} in preference to {@code Enumeration}. It is possible to&#10;  adapt an {@code Enumeration} to an {@code Iterator} by using the" />
@@ -54,7 +55,6 @@
       <item value="get Default Validation Provider Resolver" />
       <item value="      Return the version of this implementation. It consists of any string&#10;      assigned by the vendor of this implementation and does&#10;      not have any particular syntax specified or expected by the Java&#10;      runtime. It may be compared for equality with other&#10;      package version strings used for this implementation&#10;      by this vendor for this package.&#10;      @return the version of the implementation, {@code null} is returned if it is not known." />
       <item value="external Class Loader" />
-      <item value="      Copies the specified range of the specified array into a new array.&#10;      The initial index of the range ({@code from}) must lie between zero&#10;      and {@code original.length}, inclusive.  The value at&#10;      {@code original[from]} is placed into the initial element of the copy&#10;      (unless {@code from == original.length} or {@code from == to}).&#10;      Values from subsequent elements in the original array are placed into&#10;      subsequent elements in the copy.  The final index of the range&#10;      ({@code to}), which must be greater than or equal to {@code from},&#10;      may be greater than {@code original.length}, in which case&#10;      {@code null} is placed in all elements of the copy whose index is&#10;      greater than or equal to {@code original.length - from}.  The length&#10;      of the returned array will be {@code to - from}.&#10;      The resulting array is of the class {@code newType}." />
     </histories>
     <option name="languageScores">
       <map>
