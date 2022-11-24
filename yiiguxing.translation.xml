@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Discard" />
       <item value="hessian" />
       <item value="Circular" />
       <item value="Spring Glue Factory" />
@@ -54,7 +55,6 @@
       <item value="Abstract Message Interpolator" />
       <item value="  Define the strategy used to resolve the locale user for message interpolation when no locale is defined from the list&#10;  of supported locales.&#10; " />
       <item value="get Default Validation Provider Resolver" />
-      <item value="      Return the version of this implementation. It consists of any string&#10;      assigned by the vendor of this implementation and does&#10;      not have any particular syntax specified or expected by the Java&#10;      runtime. It may be compared for equality with other&#10;      package version strings used for this implementation&#10;      by this vendor for this package.&#10;      @return the version of the implementation, {@code null} is returned if it is not known." />
     </histories>
     <option name="languageScores">
       <map>
