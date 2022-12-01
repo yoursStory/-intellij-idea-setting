@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Immutable List" />
       <item value="registration" />
       <item value="GLUE" />
       <item value="Discard" />
@@ -54,7 +55,6 @@
       <item value="constraint" />
       <item value="&#9;  {@code MessageInterpolator} taking two resource bundle locators.&#10;&#9; &#10;&#9;  @param userResourceBundleLocator {@code ResourceBundleLocator} used to load user provided resource bundle&#10;&#9;  @param contributorResourceBundleLocator {@code ResourceBundleLocator} used to load resource bundle of constraint&#10;&#9;  contributor&#10;&#9;  @param locales the set of locales to initialize at bootstrap&#10;&#9;  @param defaultLocale the default locale&#10;&#9;  @param cacheMessages whether resolved messages should be cached or not&#10;&#9;  @param localeResolver the locale resolver&#10;&#9;  @param preloadResourceBundles if the resource bundled should be initialized at initialization time, this is useful in the case of a" />
       <item value="Interpolator" />
-      <item value="Abstract Message Interpolator" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669182871312" />
+    <option name="lastTrimTime" value="1669861719894" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
