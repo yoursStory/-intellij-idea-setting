@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="usage" />
       <item value="Usage" />
       <item value="Useage" />
       <item value="usages" />
@@ -54,7 +55,6 @@
       <item value="&#9;&#10;&#9;  Interpolates given term based on the constraint validation context.&#10;&#9; &#10;&#9;  @param term the message to interpolate&#10;&#9;  @param context contextual information related to the interpolation&#10;&#9; &#10;&#9;  @return interpolated message" />
       <item value="interpolate" />
       <item value="Resolves" />
-      <item value="contributor" />
     </histories>
     <option name="languageScores">
       <map>
