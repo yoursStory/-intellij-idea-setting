@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="2703" />
-    <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="constant" />
+      <item value="constant&#10;" />
       <item value="usage" />
       <item value="Usage" />
       <item value="Useage" />
@@ -53,8 +53,6 @@
       <item value=" &lt;p&gt; Formatters are not necessarily safe for multithreaded access.  Thread&#10;  safety is optional and is the responsibility of users of methods in this&#10;  class." />
       <item value="  An interpreter for printf-style format strings.  This class provides support&#10;  for layout justification and alignment, common formats for numeric, string,&#10;  and datetime data, and locale-specific output.  Common Java types such as&#10;  {@code byte}, {@link java.math.BigDecimal BigDecimal}, and {@link Calendar}&#10;  are supported.  Limited formatting customization for arbitrary user types is&#10;  provided through the {@link Formattable} interface.&#10; &#10;  &lt;p&gt; Formatters are not necessarily safe for multithreaded access.  Thread&#10;  safety is optional and is the responsibility of users of methods in this&#10;  class." />
       <item value="&#9;&#10;&#9;  Interpolates given term based on the constraint validation context.&#10;&#9; &#10;&#9;  @param term the message to interpolate&#10;&#9;  @param context contextual information related to the interpolation&#10;&#9; &#10;&#9;  @return interpolated message" />
-      <item value="interpolate" />
-      <item value="Resolves" />
     </histories>
     <option name="languageScores">
       <map>
