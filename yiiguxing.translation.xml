@@ -3,6 +3,8 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Batch Insert Or Update" />
+      <item value="Batchinsert Or Update" />
       <item value="constant" />
       <item value="constant&#10;" />
       <item value="usage" />
@@ -51,8 +53,6 @@
       <item value="     The '(' numeric flag may be used to format negative numbers with&#10;     parentheses rather than a minus sign.  Group separators are&#10;     automatically inserted." />
       <item value="  &lt;p&gt; Formatted printing for the Java language is heavily inspired by C's&#10;  {@code printf}.  Although the format strings are similar to C, some&#10;  customizations have been made to accommodate the Java language and exploit&#10;  some of its features.  Also, Java formatting is more strict than C's; for&#10;  example, if a conversion is incompatible with a flag, an exception will be&#10;  thrown.  In C inapplicable flags are silently ignored.  The format strings&#10;  are thus intended to be recognizable to C programmers but not necessarily&#10;  completely compatible with those in C." />
       <item value=" &lt;p&gt; Formatters are not necessarily safe for multithreaded access.  Thread&#10;  safety is optional and is the responsibility of users of methods in this&#10;  class." />
-      <item value="  An interpreter for printf-style format strings.  This class provides support&#10;  for layout justification and alignment, common formats for numeric, string,&#10;  and datetime data, and locale-specific output.  Common Java types such as&#10;  {@code byte}, {@link java.math.BigDecimal BigDecimal}, and {@link Calendar}&#10;  are supported.  Limited formatting customization for arbitrary user types is&#10;  provided through the {@link Formattable} interface.&#10; &#10;  &lt;p&gt; Formatters are not necessarily safe for multithreaded access.  Thread&#10;  safety is optional and is the responsibility of users of methods in this&#10;  class." />
-      <item value="&#9;&#10;&#9;  Interpolates given term based on the constraint validation context.&#10;&#9; &#10;&#9;  @param term the message to interpolate&#10;&#9;  @param context contextual information related to the interpolation&#10;&#9; &#10;&#9;  @return interpolated message" />
     </histories>
     <option name="languageScores">
       <map>
