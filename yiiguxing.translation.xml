@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="assistent" />
       <item value="Batch Insert Or Update" />
       <item value="Batchinsert Or Update" />
       <item value="constant" />
@@ -52,7 +53,6 @@
       <item value="  A custom {@link ConstraintViolation} which allows to get additional information for a constraint violation.&#10; " />
       <item value="     The '(' numeric flag may be used to format negative numbers with&#10;     parentheses rather than a minus sign.  Group separators are&#10;     automatically inserted." />
       <item value="  &lt;p&gt; Formatted printing for the Java language is heavily inspired by C's&#10;  {@code printf}.  Although the format strings are similar to C, some&#10;  customizations have been made to accommodate the Java language and exploit&#10;  some of its features.  Also, Java formatting is more strict than C's; for&#10;  example, if a conversion is incompatible with a flag, an exception will be&#10;  thrown.  In C inapplicable flags are silently ignored.  The format strings&#10;  are thus intended to be recognizable to C programmers but not necessarily&#10;  completely compatible with those in C." />
-      <item value=" &lt;p&gt; Formatters are not necessarily safe for multithreaded access.  Thread&#10;  safety is optional and is the responsibility of users of methods in this&#10;  class." />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +78,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669861719894" />
+    <option name="lastTrimTime" value="1670294982582" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
