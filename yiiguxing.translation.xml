@@ -3,6 +3,8 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thread starvation or clock leap detected" />
+      <item value="starvation" />
       <item value="capacity" />
       <item value="      Flips this buffer.  The limit is set to the current position and then&#10;      the position is set to zero.  If the mark is defined then it is&#10;      discarded.&#10;     &#10;      &lt;p&gt; After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke&#10;      this method to prepare for a sequence of channel-write or relative&#10;      &lt;i&gt;get&lt;i&gt; operations.  For example:&#10;     &#10;      &lt;blockquote&gt;&lt;pre&gt;&#10;      buf.put(magic);     Prepend header&#10;      in.read(buf);       Read data into rest of buffer&#10;      buf.flip();         Flip buffer&#10;      out.write(buf);     Write header + data to channel&lt;pre&gt;&lt;blockquote&gt;&#10;     &#10;      &lt;p&gt; This method is often used in conjunction with the {@link&#10;      java.nio.ByteBuffercompact compact} method when transferring data from&#10;      one place to another.  &lt;p&gt;" />
       <item value="flip" />
@@ -51,8 +53,6 @@
       <item value="Constraint Violation" />
       <item value="&#9;  @param type The type of payload to retrieve&#10;&#9;  @return an instance of the specified type set by the user via&#10;&#9;  {@link HibernateConstraintValidatorContextwithDynamicPayload(Object)} or {@code null} if no constraint payload&#10;&#9;  if the given type has been set." />
       <item value="  Describes a constraint violation. This object exposes the constraint&#10;  violation context as well as the message describing the violation." />
-      <item value="transient" />
-      <item value="canonical Field Name" />
     </histories>
     <option name="languageScores">
       <map>
