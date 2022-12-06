@@ -3,6 +3,9 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Disposable Bean" />
+      <item value="Smart Initializing Singleton" />
+      <item value="&#9;  Invoked right at the end of the singleton pre-instantiation phase,&#10;&#9;  with a guarantee that all regular singleton beans have been created&#10;&#9;  already. {@link ListableBeanFactorygetBeansOfType} calls within&#10;&#9;  this method won't trigger accidental side effects during bootstrap.&#10;&#9;  &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; This callback won't be triggered for singleton beans&#10;&#9;  lazily initialized on demand after {@link BeanFactory} bootstrap,&#10;&#9;  and not for any other bean scope either. Carefully use it for beans&#10;&#9;  with the intended bootstrap semantics only." />
       <item value="Thread starvation or clock leap detected" />
       <item value="starvation" />
       <item value="capacity" />
@@ -50,9 +53,6 @@
       <item value="executable Parameters" />
       <item value="interpolated Message" />
       <item value="expression Variables" />
-      <item value="Constraint Violation" />
-      <item value="&#9;  @param type The type of payload to retrieve&#10;&#9;  @return an instance of the specified type set by the user via&#10;&#9;  {@link HibernateConstraintValidatorContextwithDynamicPayload(Object)} or {@code null} if no constraint payload&#10;&#9;  if the given type has been set." />
-      <item value="  Describes a constraint violation. This object exposes the constraint&#10;  violation context as well as the message describing the violation." />
     </histories>
     <option name="languageScores">
       <map>
