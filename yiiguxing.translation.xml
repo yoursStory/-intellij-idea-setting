@@ -3,6 +3,8 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="obtain" />
+      <item value="Communications Exception" />
       <item value="introspect" />
       <item value="Disposable Bean" />
       <item value="Smart Initializing Singleton" />
@@ -51,8 +53,6 @@
       <item value="Velocity Engine" />
       <item value="&#9;  Returns the constraint metadata reported to fail.&#10;&#9;  The returned instance is immutable." />
       <item value="executable Return Value" />
-      <item value="executable Parameters" />
-      <item value="interpolated Message" />
     </histories>
     <option name="languageScores">
       <map>
