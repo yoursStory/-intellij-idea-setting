@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Hamcrest" />
       <item value="Under consideration, prevent affecting core tables" />
       <item value="obtain" />
       <item value="Communications Exception" />
@@ -52,7 +53,6 @@
       <item value="phantomjs" />
       <item value="Persist Service" />
       <item value="Velocity Engine" />
-      <item value="&#9;  Returns the constraint metadata reported to fail.&#10;&#9;  The returned instance is immutable." />
     </histories>
     <option name="languageScores">
       <map>
