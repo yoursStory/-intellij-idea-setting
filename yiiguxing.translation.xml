@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="kept" />
       <item value="is Ext Algorithm" />
       <item value="phase" />
       <item value="terminater" />
@@ -52,7 +53,6 @@
       <item value="predicate" />
       <item value="Agg Config" />
       <item value="Comparator" />
-      <item value="Aggregate Collector" />
     </histories>
     <option name="languageScores">
       <map>
