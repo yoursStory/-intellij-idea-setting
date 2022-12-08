@@ -3,6 +3,10 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="assembly" />
+      <item value="malformed" />
+      <item value="threaten" />
+      <item value="It is highly recommended to fix these problems because they threaten the stability of your build." />
       <item value="kept" />
       <item value="is Ext Algorithm" />
       <item value="phase" />
@@ -49,10 +53,6 @@
       <item value="flat Map" />
       <item value="Composite Config" />
       <item value="Dimension Config" />
-      <item value="is Assignable From" />
-      <item value="predicate" />
-      <item value="Agg Config" />
-      <item value="Comparator" />
     </histories>
     <option name="languageScores">
       <map>
