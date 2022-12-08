@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ext Algorithm" />
       <item value="assembly" />
       <item value="malformed" />
       <item value="threaten" />
@@ -52,7 +53,6 @@
       <item value="      Returns a stream consisting of the results of replacing each element of&#10;      this stream with the contents of a mapped stream produced by applying&#10;      the provided mapping function to each element.  Each mapped stream is&#10;      {@link java.util.stream.BaseStreamclose() closed} after its contents&#10;      have been placed into this stream.  (If a mapped stream is {@code null}&#10;      an empty stream is used, instead.)" />
       <item value="flat Map" />
       <item value="Composite Config" />
-      <item value="Dimension Config" />
     </histories>
     <option name="languageScores">
       <map>
