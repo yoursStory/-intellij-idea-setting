@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Aggregator" />
       <item value="incorrectly" />
       <item value="check Table Ref" />
       <item value="ext Algorithm" />
@@ -52,7 +53,6 @@
       <item value="      Returns a canonical representation for the string object.&#10;      &lt;p&gt;&#10;      A pool of strings, initially empty, is maintained privately by the&#10;      class {@code String}.&#10;      &lt;p&gt;&#10;      When the intern method is invoked, if the pool already contains a&#10;      string equal to this {@code String} object as determined by&#10;      the {@link equals(Object)} method, then the string from the pool is&#10;      returned. Otherwise, this {@code String} object is added to the&#10;      pool and a reference to this {@code String} object is returned.&#10;      &lt;p&gt;&#10;      It follows that for any two strings {@code s} and {@code t},&#10;      {@code s.intern() == t.intern()} is {@code true}&#10;      if and only if {@code s.equals(t)} is {@code true}.&#10;      &lt;p&gt;&#10;      All literal strings and string-valued constant expressions are&#10;      interned. String literals are defined in section 3.10.5 of the&#10;      &lt;cite&gt;The Java&amp;trade; Language Specification&lt;cite&gt;.&#10;     &#10;      @return  a string that has the same contents as this string, but is&#10;               guaranteed to be from a pool of unique strings.&#10;      @jls 3.10.5 String Literals" />
       <item value="      The data provider that support DataSource side Aggregation must implement this method." />
       <item value="      The {@code flatMap()} operation has the effect of applying a one-to-many&#10;      transformation to the elements of the stream, and then flattening the&#10;      resulting elements into a new stream.&#10;     &#10;      &lt;p&gt;&lt;b&gt;Examples.&lt;b&gt;&#10;     &#10;      &lt;p&gt;If {@code orders} is a stream of purchase orders, and each purchase&#10;      order contains a collection of line items, then the following produces a&#10;      stream containing all the line items in all the orders:&#10;      &lt;pre&gt;{@code&#10;          orders.flatMap(order -&gt; order.getLineItems().stream())...&#10;      }&lt;pre&gt;" />
-      <item value="      Returns a stream consisting of the results of replacing each element of&#10;      this stream with the contents of a mapped stream produced by applying&#10;      the provided mapping function to each element.  Each mapped stream is&#10;      {@link java.util.stream.BaseStreamclose() closed} after its contents&#10;      have been placed into this stream.  (If a mapped stream is {@code null}&#10;      an empty stream is used, instead.)" />
     </histories>
     <option name="languageScores">
       <map>
