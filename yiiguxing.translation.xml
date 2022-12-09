@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check Table Ref" />
       <item value="ext Algorithm" />
       <item value="assembly" />
       <item value="malformed" />
@@ -52,7 +53,6 @@
       <item value="      The {@code flatMap()} operation has the effect of applying a one-to-many&#10;      transformation to the elements of the stream, and then flattening the&#10;      resulting elements into a new stream.&#10;     &#10;      &lt;p&gt;&lt;b&gt;Examples.&lt;b&gt;&#10;     &#10;      &lt;p&gt;If {@code orders} is a stream of purchase orders, and each purchase&#10;      order contains a collection of line items, then the following produces a&#10;      stream containing all the line items in all the orders:&#10;      &lt;pre&gt;{@code&#10;          orders.flatMap(order -&gt; order.getLineItems().stream())...&#10;      }&lt;pre&gt;" />
       <item value="      Returns a stream consisting of the results of replacing each element of&#10;      this stream with the contents of a mapped stream produced by applying&#10;      the provided mapping function to each element.  Each mapped stream is&#10;      {@link java.util.stream.BaseStreamclose() closed} after its contents&#10;      have been placed into this stream.  (If a mapped stream is {@code null}&#10;      an empty stream is used, instead.)" />
       <item value="flat Map" />
-      <item value="Composite Config" />
     </histories>
     <option name="languageScores">
       <map>
