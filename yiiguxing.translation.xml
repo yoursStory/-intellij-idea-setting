@@ -3,6 +3,7 @@
     <option name="newTranslationDialogWidth" value="596" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="declined" />
       <item value="attractively" />
       <item value="Aggregator" />
       <item value="incorrectly" />
@@ -52,7 +53,6 @@
       <item value="enumeration" />
       <item value="  An object that implements the Enumeration interface generates a&#10;  series of elements, one at a time. Successive calls to the&#10;  {@code nextElement} method return successive elements of the&#10;  series.&#10;  &lt;p&gt;&#10;  For example, to print all elements of a {@code Vector&lt;E&gt;} &lt;i&gt;v&lt;i&gt;:&#10;  &lt;pre&gt;&#10;    for (Enumeration&amp;lt;E&amp;gt; e = v.elements(); e.hasMoreElements();)&#10;        System.out.println(e.nextElement());&lt;pre&gt;&#10;  &lt;p&gt;&#10;  Methods are provided to enumerate through the elements of a&#10;  vector, the keys of a hashtable, and the values in a hashtable.&#10;  Enumerations are also used to specify the input streams to a&#10;  {@code SequenceInputStream}.&#10; &#10;  @apiNote&#10;  The functionality of this interface is duplicated by the {@link Iterator}&#10;  interface.  In addition, {@code Iterator} adds an optional remove operation,&#10;  and has shorter method names.  New implementations should consider using&#10;  {@code Iterator} in preference to {@code Enumeration}. It is possible to&#10;  adapt an {@code Enumeration} to an {@code Iterator} by using the" />
       <item value="      Returns a canonical representation for the string object.&#10;      &lt;p&gt;&#10;      A pool of strings, initially empty, is maintained privately by the&#10;      class {@code String}.&#10;      &lt;p&gt;&#10;      When the intern method is invoked, if the pool already contains a&#10;      string equal to this {@code String} object as determined by&#10;      the {@link equals(Object)} method, then the string from the pool is&#10;      returned. Otherwise, this {@code String} object is added to the&#10;      pool and a reference to this {@code String} object is returned.&#10;      &lt;p&gt;&#10;      It follows that for any two strings {@code s} and {@code t},&#10;      {@code s.intern() == t.intern()} is {@code true}&#10;      if and only if {@code s.equals(t)} is {@code true}.&#10;      &lt;p&gt;&#10;      All literal strings and string-valued constant expressions are&#10;      interned. String literals are defined in section 3.10.5 of the&#10;      &lt;cite&gt;The Java&amp;trade; Language Specification&lt;cite&gt;.&#10;     &#10;      @return  a string that has the same contents as this string, but is&#10;               guaranteed to be from a pool of unique strings.&#10;      @jls 3.10.5 String Literals" />
-      <item value="      The data provider that support DataSource side Aggregation must implement this method." />
     </histories>
     <option name="languageScores">
       <map>
