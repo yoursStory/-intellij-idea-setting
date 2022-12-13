@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Local Date Time Deserializer" />
       <item value="Release" />
       <item value="publish" />
       <item value="发布" />
@@ -54,7 +55,6 @@
       <item value="Discard" />
       <item value="hessian" />
       <item value="Circular" />
-      <item value="Spring Glue Factory" />
     </histories>
     <option name="languageScores">
       <map>
