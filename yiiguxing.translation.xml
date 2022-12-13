@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="manufacturer" />
       <item value="Local Date Time Deserializer" />
       <item value="Release" />
       <item value="publish" />
@@ -54,7 +55,6 @@
       <item value="GLUE" />
       <item value="Discard" />
       <item value="hessian" />
-      <item value="Circular" />
     </histories>
     <option name="languageScores">
       <map>
