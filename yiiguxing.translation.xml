@@ -5,6 +5,23 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="and only again&#10;      after time to live (ttl) has expired." />
+      <item value="   Store a supplier in a delegate function to be computed once, and only again&#10;      after time to live (ttl) has expired." />
+      <item value="volatile" />
+      <item value="recheck for lost race" />
+      <item value="delegate" />
+      <item value="Adapted from Guava's ExpiringMemoizingSupplier" />
+      <item value="Time in nanoseconds to retain calculation. If negative, retain&#10;                 indefinitely." />
+      <item value="  A memoized function stores the output corresponding to some set of specific&#10;  inputs. Subsequent calls with remembered inputs return the remembered result&#10;  rather than recalculating it." />
+      <item value="memoize" />
+      <item value="allocated" />
+      <item value="     @deprecated This method propagates any exception thrown by the&#10;      nullary constructor, including a checked exception.  Use of&#10;      this method effectively bypasses the compile-time exception&#10;      checking that would otherwise be performed by the compiler.&#10;      The {@link" />
+      <item value="instantiated" />
+      <item value="      Creates a new instance of the class represented by this {@code Class}&#10;      object.  The class is instantiated as if by a {@code new}&#10;      expression with an empty argument list.  The class is initialized if it&#10;      has not already been initialized.&#10;     &#10;      @deprecated This method propagates any exception thrown by the&#10;      nullary constructor, including a checked exception.  Use of&#10;      this method effectively bypasses the compile-time exception&#10;      checking that would otherwise be performed by the compiler." />
+      <item value="reflective" />
+      <item value="  Common superclass of exceptions thrown by reflective operations in&#10;  core reflection.&#10; " />
+      <item value="Instantiation Exception" />
+      <item value="  Thrown when an application tries to create an instance of a class&#10;  using the {@code newInstance} method in class&#10;  {@code Class}, but the specified class object cannot be&#10;  instantiated.  The instantiation can fail for a variety of&#10;  reasons including but not limited to:&#10; &#10;  &lt;ul&gt;&#10;  &lt;li&gt; the class object represents an abstract class, an interface,&#10;       an array class, a primitive type, or {@code void}&#10;  &lt;li&gt; the class has no nullary constructor" />
       <item value="  This class represents a Network Interface made up of a name,&#10;  and a list of IP addresses assigned to this interface.&#10;  It is used to identify the local interface on which a multicast group&#10;  is joined.&#10; &#10;  Interfaces are normally known by names such as &quot;le0&quot;." />
       <item value="Indicates" />
       <item value="Network interfaces implementation" />
@@ -38,23 +55,6 @@
       <item value="surefire" />
       <item value="Hamcrest" />
       <item value="Under consideration, prevent affecting core tables" />
-      <item value="obtain" />
-      <item value="Communications Exception" />
-      <item value="introspect" />
-      <item value="Disposable Bean" />
-      <item value="Smart Initializing Singleton" />
-      <item value="&#9;  Invoked right at the end of the singleton pre-instantiation phase,&#10;&#9;  with a guarantee that all regular singleton beans have been created&#10;&#9;  already. {@link ListableBeanFactorygetBeansOfType} calls within&#10;&#9;  this method won't trigger accidental side effects during bootstrap.&#10;&#9;  &lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; This callback won't be triggered for singleton beans&#10;&#9;  lazily initialized on demand after {@link BeanFactory} bootstrap,&#10;&#9;  and not for any other bean scope either. Carefully use it for beans&#10;&#9;  with the intended bootstrap semantics only." />
-      <item value="Thread starvation or clock leap detected" />
-      <item value="starvation" />
-      <item value="capacity" />
-      <item value="      Flips this buffer.  The limit is set to the current position and then&#10;      the position is set to zero.  If the mark is defined then it is&#10;      discarded.&#10;     &#10;      &lt;p&gt; After a sequence of channel-read or &lt;i&gt;put&lt;i&gt; operations, invoke&#10;      this method to prepare for a sequence of channel-write or relative&#10;      &lt;i&gt;get&lt;i&gt; operations.  For example:&#10;     &#10;      &lt;blockquote&gt;&lt;pre&gt;&#10;      buf.put(magic);     Prepend header&#10;      in.read(buf);       Read data into rest of buffer&#10;      buf.flip();         Flip buffer&#10;      out.write(buf);     Write header + data to channel&lt;pre&gt;&lt;blockquote&gt;&#10;     &#10;      &lt;p&gt; This method is often used in conjunction with the {@link&#10;      java.nio.ByteBuffercompact compact} method when transferring data from&#10;      one place to another.  &lt;p&gt;" />
-      <item value="flip" />
-      <item value="condition" />
-      <item value="select Label Column" />
-      <item value="Lable" />
-      <item value="assistent" />
-      <item value="Batch Insert Or Update" />
-      <item value="Batchinsert Or Update" />
     </histories>
     <option name="languageScores">
       <map>
