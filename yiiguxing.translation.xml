@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Network interfaces implementation" />
+      <item value="Network IF" />
+      <item value="Processor Identifier" />
+      <item value="   Maximum frequeny (in Hz), of the logical processors on this CPU." />
+      <item value="Central Processor" />
+      <item value="  This class represents the entire Central Processing Unit (CPU) of a computer&#10;  system, which may contain one or more physical packages (sockets), one or&#10;  more physical processors (cores), and one or more logical processors (what&#10;  the Operating System sees, which may include hyperthreaded cores.)" />
+      <item value="ticks" />
+      <item value="query Cpu Manufacturer" />
+      <item value="pc Manufacturer" />
       <item value="manufacturer" />
       <item value="Local Date Time Deserializer" />
       <item value="Release" />
@@ -46,15 +55,6 @@
       <item value="Batchinsert Or Update" />
       <item value="constant" />
       <item value="constant&#10;" />
-      <item value="usage" />
-      <item value="Usage" />
-      <item value="Useage" />
-      <item value="usages" />
-      <item value="Immutable List" />
-      <item value="registration" />
-      <item value="GLUE" />
-      <item value="Discard" />
-      <item value="hessian" />
     </histories>
     <option name="languageScores">
       <map>
