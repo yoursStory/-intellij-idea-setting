@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Indicates" />
       <item value="Network interfaces implementation" />
       <item value="Network IF" />
       <item value="Processor Identifier" />
@@ -54,7 +55,6 @@
       <item value="Batch Insert Or Update" />
       <item value="Batchinsert Or Update" />
       <item value="constant" />
-      <item value="constant&#10;" />
     </histories>
     <option name="languageScores">
       <map>
