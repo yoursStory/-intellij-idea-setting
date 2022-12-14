@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  This class represents a Network Interface made up of a name,&#10;  and a list of IP addresses assigned to this interface.&#10;  It is used to identify the local interface on which a multicast group&#10;  is joined.&#10; &#10;  Interfaces are normally known by names such as &quot;le0&quot;." />
       <item value="Indicates" />
       <item value="Network interfaces implementation" />
       <item value="Network IF" />
@@ -54,7 +55,6 @@
       <item value="assistent" />
       <item value="Batch Insert Or Update" />
       <item value="Batchinsert Or Update" />
-      <item value="constant" />
     </histories>
     <option name="languageScores">
       <map>
