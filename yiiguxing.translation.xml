@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Linux Sensors" />
       <item value="      Number of pages written to pagingswap file(s) to free up space in physical&#10;      memory. Pages are written back to disk only if they are changed in physical&#10;      memory, so they are likely to hold data, not code. A high rate of pages&#10;      output might indicate a memory shortage. The operating system writes more&#10;      pages back to disk to free up space when physical memory is in short supply." />
       <item value="      Number of pages read from pagingswap file(s) to resolve hard page faults.&#10;      (Hard page faults occur when a process requires code or data that is not in&#10;      its working set or elsewhere in physical memory, and must be retrieved from&#10;      disk.) This property was designed as a primary indicator of the kinds of&#10;      faults that cause system-wide delays. It includes pages retrieved to satisfy&#10;      faults in the file system cache (usually requested by applications) and in&#10;      non-cached mapped memory files." />
       <item value="      The memory currently committed by the system, in bytes. Also called the&#10;      Commit Total. This is generally equal to the sum of the bytes used of&#10;      physical memory and pagingswap file(s).&#10;      &lt;p&gt;&#10;      On Windows, committing pages changes this value immediately; however, the&#10;      physical memory is not charged until the pages are accessed, so this value&#10;      may exceed the sum of used physical and pagingswap file memory.&#10;     &#10;      @return Swap used in bytes" />
@@ -54,7 +55,6 @@
       <item value="serial" />
       <item value="The disk model" />
       <item value="      Make a best effort to update all the statistics about the drive without&#10;      needing to recreate the drive list. This method provides for more frequent&#10;      periodic updates of individual drive statistics but may be less efficient to&#10;      use if updating all drives. It will not detect if a removable drive has been&#10;      removed and replaced by a different drive in between method calls." />
-      <item value="True if the update was (probably) successful, false if the disk was&#10;              not found" />
     </histories>
     <option name="languageScores">
       <map>
