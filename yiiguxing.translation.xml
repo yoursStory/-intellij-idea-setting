@@ -5,6 +5,21 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Major" />
+      <item value="The unique partition id" />
+      <item value="The time spent reading or writing, in milliseconds." />
+      <item value="the transfer time" />
+      <item value="      The length of the disk queue (IO's in progress). Includes IO requests that&#10;      have been issued to the device driver but have not yet completed. Not&#10;      supported on macOS.&#10;     " />
+      <item value="      The length of the disk queue (IO's in progress). Includes IO requests that&#10;      have been issued to the device driver but have not yet completed. Not&#10;      supported on macOS.&#10;     &#10;      @return the current disk queue length" />
+      <item value="The number of bytes read from the disk" />
+      <item value="The number of reads from the disk" />
+      <item value="         The parsing implementation in ParseUtil requires these to be declared&#10;         in increasing order. Use 0-ordered index here" />
+      <item value="compute Disk Stats" />
+      <item value="model" />
+      <item value="serial" />
+      <item value="The disk model" />
+      <item value="      Make a best effort to update all the statistics about the drive without&#10;      needing to recreate the drive list. This method provides for more frequent&#10;      periodic updates of individual drive statistics but may be less efficient to&#10;      use if updating all drives. It will not detect if a removable drive has been&#10;      removed and replaced by a different drive in between method calls." />
+      <item value="True if the update was (probably) successful, false if the disk was&#10;              not found" />
       <item value="  A storage mechanism where data are recorded by various electronic, magnetic,&#10;  optical, or mechanical changes to a surface layer of one or more rotating&#10;  disks or or flash storage such as a removable or solid state drive. In&#10;  constrast to a File System, defining the way an Operating system uses the&#10;  storage, the Disk Store represents the hardware which a FileSystem uses for&#10;  its File Stores.&#10;  &lt;p&gt;&#10;  Thread safe for the designed use of retrieving the most recent data. Users&#10;  should be aware that the {@link updateAttributes()} method may update&#10;  attributes, including the time stamp, and should externally synchronize such&#10;  usage to ensure consistent calculations." />
       <item value="      Returns the network prefix length for this address. This is also known&#10;      as the subnet mask in the context of IPv4 addresses.&#10;      Typical IPv4 values would be 8 (255.0.0.0), 16 (255.255.0.0)&#10;      or 24 (255.255.255.0). &lt;p&gt;&#10;      Typical IPv6 values would be 128 (::1128) or 10 (fe80::203:baff:fe27:124310)&#10;     &#10;      @return a {@code short} representing the prefix length for the&#10;              subnet of that address." />
       <item value="      Returns the Maximum Transmission Unit (MTU) of this interface.&#10;     &#10;      @return the value of the MTU for that interface." />
@@ -40,21 +55,6 @@
       <item value="reflective" />
       <item value="  Common superclass of exceptions thrown by reflective operations in&#10;  core reflection.&#10; " />
       <item value="Instantiation Exception" />
-      <item value="  Thrown when an application tries to create an instance of a class&#10;  using the {@code newInstance} method in class&#10;  {@code Class}, but the specified class object cannot be&#10;  instantiated.  The instantiation can fail for a variety of&#10;  reasons including but not limited to:&#10; &#10;  &lt;ul&gt;&#10;  &lt;li&gt; the class object represents an abstract class, an interface,&#10;       an array class, a primitive type, or {@code void}&#10;  &lt;li&gt; the class has no nullary constructor" />
-      <item value="  This class represents a Network Interface made up of a name,&#10;  and a list of IP addresses assigned to this interface.&#10;  It is used to identify the local interface on which a multicast group&#10;  is joined.&#10; &#10;  Interfaces are normally known by names such as &quot;le0&quot;." />
-      <item value="Indicates" />
-      <item value="Network interfaces implementation" />
-      <item value="Network IF" />
-      <item value="Processor Identifier" />
-      <item value="   Maximum frequeny (in Hz), of the logical processors on this CPU." />
-      <item value="Central Processor" />
-      <item value="  This class represents the entire Central Processing Unit (CPU) of a computer&#10;  system, which may contain one or more physical packages (sockets), one or&#10;  more physical processors (cores), and one or more logical processors (what&#10;  the Operating System sees, which may include hyperthreaded cores.)" />
-      <item value="ticks" />
-      <item value="query Cpu Manufacturer" />
-      <item value="pc Manufacturer" />
-      <item value="manufacturer" />
-      <item value="Local Date Time Deserializer" />
-      <item value="Release" />
     </histories>
     <option name="languageScores">
       <map>
