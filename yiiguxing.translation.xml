@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  A storage mechanism where data are recorded by various electronic, magnetic,&#10;  optical, or mechanical changes to a surface layer of one or more rotating&#10;  disks or or flash storage such as a removable or solid state drive. In&#10;  constrast to a File System, defining the way an Operating system uses the&#10;  storage, the Disk Store represents the hardware which a FileSystem uses for&#10;  its File Stores.&#10;  &lt;p&gt;&#10;  Thread safe for the designed use of retrieving the most recent data. Users&#10;  should be aware that the {@link updateAttributes()} method may update&#10;  attributes, including the time stamp, and should externally synchronize such&#10;  usage to ensure consistent calculations." />
       <item value="      Returns the network prefix length for this address. This is also known&#10;      as the subnet mask in the context of IPv4 addresses.&#10;      Typical IPv4 values would be 8 (255.0.0.0), 16 (255.255.0.0)&#10;      or 24 (255.255.255.0). &lt;p&gt;&#10;      Typical IPv6 values would be 128 (::1128) or 10 (fe80::203:baff:fe27:124310)&#10;     &#10;      @return a {@code short} representing the prefix length for the&#10;              subnet of that address." />
       <item value="      Returns the Maximum Transmission Unit (MTU) of this interface.&#10;     &#10;      @return the value of the MTU for that interface." />
       <item value="      Returns the index of this network interface. The index is an integer greater&#10;      or equal to zero, or {@code -1} for unknown. This is a system specific value&#10;      and interfaces with the same name can have different indexes on different&#10;      machines.&#10;     &#10;      @return the index of this network interface or {@code -1} if the index is&#10;              unknown" />
@@ -54,7 +55,6 @@
       <item value="manufacturer" />
       <item value="Local Date Time Deserializer" />
       <item value="Release" />
-      <item value="publish" />
     </histories>
     <option name="languageScores">
       <map>
