@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="collisions" />
+      <item value="     The current operational state of a network interface." />
+      <item value="in Errors" />
+      <item value="out Errors" />
+      <item value="packets Sent" />
+      <item value="bytes Sent" />
+      <item value="Present" />
+      <item value="connector Present" />
+      <item value="speed" />
+      <item value="in Drops" />
       <item value="  Anything between the start of the string and the beginning&#10;                 of the format specifier is either fixed text or contains&#10;                 an invalid format string." />
       <item value="Returns the Maximum Transmission Unit (MTU) of this interface" />
       <item value="and only again&#10;      after time to live (ttl) has expired." />
@@ -45,16 +55,6 @@
       <item value="Aggregator" />
       <item value="incorrectly" />
       <item value="check Table Ref" />
-      <item value="ext Algorithm" />
-      <item value="assembly" />
-      <item value="malformed" />
-      <item value="threaten" />
-      <item value="It is highly recommended to fix these problems because they threaten the stability of your build." />
-      <item value="kept" />
-      <item value="is Ext Algorithm" />
-      <item value="phase" />
-      <item value="terminater" />
-      <item value="surefire" />
     </histories>
     <option name="languageScores">
       <map>
