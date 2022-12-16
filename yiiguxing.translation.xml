@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Returns the network prefix length for this address. This is also known&#10;      as the subnet mask in the context of IPv4 addresses.&#10;      Typical IPv4 values would be 8 (255.0.0.0), 16 (255.255.0.0)&#10;      or 24 (255.255.255.0). &lt;p&gt;&#10;      Typical IPv6 values would be 128 (::1128) or 10 (fe80::203:baff:fe27:124310)&#10;     &#10;      @return a {@code short} representing the prefix length for the&#10;              subnet of that address." />
+      <item value="      Returns the Maximum Transmission Unit (MTU) of this interface.&#10;     &#10;      @return the value of the MTU for that interface." />
+      <item value="      Returns the index of this network interface. The index is an integer greater&#10;      or equal to zero, or {@code -1} for unknown. This is a system specific value&#10;      and interfaces with the same name can have different indexes on different&#10;      machines.&#10;     &#10;      @return the index of this network interface or {@code -1} if the index is&#10;              unknown" />
+      <item value="      Returns the index of this network interface. The index is an integer greater&#10;      or equal to zero, or {@code -1} for unknown. This is a system specific value&#10;      and interfaces with the same name can have different indexes on different&#10;      machines.&#10;     " />
+      <item value="      Interface index.&#10;     &#10;      @return The index of the network interface." />
+      <item value="    Interface description.&#10;     &#10;      @return The description of the network interface. On some platforms, this is&#10;              identical to the name" />
       <item value="collisions" />
       <item value="     The current operational state of a network interface." />
       <item value="in Errors" />
@@ -49,12 +55,6 @@
       <item value="Local Date Time Deserializer" />
       <item value="Release" />
       <item value="publish" />
-      <item value="发布" />
-      <item value="declined" />
-      <item value="attractively" />
-      <item value="Aggregator" />
-      <item value="incorrectly" />
-      <item value="check Table Ref" />
     </histories>
     <option name="languageScores">
       <map>
