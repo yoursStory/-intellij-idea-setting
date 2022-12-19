@@ -1,10 +1,31 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
-    <option name="newTranslationDialogX" value="2703" />
-    <option name="newTranslationDialogY" value="454" />
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="2783" />
+    <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="caveats" />
+      <item value="caveate" />
+      <item value="cave" />
+      <item value="interchangeable" />
+      <item value="interchange" />
+      <item value="inter" />
+      <item value="counterpart" />
+      <item value="counterparts" />
+      <item value="c" />
+      <item value="several" />
+      <item value="se" />
+      <item value="see" />
+      <item value="particular" />
+      <item value="parti" />
+      <item value="https://github.com/kohlschutter/junixsocket.git" />
+      <item value="staging" />
+      <item value="use-staging" />
+      <item value="datagrams" />
+      <item value=" Additionally, you can build and run junixsocket natively on IBM zOS (experimental).&#10; Supports all Java versions since Java 8&#10; Supports both the Java Socket API and NIO " />
+      <item value=" Comes with pre-built native libraries for most operating systems and platforms, including&#10;  macOS, Linux, Windows, Solaris, FreeBSD, NetBSD, OpenBSD, DragonFlyBSD, AIX, IBM i." />
+      <item value=" junixsocket is the most complete implementation of AF_UNIX sockets for the Java ecosystem.&#10; Supports other socket types, such as TIPC (on Linux) and VSOCK (on Linux, and certain macOS VMs), as well!" />
       <item value="Linux Sensors" />
       <item value="      Number of pages written to pagingswap file(s) to free up space in physical&#10;      memory. Pages are written back to disk only if they are changed in physical&#10;      memory, so they are likely to hold data, not code. A high rate of pages&#10;      output might indicate a memory shortage. The operating system writes more&#10;      pages back to disk to free up space when physical memory is in short supply." />
       <item value="      Number of pages read from pagingswap file(s) to resolve hard page faults.&#10;      (Hard page faults occur when a process requires code or data that is not in&#10;      its working set or elsewhere in physical memory, and must be retrieved from&#10;      disk.) This property was designed as a primary indicator of the kinds of&#10;      faults that cause system-wide delays. It includes pages retrieved to satisfy&#10;      faults in the file system cache (usually requested by applications) and in&#10;      non-cached mapped memory files." />
@@ -34,27 +55,6 @@
       <item value="processor ID" />
       <item value="cpu Identifier" />
       <item value="cpu Vendor Freq" />
-      <item value="cpu Family" />
-      <item value="cpu Vendor" />
-      <item value="      A class encapsulating ghe CPU's identifier strings ,including name, vendor,&#10;      stepping, model, and family information (also called the signature of a CPU)" />
-      <item value="Processor Identifier" />
-      <item value="  The presence of this annotation indicates that the author believes the class&#10;  to be immutable and hence inherently thread-safe. An immutable class is one&#10;  where the state of an instance cannot be &lt;i&gt;seen&lt;i&gt; to change. As a result&#10;  &lt;ul&gt;&#10;  &lt;li&gt;All public fields must be {@code final}&lt;li&gt;&#10;  &lt;li&gt;All public final reference fields are either {@code null} or refer to&#10;  other immutable objects&lt;li&gt;&#10;  &lt;li&gt;Constructors and methods do not publish references to any potentially&#10;  mutable internal state.&lt;li&gt;&#10;  &lt;ul&gt;&#10;  Performance optimization may mean that instances of an immutable class may&#10;  have mutable internal state. The critical point is that callers cannot tell&#10;  the difference. For example {@link String} is an immutable class, despite&#10;  having an internal int that is non-final but used as a cache for&#10;  {@link StringhashCode()}.&#10;  &lt;p&gt;&#10;  Immutable objects are inherently thread-safe; they may be passed between&#10;  threads or published without synchronization.&#10;  &lt;p&gt;&#10;  This annotation is intended for internal use in OSHI as a temporary&#10;  workaround until it is available in {@code jakarta.annotations}." />
-      <item value="Immutable" />
-      <item value="  This class represents the entire Central Processing Unit (CPU) of a computer&#10;  system, which may contain one or more physical packages (sockets), one or&#10;  more physical processors (cores), and one or more logical processors (what&#10;  the Operating System sees, which may include hyperthreaded cores.)" />
-      <item value="Major" />
-      <item value="The unique partition id" />
-      <item value="The time spent reading or writing, in milliseconds." />
-      <item value="the transfer time" />
-      <item value="      The length of the disk queue (IO's in progress). Includes IO requests that&#10;      have been issued to the device driver but have not yet completed. Not&#10;      supported on macOS.&#10;     " />
-      <item value="      The length of the disk queue (IO's in progress). Includes IO requests that&#10;      have been issued to the device driver but have not yet completed. Not&#10;      supported on macOS.&#10;     &#10;      @return the current disk queue length" />
-      <item value="The number of bytes read from the disk" />
-      <item value="The number of reads from the disk" />
-      <item value="         The parsing implementation in ParseUtil requires these to be declared&#10;         in increasing order. Use 0-ordered index here" />
-      <item value="compute Disk Stats" />
-      <item value="model" />
-      <item value="serial" />
-      <item value="The disk model" />
-      <item value="      Make a best effort to update all the statistics about the drive without&#10;      needing to recreate the drive list. This method provides for more frequent&#10;      periodic updates of individual drive statistics but may be less efficient to&#10;      use if updating all drives. It will not detect if a removable drive has been&#10;      removed and replaced by a different drive in between method calls." />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670822899598" />
+    <option name="lastTrimTime" value="1671433278931" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
