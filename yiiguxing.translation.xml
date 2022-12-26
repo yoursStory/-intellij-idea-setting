@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Returns an {@code UnmodifiableList} of the CPU's physical processors. The&#10;      list will be sorted in order of increasing core ID.&#10;     &#10;      @return An {@code UnmodifiabeList} of physical processors." />
+      <item value="the number of logical processors, which corresponds to the number&#10;                 of lines to read from the file." />
       <item value="caveats" />
       <item value="caveate" />
       <item value="cave" />
@@ -53,8 +55,6 @@
       <item value="cpu Model" />
       <item value="cpu Stepping" />
       <item value="processor ID" />
-      <item value="cpu Identifier" />
-      <item value="cpu Vendor Freq" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1671433278931" />
+    <option name="lastTrimTime" value="1672046794921" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
