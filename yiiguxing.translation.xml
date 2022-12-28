@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mulit Ids" />
+      <item value="Mulit" />
+      <item value="get Mulit Dataset Vo" />
+      <item value="Muli" />
       <item value="      Returns an {@code UnmodifiableList} of the CPU's physical processors. The&#10;      list will be sorted in order of increasing core ID.&#10;     &#10;      @return An {@code UnmodifiabeList} of physical processors." />
       <item value="the number of logical processors, which corresponds to the number&#10;                 of lines to read from the file." />
       <item value="caveats" />
@@ -51,10 +55,6 @@
       <item value="      A class representing a Logical Processor and its replationship to physical&#10;      processors, physical packages, and logical groupings such as NUMA Nodes and&#10;      Processor groups, useful for identifying processor topology." />
       <item value="efficiency" />
       <item value="physical Package Number" />
-      <item value="     A class representing a Physical Processor (a core) providing per-core&#10;      statistics that may vary, particularly in hybridmodular processors." />
-      <item value="cpu Model" />
-      <item value="cpu Stepping" />
-      <item value="processor ID" />
     </histories>
     <option name="languageScores">
       <map>
