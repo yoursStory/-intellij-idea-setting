@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Aviator Evaluator" />
       <item value="flip" />
       <item value="mulit Ids" />
       <item value="Mulit" />
@@ -54,7 +55,6 @@
       <item value="processor Number" />
       <item value="physical Processor Number" />
       <item value="      A class representing a Logical Processor and its replationship to physical&#10;      processors, physical packages, and logical groupings such as NUMA Nodes and&#10;      Processor groups, useful for identifying processor topology." />
-      <item value="efficiency" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672046794921" />
+    <option name="lastTrimTime" value="1672833369820" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
