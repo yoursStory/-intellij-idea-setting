@@ -26,6 +26,14 @@
           <option name="url" value="http://gitlab.vixtel.com/vaf/common/uni-alarm-subscribe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.vixtel.com/vaf/common/uni-alarm-analysis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.vixtel.com/vaf/common/data-terminater.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\vaf\common" />
