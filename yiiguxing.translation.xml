@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DELAY MICROSECOND" />
+      <item value="DELAY MILLISECOND" />
       <item value="title Suffer" />
       <item value="dest Data Unit" />
       <item value="flip" />
@@ -53,8 +55,6 @@
       <item value="Maximum frequeny (in Hz), of the logical processors on this CPU." />
       <item value="          Time that the CPU or CPUs were idle and the system did not have an&#10;          outstanding disk IO request." />
       <item value="          CPU utilization that occurred while executing at the user level with nice&#10;          priority." />
-      <item value="processor Number" />
-      <item value="physical Processor Number" />
     </histories>
     <option name="languageScores">
       <map>
