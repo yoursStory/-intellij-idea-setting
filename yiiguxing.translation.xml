@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="2783" />
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="title Suffer" />
+      <item value="dest Data Unit" />
       <item value="flip" />
       <item value="mulit Ids" />
       <item value="Mulit" />
@@ -53,8 +55,6 @@
       <item value="          CPU utilization that occurred while executing at the user level with nice&#10;          priority." />
       <item value="processor Number" />
       <item value="physical Processor Number" />
-      <item value="      A class representing a Logical Processor and its replationship to physical&#10;      processors, physical packages, and logical groupings such as NUMA Nodes and&#10;      Processor groups, useful for identifying processor topology." />
-      <item value="efficiency" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,17 +80,17 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1672046794921" />
+    <option name="lastTrimTime" value="1673229698487" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="foldOriginal" value="true" />
     <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Cambria" />
     <option name="primaryFontFamily" value="DialogInput" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="YOUDAO" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="512e876ddd7d2c77" />
