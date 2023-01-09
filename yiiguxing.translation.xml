@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A string composed of this string repeated&#10;               {@code count} times or the empty string if this&#10;               string is empty or count is zero" />
+      <item value="      Returns a string whose value is the concatenation of this&#10;      string repeated {@code count} times.&#10;      &lt;p&gt;&#10;      If this string is empty or count is zero then the empty&#10;      string is returned." />
       <item value="DELAY MICROSECOND" />
       <item value="DELAY MILLISECOND" />
       <item value="title Suffer" />
@@ -53,8 +55,6 @@
       <item value="      Returns the &quot;recent cpu usage&quot; for the whole system by counting ticks from&#10;      {@link getSystemCpuLoadTicks()} between the user-provided value from a&#10;      previous call." />
       <item value="      Returns an {@code UnmodifiableList} of the CPU's logical processors. The list&#10;      will be sorted in order of increasing NUMA node number, and then processor&#10;      number. This order is consistent with other methods providing per-processor&#10;      results." />
       <item value="Maximum frequeny (in Hz), of the logical processors on this CPU." />
-      <item value="          Time that the CPU or CPUs were idle and the system did not have an&#10;          outstanding disk IO request." />
-      <item value="          CPU utilization that occurred while executing at the user level with nice&#10;          priority." />
     </histories>
     <option name="languageScores">
       <map>
