@@ -34,6 +34,18 @@
           <option name="url" value="http://gitlab.vixtel.com/vaf/common/data-terminater.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.168.1.153/vaf/tenant3/cms-main-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.168.1.153/vaf/common/uni-user.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.168.1.153/vaf/common/uni-alarm-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\vaf\common" />
