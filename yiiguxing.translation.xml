@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transform" />
+      <item value="export" />
       <item value="  Annotation used at the field or methodconstructor parameter level&#10;  that indicates a default value expression for the annotated element.&#10; &#10;  &lt;p&gt;Typically used for expression-driven or property-driven dependency injection.&#10;  Also supported for dynamic resolution of handler method arguments &amp;mdash; for&#10;  example, in Spring MVC.&#10; &#10;  &lt;p&gt;A common use case is to inject values using&#10;  &lt;code&gt;{systemProperties.myProp}&lt;code&gt; style SpEL (Spring Expression Language)&#10;  expressions. Alternatively, values may be injected using&#10;  &lt;code&gt;{my.app.myProp}&lt;code&gt; style property placeholders.&#10; &#10;  &lt;p&gt;Note that actual processing of the {@code @Value} annotation is performed&#10;  by a {@link org.springframework.beans.factory.config.BeanPostProcessor&#10;  BeanPostProcessor} which in turn means that you &lt;em&gt;cannot&lt;em&gt; use&#10;  {@code @Value} within&#10;  {@link org.springframework.beans.factory.config.BeanPostProcessor&#10;  BeanPostProcessor} or&#10;  {@link org.springframework.beans.factory.config.BeanFactoryPostProcessor BeanFactoryPostProcessor}&#10;  types. Please consult the javadoc for the {@link AutowiredAnnotationBeanPostProcessor}&#10;  class (which, by default, checks for the presence of this annotation)." />
       <item value="send Trap" />
       <item value="indicators" />
@@ -53,8 +55,6 @@
       <item value="      The maximum memory that can be committed by the system without extending the&#10;      paging file(s), in bytes. Also called the Commit Limit. If the pagingswap&#10;      file can be extended, this is a soft limit. This is generally equal to the&#10;      sum of the sizes of physical memory and pagingswap file(s).&#10;      &lt;p&gt;&#10;      On Linux, represents the total amount of memory currently available to be&#10;      allocated on the system based on the overcommit ratio, identified as&#10;      {@code CommitLimit}. This may be higher or lower than the total size of&#10;      physical and swap memory depending on system configuration.&#10;     " />
       <item value="      The current memory committed to the pagingswap file(s), in bytes&#10;     &#10;      @return Swap used in bytes" />
       <item value="      The current size of the pagingswap file(s), in bytes. If the pagingswap&#10;      file can be extended, this is a soft limit." />
-      <item value="an array of the system load averages for 1, 5, and 15 minutes with&#10;              the size of the array specified by nelem; or negative values if not&#10;              available." />
-      <item value="      @return An array of 8 long values representing time spent in User, Nice,&#10;              System, Idle, IOwait, IRQ, SoftIRQ, and Steal states." />
     </histories>
     <option name="languageScores">
       <map>
