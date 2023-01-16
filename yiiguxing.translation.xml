@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fixed Rate" />
       <item value="Ratio&#9;" />
       <item value="环比同比&#10;" />
       <item value="环比同比&#10;&#10;" />
@@ -54,7 +55,6 @@
       <item value=" Comes with pre-built native libraries for most operating systems and platforms, including&#10;  macOS, Linux, Windows, Solaris, FreeBSD, NetBSD, OpenBSD, DragonFlyBSD, AIX, IBM i." />
       <item value=" junixsocket is the most complete implementation of AF_UNIX sockets for the Java ecosystem.&#10; Supports other socket types, such as TIPC (on Linux) and VSOCK (on Linux, and certain macOS VMs), as well!" />
       <item value="Linux Sensors" />
-      <item value="      Number of pages written to pagingswap file(s) to free up space in physical&#10;      memory. Pages are written back to disk only if they are changed in physical&#10;      memory, so they are likely to hold data, not code. A high rate of pages&#10;      output might indicate a memory shortage. The operating system writes more&#10;      pages back to disk to free up space when physical memory is in short supply." />
     </histories>
     <option name="languageScores">
       <map>
