@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Origin" />
       <item value="relative" />
       <item value="fixed Rate" />
       <item value="Ratio&#9;" />
@@ -54,7 +55,6 @@
       <item value="datagrams" />
       <item value=" Additionally, you can build and run junixsocket natively on IBM zOS (experimental).&#10; Supports all Java versions since Java 8&#10; Supports both the Java Socket API and NIO " />
       <item value=" Comes with pre-built native libraries for most operating systems and platforms, including&#10;  macOS, Linux, Windows, Solaris, FreeBSD, NetBSD, OpenBSD, DragonFlyBSD, AIX, IBM i." />
-      <item value=" junixsocket is the most complete implementation of AF_UNIX sockets for the Java ecosystem.&#10; Supports other socket types, such as TIPC (on Linux) and VSOCK (on Linux, and certain macOS VMs), as well!" />
     </histories>
     <option name="languageScores">
       <map>
