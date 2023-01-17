@@ -1,40 +1,10 @@
 <application>
   <component name="GrepConsole">
-    <option name="grepHistory">
-      <list>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="1048576" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="INSIGHT_LIVE_S02" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-      </list>
-    </option>
     <option name="profiles">
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
