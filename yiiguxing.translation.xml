@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="prepare Middle Table" />
       <item value="create" />
       <item value="creat" />
       <item value="Table" />
@@ -54,7 +55,6 @@
       <item value="parti" />
       <item value="https://github.com/kohlschutter/junixsocket.git" />
       <item value="staging" />
-      <item value="use-staging" />
     </histories>
     <option name="languageScores">
       <map>
