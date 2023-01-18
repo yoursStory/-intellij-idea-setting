@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="2783" />
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="并行" />
       <item value="prepare Middle Table" />
       <item value="create" />
       <item value="creat" />
@@ -54,7 +55,6 @@
       <item value="particular" />
       <item value="parti" />
       <item value="https://github.com/kohlschutter/junixsocket.git" />
-      <item value="staging" />
     </histories>
     <option name="languageScores">
       <map>
