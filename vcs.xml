@@ -54,9 +54,13 @@
           <option name="url" value="http://gitlab.vixtel.com/vaf/probe/probe-edge-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.vixtel.com/vaf/common/uni-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\vaf\probe" />
+    <option name="cloneParentDir" value="D:\Projects\vaf\common" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
