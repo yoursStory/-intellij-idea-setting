@@ -58,6 +58,10 @@
           <option name="url" value="http://gitlab.vixtel.com/vaf/common/uni-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.vixtel.com:9000" />
+          <option name="userName" value="tanfubai" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\vaf\common" />
