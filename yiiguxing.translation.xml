@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Nacos Registration" />
       <item value="并行" />
       <item value="prepare Middle Table" />
       <item value="create" />
@@ -54,7 +55,6 @@
       <item value="see" />
       <item value="particular" />
       <item value="parti" />
-      <item value="https://github.com/kohlschutter/junixsocket.git" />
     </histories>
     <option name="languageScores">
       <map>
