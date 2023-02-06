@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="maximum number of fractional digits accepted for this number" />
+      <item value="maximum number of integral digits accepted for this number" />
       <item value="Nacos Registration" />
       <item value="并行" />
       <item value="prepare Middle Table" />
@@ -53,8 +55,6 @@
       <item value="several" />
       <item value="se" />
       <item value="see" />
-      <item value="particular" />
-      <item value="parti" />
     </histories>
     <option name="languageScores">
       <map>
