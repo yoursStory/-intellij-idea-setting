@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Path" />
       <item value="Statistics" />
       <item value="Probe" />
       <item value="statistics" />
@@ -54,7 +55,6 @@
       <item value="the number of logical processors, which corresponds to the number&#10;                 of lines to read from the file." />
       <item value="caveats" />
       <item value="caveate" />
-      <item value="cave" />
     </histories>
     <option name="languageScores">
       <map>
