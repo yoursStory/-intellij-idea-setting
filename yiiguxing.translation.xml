@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#9;  This will be used as the bean name instead of name if present, but will not be used&#10;&#9;  as a service id.&#10;&#9;  @return bean name instead of name if present" />
       <item value="成功" />
       <item value="处理中" />
       <item value="constant&#10;" />
@@ -54,7 +55,6 @@
       <item value="title Suffer" />
       <item value="dest Data Unit" />
       <item value="flip" />
-      <item value="mulit Ids" />
     </histories>
     <option name="languageScores">
       <map>
