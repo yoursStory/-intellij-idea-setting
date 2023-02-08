@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="probe Manager" />
       <item value="      &lt;p&gt;The {@code identity} value must be an identity for the accumulator&#10;      function. This means that for all {@code t},&#10;      {@code accumulator.apply(identity, t)} is equal to {@code t}.&#10;      The {@code accumulator} function must be an&#10;      &lt;a href=&quot;package-summary.htmlAssociativity&quot;&gt;associative&lt;a&gt; function.&#10;     &#10;      &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal&#10;      operation&lt;a&gt;.&#10;     &#10;      @apiNote Sum, min, max, average, and string concatenation are all special&#10;      cases of reduction. Summing a stream of numbers can be expressed as:&#10;     &#10;      &lt;pre&gt;{@code&#10;          Integer sum = integers.reduce(0, (a, b) -&gt; a+b);&#10;      }&lt;pre&gt;&#10;     " />
       <item value="      Performs a &lt;a href=&quot;package-summary.htmlReduction&quot;&gt;reduction&lt;a&gt; on the&#10;      elements of this stream, using the provided identity value and an&#10;      &lt;a href=&quot;package-summary.htmlAssociativity&quot;&gt;associative&lt;a&gt;&#10;      accumulation function, and returns the reduced value.  This is equivalent&#10;      to:&#10;      &lt;pre&gt;{@code&#10;          T result = identity;&#10;          for (T element : this stream)&#10;              result = accumulator.apply(result, element)&#10;          return result;&#10;      }&lt;pre&gt;&#10;     &#10;      but is not constrained to execute sequentially." />
       <item value="&#9;  This will be used as the bean name instead of name if present, but will not be used&#10;&#9;  as a service id.&#10;&#9;  @return bean name instead of name if present" />
@@ -54,7 +55,6 @@
       <item value="      Returns a string whose value is the concatenation of this&#10;      string repeated {@code count} times.&#10;      &lt;p&gt;&#10;      If this string is empty or count is zero then the empty&#10;      string is returned." />
       <item value="DELAY MICROSECOND" />
       <item value="DELAY MILLISECOND" />
-      <item value="title Suffer" />
     </histories>
     <option name="languageScores">
       <map>
