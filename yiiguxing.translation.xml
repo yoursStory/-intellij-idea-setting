@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="indicator" />
+      <item value="Context" />
       <item value="Format" />
       <item value="&#9;  Allows setting the value of &lt;code&gt;hint&lt;code&gt; that is passed on to the LoadBalancer&#10;&#9;  request and can subsequently be used in {@link ReactiveLoadBalancer}&#10;&#9;  implementations." />
       <item value="recent" />
@@ -53,8 +55,6 @@
       <item value="hr" />
       <item value="环比指标" />
       <item value="transform" />
-      <item value="export" />
-      <item value="  Annotation used at the field or methodconstructor parameter level&#10;  that indicates a default value expression for the annotated element.&#10; &#10;  &lt;p&gt;Typically used for expression-driven or property-driven dependency injection.&#10;  Also supported for dynamic resolution of handler method arguments &amp;mdash; for&#10;  example, in Spring MVC.&#10; &#10;  &lt;p&gt;A common use case is to inject values using&#10;  &lt;code&gt;{systemProperties.myProp}&lt;code&gt; style SpEL (Spring Expression Language)&#10;  expressions. Alternatively, values may be injected using&#10;  &lt;code&gt;{my.app.myProp}&lt;code&gt; style property placeholders.&#10; &#10;  &lt;p&gt;Note that actual processing of the {@code @Value} annotation is performed&#10;  by a {@link org.springframework.beans.factory.config.BeanPostProcessor&#10;  BeanPostProcessor} which in turn means that you &lt;em&gt;cannot&lt;em&gt; use&#10;  {@code @Value} within&#10;  {@link org.springframework.beans.factory.config.BeanPostProcessor&#10;  BeanPostProcessor} or&#10;  {@link org.springframework.beans.factory.config.BeanFactoryPostProcessor BeanFactoryPostProcessor}&#10;  types. Please consult the javadoc for the {@link AutowiredAnnotationBeanPostProcessor}&#10;  class (which, by default, checks for the presence of this annotation)." />
     </histories>
     <option name="languageScores">
       <map>
