@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Removes the mapping for the specified key from this map if present.&#10;     &#10;      @param  key key whose mapping is to be removed from the map&#10;      @return the previous value associated with {@code key}, or&#10;              {@code null} if there was no mapping for {@code key}.&#10;              (A {@code null} return can also indicate that the map&#10;              previously associated {@code null} with {@code key}.)" />
+      <item value="permit" />
+      <item value="incompatible" />
       <item value="indicator" />
       <item value="Context" />
       <item value="Format" />
@@ -52,9 +55,6 @@
       <item value="环比同比&#10;&#10;" />
       <item value="环比&#10;" />
       <item value="环比" />
-      <item value="hr" />
-      <item value="环比指标" />
-      <item value="transform" />
     </histories>
     <option name="languageScores">
       <map>
