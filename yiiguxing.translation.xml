@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#9;  To be used by custom operators: invokes assembly {@link Hooks} pointcut given a&#10;&#9;  {@link Mono}, potentially returning a new {@link Mono}. This is for example useful&#10;&#9;  to activate cross-cutting concerns at assembly time, eg. a generalized&#10;&#9;  {@link checkpoint()}.&#10;&#9; &#10;&#9;  @param &lt;T&gt; the value type&#10;&#9;  @param source the source to apply assembly hooks onto&#10;&#9; &#10;&#9;  @return the source, potentially wrapped with assembly time cross-cutting behavior" />
+      <item value="A micro API for stream fusion, in particular marks producers that support a {@link QueueSubscription}." />
       <item value="indicator Relative Set" />
       <item value="      Removes the mapping for the specified key from this map if present.&#10;     &#10;      @param  key key whose mapping is to be removed from the map&#10;      @return the previous value associated with {@code key}, or&#10;              {@code null} if there was no mapping for {@code key}.&#10;              (A {@code null} return can also indicate that the map&#10;              previously associated {@code null} with {@code key}.)" />
       <item value="permit" />
@@ -53,8 +55,6 @@
       <item value="fixed Rate" />
       <item value="Ratio&#9;" />
       <item value="环比同比&#10;" />
-      <item value="环比同比&#10;&#10;" />
-      <item value="环比&#10;" />
     </histories>
     <option name="languageScores">
       <map>
