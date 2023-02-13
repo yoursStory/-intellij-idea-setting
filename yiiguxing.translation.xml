@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="direct instantiation" />
       <item value="offline" />
       <item value=" If instance is ephemeral." />
       <item value="Unified" />
@@ -54,7 +55,6 @@
       <item value="creat" />
       <item value="Table" />
       <item value="Origin" />
-      <item value="relative" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1675756113550" />
+    <option name="lastTrimTime" value="1676266746480" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
