@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="downstream Rate" />
+      <item value="Loadavg" />
+      <item value="system Loadavg" />
+      <item value="Edge Server Metrics" />
       <item value="direct instantiation" />
       <item value="offline" />
       <item value=" If instance is ephemeral." />
@@ -51,10 +55,6 @@
       <item value="Nacos Registration" />
       <item value="并行" />
       <item value="prepare Middle Table" />
-      <item value="create" />
-      <item value="creat" />
-      <item value="Table" />
-      <item value="Origin" />
     </histories>
     <option name="languageScores">
       <map>
