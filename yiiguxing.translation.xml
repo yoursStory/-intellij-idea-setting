@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="emit" />
       <item value="folding" />
       <item value="emits" />
       <item value="&lt;!--                    &lt;vx-button content=&quot;部署站点&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;部署探针&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;资源监控&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;探针监控&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;重启&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;停止&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;" />
@@ -54,7 +55,6 @@
       <item value="转换器&#10;" />
       <item value="Cfg Edge Probe Convertor" />
       <item value="Porbe" />
-      <item value="Convertor" />
     </histories>
     <option name="languageScores">
       <map>
