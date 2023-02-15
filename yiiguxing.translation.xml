@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;!--                    &lt;vx-button content=&quot;部署站点&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;部署探针&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;资源监控&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;探针监控&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;重启&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;停止&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;" />
       <item value="slots" />
       <item value="grid Data" />
       <item value="grid" />
@@ -54,7 +55,6 @@
       <item value="Convertor" />
       <item value="convertor" />
       <item value="convertor&#10;" />
-      <item value="maximum number of fractional digits accepted for this number" />
     </histories>
     <option name="languageScores">
       <map>
