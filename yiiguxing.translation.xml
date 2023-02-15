@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="slots" />
       <item value="grid Data" />
       <item value="grid" />
       <item value="modal" />
@@ -54,7 +55,6 @@
       <item value="convertor" />
       <item value="convertor&#10;" />
       <item value="maximum number of fractional digits accepted for this number" />
-      <item value="maximum number of integral digits accepted for this number" />
     </histories>
     <option name="languageScores">
       <map>
