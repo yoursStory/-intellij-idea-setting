@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reactive" />
       <item value="emit" />
       <item value="folding" />
       <item value="emits" />
@@ -54,7 +55,6 @@
       <item value="statistics" />
       <item value="转换器&#10;" />
       <item value="Cfg Edge Probe Convertor" />
-      <item value="Porbe" />
     </histories>
     <option name="languageScores">
       <map>
