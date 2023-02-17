@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Creates a URI by parsing the given string.&#10;     &#10;      &lt;p&gt; This convenience factory method works as if by invoking the {@link&#10;      URI(String)} constructor; any {@link URISyntaxException} thrown by the&#10;      constructor is caught and wrapped in a new {@link&#10;      IllegalArgumentException} object, which is then thrown.&#10;     &#10;      &lt;p&gt; This method is provided for use in situations where it is known that&#10;      the given string is a legal URI, for example for URI constants declared&#10;      within in a program, and so it would be considered a programming error&#10;      for the string not to parse as such.  The constructors, which throw&#10;      {@link URISyntaxException} directly, should be used situations where a&#10;      URI is being constructed from user input or from some other source that&#10;      may be prone to errors.  &lt;p&gt;&#10;     " />
       <item value="  Properties to be used in configuring a {@link MultipartConfigElement}.&#10;  &lt;ul&gt;&#10;  &lt;li&gt;{@link getLocation() location} specifies the directory where uploaded files will&#10;  be stored. When not specified, a temporary directory will be used.&lt;li&gt;&#10;  &lt;li&gt;{@link getMaxFileSize() max-file-size} specifies the maximum size permitted for&#10;  uploaded files. The default is 1MB&lt;li&gt;&#10;  &lt;li&gt;{@link getMaxRequestSize() max-request-size} specifies the maximum size allowed&#10;  for {@literal multipartform-data} requests. The default is 10MB.&lt;li&gt;&#10;  &lt;li&gt;{@link getFileSizeThreshold() file-size-threshold} specifies the size threshold&#10;  after which files will be written to disk. The default is 0.&lt;li&gt;&#10;  &lt;ul&gt;&#10;  &lt;p&gt;&#10;  These properties are ultimately passed to {@link MultipartConfigFactory} which means&#10;  you may specify numeric values using {@literal long} values or using more readable&#10;  {@link DataSize} variants." />
       <item value="green" />
       <item value="reactive" />
@@ -54,7 +55,6 @@
       <item value="Path" />
       <item value="Statistics" />
       <item value="Probe" />
-      <item value="statistics" />
     </histories>
     <option name="languageScores">
       <map>
