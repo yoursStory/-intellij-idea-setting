@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Edge Server Metrics" />
       <item value="远程文件" />
       <item value="Origin File" />
       <item value="      Creates a URI by parsing the given string.&#10;     &#10;      &lt;p&gt; This convenience factory method works as if by invoking the {@link&#10;      URI(String)} constructor; any {@link URISyntaxException} thrown by the&#10;      constructor is caught and wrapped in a new {@link&#10;      IllegalArgumentException} object, which is then thrown.&#10;     &#10;      &lt;p&gt; This method is provided for use in situations where it is known that&#10;      the given string is a legal URI, for example for URI constants declared&#10;      within in a program, and so it would be considered a programming error&#10;      for the string not to parse as such.  The constructors, which throw&#10;      {@link URISyntaxException} directly, should be used situations where a&#10;      URI is being constructed from user input or from some other source that&#10;      may be prone to errors.  &lt;p&gt;&#10;     " />
@@ -22,7 +23,6 @@
       <item value="downstream Rate" />
       <item value="Loadavg" />
       <item value="system Loadavg" />
-      <item value="Edge Server Metrics" />
       <item value="direct instantiation" />
       <item value="offline" />
       <item value=" If instance is ephemeral." />
