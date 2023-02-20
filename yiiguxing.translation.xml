@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="emit" />
       <item value="Edge Server Metrics" />
       <item value="远程文件" />
       <item value="Origin File" />
@@ -12,7 +13,6 @@
       <item value="  Properties to be used in configuring a {@link MultipartConfigElement}.&#10;  &lt;ul&gt;&#10;  &lt;li&gt;{@link getLocation() location} specifies the directory where uploaded files will&#10;  be stored. When not specified, a temporary directory will be used.&lt;li&gt;&#10;  &lt;li&gt;{@link getMaxFileSize() max-file-size} specifies the maximum size permitted for&#10;  uploaded files. The default is 1MB&lt;li&gt;&#10;  &lt;li&gt;{@link getMaxRequestSize() max-request-size} specifies the maximum size allowed&#10;  for {@literal multipartform-data} requests. The default is 10MB.&lt;li&gt;&#10;  &lt;li&gt;{@link getFileSizeThreshold() file-size-threshold} specifies the size threshold&#10;  after which files will be written to disk. The default is 0.&lt;li&gt;&#10;  &lt;ul&gt;&#10;  &lt;p&gt;&#10;  These properties are ultimately passed to {@link MultipartConfigFactory} which means&#10;  you may specify numeric values using {@literal long} values or using more readable&#10;  {@link DataSize} variants." />
       <item value="green" />
       <item value="reactive" />
-      <item value="emit" />
       <item value="folding" />
       <item value="emits" />
       <item value="&lt;!--                    &lt;vx-button content=&quot;部署站点&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;部署探针&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;资源监控&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;探针监控&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;重启&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;&#10;&lt;!--                    &lt;vx-button content=&quot;停止&quot;  @click=&quot;installEdgeEvent(record)&quot;&gt;--&gt;" />
