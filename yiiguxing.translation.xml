@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="align" />
       <item value="emit" />
       <item value="Edge Server Metrics" />
       <item value="远程文件" />
@@ -54,7 +55,6 @@
       <item value="常量&#10;" />
       <item value="ih" />
       <item value="constant" />
-      <item value="Path" />
     </histories>
     <option name="languageScores">
       <map>
