@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="suffix" />
       <item value="collapse" />
       <item value="align" />
       <item value="emit" />
@@ -54,7 +55,6 @@
       <item value="constant&#10;" />
       <item value="constan [constan]&#10;" />
       <item value="常量&#10;" />
-      <item value="ih" />
     </histories>
     <option name="languageScores">
       <map>
