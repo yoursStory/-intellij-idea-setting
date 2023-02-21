@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="collapse" />
       <item value="align" />
       <item value="emit" />
       <item value="Edge Server Metrics" />
@@ -54,7 +55,6 @@
       <item value="constan [constan]&#10;" />
       <item value="常量&#10;" />
       <item value="ih" />
-      <item value="constant" />
     </histories>
     <option name="languageScores">
       <map>
