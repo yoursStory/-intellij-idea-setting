@@ -5,11 +5,11 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="collapse" />
       <item value="Options" />
       <item value="Event" />
       <item value="suffix" />
       <item value="gather" />
-      <item value="collapse" />
       <item value="align" />
       <item value="emit" />
       <item value="Edge Server Metrics" />
