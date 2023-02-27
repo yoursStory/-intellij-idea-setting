@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="operator" />
+      <item value="peer&#10;" />
+      <item value="peer" />
       <item value="prevent duplicates" />
       <item value="Context Refreshed Event" />
       <item value="collapse" />
@@ -52,9 +55,6 @@
       <item value="    This method eliminates the need for explicit range operations (of&#10;      the sort that commonly exist for arrays).  Any operation that expects&#10;      a list can be used as a range operation by passing a subList view&#10;      instead of a whole list.  For example, the following idiom&#10;      removes a range of elements from a list:&#10;      &lt;pre&gt;{@code&#10;           list.subList(from, to).clear();&#10;      }&lt;pre&gt;&#10;      Similar idioms may be constructed for {@code indexOf} and&#10;      {@code lastIndexOf}, and all of the algorithms in the&#10;      {@code Collections} class can be applied to a subList.&lt;p&gt;&#10;     &#10;      The semantics of the list returned by this method become undefined if&#10;      the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in&#10;      any way other than via the returned list.  (Structural modifications are&#10;      those that change the size of this list, or otherwise perturb it in such&#10;      a fashion that iterations in progress may yield incorrect results.)" />
       <item value="      Returns a view of the portion of this list between the specified&#10;      {@code fromIndex}, inclusive, and {@code toIndex}, exclusive.  (If&#10;      {@code fromIndex} and {@code toIndex} are equal, the returned list is&#10;      empty.)  The returned list is backed by this list, so non-structural&#10;      changes in the returned list are reflected in this list, and vice-versa.&#10;      The returned list supports all of the optional list operations supported&#10;      by this list.&lt;p&gt;&#10;     " />
       <item value="probe Manager" />
-      <item value="      &lt;p&gt;The {@code identity} value must be an identity for the accumulator&#10;      function. This means that for all {@code t},&#10;      {@code accumulator.apply(identity, t)} is equal to {@code t}.&#10;      The {@code accumulator} function must be an&#10;      &lt;a href=&quot;package-summary.htmlAssociativity&quot;&gt;associative&lt;a&gt; function.&#10;     &#10;      &lt;p&gt;This is a &lt;a href=&quot;package-summary.htmlStreamOps&quot;&gt;terminal&#10;      operation&lt;a&gt;.&#10;     &#10;      @apiNote Sum, min, max, average, and string concatenation are all special&#10;      cases of reduction. Summing a stream of numbers can be expressed as:&#10;     &#10;      &lt;pre&gt;{@code&#10;          Integer sum = integers.reduce(0, (a, b) -&gt; a+b);&#10;      }&lt;pre&gt;&#10;     " />
-      <item value="      Performs a &lt;a href=&quot;package-summary.htmlReduction&quot;&gt;reduction&lt;a&gt; on the&#10;      elements of this stream, using the provided identity value and an&#10;      &lt;a href=&quot;package-summary.htmlAssociativity&quot;&gt;associative&lt;a&gt;&#10;      accumulation function, and returns the reduced value.  This is equivalent&#10;      to:&#10;      &lt;pre&gt;{@code&#10;          T result = identity;&#10;          for (T element : this stream)&#10;              result = accumulator.apply(result, element)&#10;          return result;&#10;      }&lt;pre&gt;&#10;     &#10;      but is not constrained to execute sequentially." />
-      <item value="&#9;  This will be used as the bean name instead of name if present, but will not be used&#10;&#9;  as a service id.&#10;&#9;  @return bean name instead of name if present" />
     </histories>
     <option name="languageScores">
       <map>
