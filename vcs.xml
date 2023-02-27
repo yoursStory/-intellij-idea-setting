@@ -78,9 +78,13 @@
           <option name="url" value="ssh://git@172.30.19.21:60522/vaf/npm3/uni-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:gaoyuyue/MyUploader-Backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\VAF\npm3" />
+    <option name="cloneParentDir" value="D:\Projects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
