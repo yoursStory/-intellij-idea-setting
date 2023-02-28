@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="idle" />
+      <item value="idel" />
       <item value="fixed Rate" />
       <item value="&#9;  Execute the annotated method with a fixed period between the end of the&#10;&#9;  last invocation and the start of the next.&#10;&#9;  &lt;p&gt;The time unit is milliseconds by default but can be overridden via&#10;&#9;  {@link timeUnit}.&#10;&#9;  @return the delay" />
       <item value="排队中" />
@@ -53,8 +55,6 @@
       <item value="permit" />
       <item value="incompatible" />
       <item value="indicator" />
-      <item value="Context" />
-      <item value="Format" />
     </histories>
     <option name="languageScores">
       <map>
