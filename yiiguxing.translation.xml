@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="external" />
+      <item value="internal" />
       <item value="pcap" />
       <item value="operator" />
       <item value="peer&#10;" />
@@ -53,8 +55,6 @@
       <item value="Unsatisfied" />
       <item value="      Returns {@code true} if and only if the system property named&#10;      by the argument exists and is equal to, ignoring case, the&#10;      string {@code &quot;true&quot;}.&#10;      A system property is accessible through {@code getProperty}, a&#10;      method defined by the {@code System} class.  &lt;p&gt; If there is no&#10;      property with the specified name, or if the specified name is&#10;      empty or null, then {@code false} is returned." />
       <item value="      @param fromIndex low endpoint (inclusive) of the subList&#10;      @param toIndex high endpoint (exclusive) of the subList&#10;      @return a view of the specified range within this list&#10;      @throws IndexOutOfBoundsException for an illegal endpoint index value&#10;              ({@code fromIndex &lt; 0 || toIndex &gt; size ||&#10;              fromIndex &gt; toIndex})" />
-      <item value="    This method eliminates the need for explicit range operations (of&#10;      the sort that commonly exist for arrays).  Any operation that expects&#10;      a list can be used as a range operation by passing a subList view&#10;      instead of a whole list.  For example, the following idiom&#10;      removes a range of elements from a list:&#10;      &lt;pre&gt;{@code&#10;           list.subList(from, to).clear();&#10;      }&lt;pre&gt;&#10;      Similar idioms may be constructed for {@code indexOf} and&#10;      {@code lastIndexOf}, and all of the algorithms in the&#10;      {@code Collections} class can be applied to a subList.&lt;p&gt;&#10;     &#10;      The semantics of the list returned by this method become undefined if&#10;      the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;i&gt; in&#10;      any way other than via the returned list.  (Structural modifications are&#10;      those that change the size of this list, or otherwise perturb it in such&#10;      a fashion that iterations in progress may yield incorrect results.)" />
-      <item value="      Returns a view of the portion of this list between the specified&#10;      {@code fromIndex}, inclusive, and {@code toIndex}, exclusive.  (If&#10;      {@code fromIndex} and {@code toIndex} are equal, the returned list is&#10;      empty.)  The returned list is backed by this list, so non-structural&#10;      changes in the returned list are reflected in this list, and vice-versa.&#10;      The returned list supports all of the optional list operations supported&#10;      by this list.&lt;p&gt;&#10;     " />
     </histories>
     <option name="languageScores">
       <map>
