@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mock New Task" />
       <item value="external" />
       <item value="internal" />
       <item value="pcap" />
@@ -54,7 +55,6 @@
       <item value="recent" />
       <item value="Unsatisfied" />
       <item value="      Returns {@code true} if and only if the system property named&#10;      by the argument exists and is equal to, ignoring case, the&#10;      string {@code &quot;true&quot;}.&#10;      A system property is accessible through {@code getProperty}, a&#10;      method defined by the {@code System} class.  &lt;p&gt; If there is no&#10;      property with the specified name, or if the specified name is&#10;      empty or null, then {@code false} is returned." />
-      <item value="      @param fromIndex low endpoint (inclusive) of the subList&#10;      @param toIndex high endpoint (exclusive) of the subList&#10;      @return a view of the specified range within this list&#10;      @throws IndexOutOfBoundsException for an illegal endpoint index value&#10;              ({@code fromIndex &lt; 0 || toIndex &gt; size ||&#10;              fromIndex &gt; toIndex})" />
     </histories>
     <option name="languageScores">
       <map>
