@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="plus" />
+      <item value="subtract" />
       <item value="    &#10;      Unit that represents the concept of a microsecond.&#10;      For the ISO calendar system, it is equal to the 1,000,000th part of the second unit.&#10;     " />
       <item value="      Unit that represents the concept of a millisecond.&#10;      For the ISO calendar system, it is equal to the 1000th part of the second unit." />
       <item value="&#9;  Execute the annotated method with a fixed period between the end of the&#10;&#9;  last invocation and the start of the next.&#10;&#9;  &lt;p&gt;The time unit is milliseconds by default but can be overridden via&#10;&#9;  {@link timeUnit}.&#10;&#9;  @return the delay as a String value &amp;mdash; for example, a placeholder&#10;&#9;  or a {@link java.time.Durationparse java.time.Duration} compliant value" />
@@ -53,8 +55,6 @@
       <item value="grid Data" />
       <item value="grid" />
       <item value="modal" />
-      <item value="downstream Rate" />
-      <item value="Loadavg" />
     </histories>
     <option name="languageScores">
       <map>
