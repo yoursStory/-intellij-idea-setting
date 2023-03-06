@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle Direct" />
       <item value="Task Progress" />
       <item value="process Report" />
       <item value="Progress" />
@@ -54,7 +55,6 @@
       <item value="green" />
       <item value="reactive" />
       <item value="folding" />
-      <item value="emits" />
     </histories>
     <option name="languageScores">
       <map>
