@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ceil" />
       <item value="plus" />
       <item value="subtract" />
       <item value="    &#10;      Unit that represents the concept of a microsecond.&#10;      For the ISO calendar system, it is equal to the 1,000,000th part of the second unit.&#10;     " />
@@ -54,7 +55,6 @@
       <item value="slots" />
       <item value="grid Data" />
       <item value="grid" />
-      <item value="modal" />
     </histories>
     <option name="languageScores">
       <map>
