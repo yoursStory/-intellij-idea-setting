@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transport-layer" />
+      <item value="Transport Exception" />
       <item value="auth Password" />
       <item value="Exhausted available authentication methods" />
       <item value="adjustment" />
@@ -53,8 +55,6 @@
       <item value="prevent duplicates" />
       <item value="Context Refreshed Event" />
       <item value="collapse" />
-      <item value="Options" />
-      <item value="Event" />
     </histories>
     <option name="languageScores">
       <map>
