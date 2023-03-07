@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="find Existing Algorithms" />
+      <item value="Promiscuous Verifier" />
       <item value="fixed Delay String" />
       <item value="extension" />
       <item value="current Time Millis" />
@@ -53,8 +55,6 @@
       <item value="gather" />
       <item value="align" />
       <item value="emit" />
-      <item value="Edge Server Metrics" />
-      <item value="远程文件" />
     </histories>
     <option name="languageScores">
       <map>
