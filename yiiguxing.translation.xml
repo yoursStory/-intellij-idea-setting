@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="auth Password" />
+      <item value="Exhausted available authentication methods" />
       <item value="adjustment" />
       <item value="used Up" />
       <item value="find Existing Algorithms" />
@@ -53,8 +55,6 @@
       <item value="collapse" />
       <item value="Options" />
       <item value="Event" />
-      <item value="suffix" />
-      <item value="gather" />
     </histories>
     <option name="languageScores">
       <map>
