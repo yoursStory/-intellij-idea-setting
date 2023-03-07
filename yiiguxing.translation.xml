@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="adjustment" />
       <item value="used Up" />
       <item value="find Existing Algorithms" />
       <item value="Promiscuous Verifier" />
@@ -54,7 +55,6 @@
       <item value="Event" />
       <item value="suffix" />
       <item value="gather" />
-      <item value="align" />
     </histories>
     <option name="languageScores">
       <map>
