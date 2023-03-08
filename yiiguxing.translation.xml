@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Wait for {@code timeout} duration for this promise's value to be deliver.&#10;     &#10;      @param timeout the timeout&#10;      @param unit    time unit for the timeout&#10;     &#10;      @return the value&#10;     &#10;      @throws T in case another thread informs the promise of an error meanwhile, or the timeout expires" />
+      <item value="  Represents promised data of the parameterized type {@code V} and allows waiting on it. An exception may also be&#10;  delivered to a waiter, and will be of the parameterized type {@code T}.&#10;  &lt;p&gt;&#10;  For atomic operations on a promise, e.g. checking if a value is delivered and if it is not then setting it, the&#10;  associated lock for the promise should be acquired while doing so." />
+      <item value="      Await this event to have a definite {@code true} or {@code false} value, for {@code timeout} duration.&#10;     &#10;      @param timeout timeout&#10;      @param unit    the time unit for the timeout&#10;     &#10;      @throws T if another thread meanwhile informs this event of an error, or timeout expires" />
+      <item value="We expect to receive channel open confirmationrejection and want to be able to next this packet." />
       <item value="violently" />
       <item value="Direct channels are those that are initiated by us." />
       <item value="  A channel is the basic medium for application-layer data on top of an SSH transport." />
@@ -51,10 +55,6 @@
       <item value="mock New Task" />
       <item value="external" />
       <item value="internal" />
-      <item value="pcap" />
-      <item value="operator" />
-      <item value="peer&#10;" />
-      <item value="peer" />
     </histories>
     <option name="languageScores">
       <map>
