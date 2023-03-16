@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Config" />
       <item value="MD Common Constants" />
       <item value="Delete Outlined" />
       <item value="Caret Right Outlined" />
@@ -54,7 +55,6 @@
       <item value="QUEUE" />
       <item value="queue Task Num" />
       <item value="Replay Task Statistics" />
-      <item value="Interval" />
     </histories>
     <option name="languageScores">
       <map>
