@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tranform Value" />
       <item value="volatile" />
       <item value="get Request Column Restrict Name" />
       <item value="metadata Complex" />
@@ -54,7 +55,6 @@
       <item value="&#9;  Execute the annotated method with a fixed period between the end of the&#10;&#9;  last invocation and the start of the next.&#10;&#9;  &lt;p&gt;The time unit is milliseconds by default but can be overridden via&#10;&#9;  {@link timeUnit}.&#10;&#9;  @return the delay as a String value &amp;mdash; for example, a placeholder&#10;&#9;  or a {@link java.time.Durationparse java.time.Duration} compliant value" />
       <item value="proccess And Save" />
       <item value="task Progress" />
-      <item value="probe replay start" />
     </histories>
     <option name="languageScores">
       <map>
