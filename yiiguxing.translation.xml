@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Request Column Restrict Name" />
       <item value="metadata Complex" />
       <item value="Sync Export Task" />
       <item value="Config" />
@@ -54,7 +55,6 @@
       <item value="task Progress" />
       <item value="probe replay start" />
       <item value="    Sets the file-pointer offset, measured from the beginning of this&#10;      file, at which the next read or write occurs.  The offset may be&#10;      set beyond the end of the file. Setting the offset beyond the end&#10;      of the file does not change the file length.  The file length will&#10;      change only by writing after the offset has been set beyond the end&#10;      of the file.&#10;     &#10;      @param      pos   the offset position, measured in bytes from the&#10;                        beginning of the file, at which to set the file&#10;                        pointer.&#10;      @exception  IOException  if {@code pos} is less than&#10;                               {@code 0} or if an IO error occurs." />
-      <item value="QUEUE" />
     </histories>
     <option name="languageScores">
       <map>
