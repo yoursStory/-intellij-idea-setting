@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="     Inserts the specified element at the specified position in this list&#10;      (optional operation).  Shifts the element currently at that position&#10;      (if any) and any subsequent elements to the right (adds one to their&#10;      indices).&#10;     &#10;      @param index index at which the specified element is to be inserted&#10;      @param element element to be inserted&#10;      @throws UnsupportedOperationException if the {@code add} operation&#10;              is not supported by this list&#10;      @throws ClassCastException if the class of the specified element&#10;              prevents it from being added to this list&#10;      @throws NullPointerException if the specified element is null and&#10;              this list does not permit null elements&#10;      @throws IllegalArgumentException if some property of the specified&#10;              element prevents it from being added to this list&#10;      @throws IndexOutOfBoundsException if the index is out of range&#10;              ({@code index &lt; 0 || index &gt; size()})" />
+      <item value="orig Column Indexs" />
+      <item value="orign" />
       <item value="tranform Value" />
       <item value="volatile" />
       <item value="get Request Column Restrict Name" />
@@ -52,9 +55,6 @@
       <item value="subtract" />
       <item value="    &#10;      Unit that represents the concept of a microsecond.&#10;      For the ISO calendar system, it is equal to the 1,000,000th part of the second unit.&#10;     " />
       <item value="      Unit that represents the concept of a millisecond.&#10;      For the ISO calendar system, it is equal to the 1000th part of the second unit." />
-      <item value="&#9;  Execute the annotated method with a fixed period between the end of the&#10;&#9;  last invocation and the start of the next.&#10;&#9;  &lt;p&gt;The time unit is milliseconds by default but can be overridden via&#10;&#9;  {@link timeUnit}.&#10;&#9;  @return the delay as a String value &amp;mdash; for example, a placeholder&#10;&#9;  or a {@link java.time.Durationparse java.time.Duration} compliant value" />
-      <item value="proccess And Save" />
-      <item value="task Progress" />
     </histories>
     <option name="languageScores">
       <map>
