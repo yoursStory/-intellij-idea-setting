@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fit Page Size" />
+      <item value="Page" />
       <item value="    &#10;      Performs the given action for each remaining element until all elements&#10;      have been processed or the action throws an exception.  Actions are&#10;      performed in the order of iteration, if that order is specified.&#10;      Exceptions thrown by the action are relayed to the caller.&#10;      &lt;p&gt;&#10;      The behavior of an iterator is unspecified if the action modifies the&#10;      collection in any way (even by calling the {@link remove remove} method&#10;      or other mutator methods of {@code Iterator} subtypes),&#10;      unless an overriding class has specified a concurrent modification policy.&#10;      &lt;p&gt;&#10;      Subsequent behavior of an iterator is unspecified if the action throws an&#10;      exception.&#10;     &#10;      @implSpec&#10;      &lt;p&gt;The default implementation behaves as if:&#10;      &lt;pre&gt;{@code&#10;          while (hasNext())&#10;              action.accept(next());&#10;      }&lt;pre&gt;&#10;     " />
       <item value="     Inserts the specified element at the specified position in this list&#10;      (optional operation).  Shifts the element currently at that position&#10;      (if any) and any subsequent elements to the right (adds one to their&#10;      indices).&#10;     &#10;      @param index index at which the specified element is to be inserted&#10;      @param element element to be inserted&#10;      @throws UnsupportedOperationException if the {@code add} operation&#10;              is not supported by this list&#10;      @throws ClassCastException if the class of the specified element&#10;              prevents it from being added to this list&#10;      @throws NullPointerException if the specified element is null and&#10;              this list does not permit null elements&#10;      @throws IllegalArgumentException if some property of the specified&#10;              element prevents it from being added to this list&#10;      @throws IndexOutOfBoundsException if the index is out of range&#10;              ({@code index &lt; 0 || index &gt; size()})" />
       <item value="orig Column Indexs" />
@@ -53,8 +55,6 @@
       <item value="获取进度" />
       <item value="ceil" />
       <item value="plus" />
-      <item value="subtract" />
-      <item value="    &#10;      Unit that represents the concept of a microsecond.&#10;      For the ISO calendar system, it is equal to the 1,000,000th part of the second unit.&#10;     " />
     </histories>
     <option name="languageScores">
       <map>
