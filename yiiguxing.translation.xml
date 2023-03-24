@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DASHBOARD" />
       <item value="assign Table Alias" />
       <item value="extra Dataset Id" />
       <item value="fit Page Size" />
@@ -54,7 +55,6 @@
       <item value="Task Progress" />
       <item value="process Report" />
       <item value="Progress" />
-      <item value="获取进度" />
     </histories>
     <option name="languageScores">
       <map>
