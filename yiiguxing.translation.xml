@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="assign Table Alias" />
+      <item value="extra Dataset Id" />
       <item value="fit Page Size" />
       <item value="Page" />
       <item value="    &#10;      Performs the given action for each remaining element until all elements&#10;      have been processed or the action throws an exception.  Actions are&#10;      performed in the order of iteration, if that order is specified.&#10;      Exceptions thrown by the action are relayed to the caller.&#10;      &lt;p&gt;&#10;      The behavior of an iterator is unspecified if the action modifies the&#10;      collection in any way (even by calling the {@link remove remove} method&#10;      or other mutator methods of {@code Iterator} subtypes),&#10;      unless an overriding class has specified a concurrent modification policy.&#10;      &lt;p&gt;&#10;      Subsequent behavior of an iterator is unspecified if the action throws an&#10;      exception.&#10;     &#10;      @implSpec&#10;      &lt;p&gt;The default implementation behaves as if:&#10;      &lt;pre&gt;{@code&#10;          while (hasNext())&#10;              action.accept(next());&#10;      }&lt;pre&gt;&#10;     " />
@@ -53,8 +55,6 @@
       <item value="process Report" />
       <item value="Progress" />
       <item value="获取进度" />
-      <item value="ceil" />
-      <item value="plus" />
     </histories>
     <option name="languageScores">
       <map>
