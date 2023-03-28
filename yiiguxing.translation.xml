@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove Inactive Tasks" />
+      <item value="Signal Chart Controller" />
       <item value="DASHBOARD" />
       <item value="assign Table Alias" />
       <item value="extra Dataset Id" />
@@ -53,8 +55,6 @@
       <item value="      Flushes this output stream and forces any buffered output bytes&#10;      to be written out. The general contract of &lt;code&gt;flush&lt;code&gt; is&#10;      that calling it is an indication that, if any bytes previously&#10;      written have been buffered by the implementation of the output&#10;      stream, such bytes should immediately be written to their&#10;      intended destination.&#10;      &lt;p&gt;&#10;      If the intended destination of this stream is an abstraction provided by&#10;      the underlying operating system, for example a file, then flushing the&#10;      stream guarantees only that bytes previously written to the stream are&#10;      passed to the operating system for writing; it does not guarantee that&#10;      they are actually written to a physical device such as a disk drive.&#10;      &lt;p&gt;&#10;      The &lt;code&gt;flush&lt;code&gt; method of &lt;code&gt;OutputStream&lt;code&gt; does nothing." />
       <item value="handle Direct" />
       <item value="Task Progress" />
-      <item value="process Report" />
-      <item value="Progress" />
     </histories>
     <option name="languageScores">
       <map>
