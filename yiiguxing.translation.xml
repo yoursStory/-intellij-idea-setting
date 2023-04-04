@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has Successed" />
       <item value="the identity value for the accumulating function" />
       <item value="task Progress Probe" />
       <item value="get And Decrement" />
@@ -54,7 +55,6 @@
       <item value="find Existing Algorithms" />
       <item value="Promiscuous Verifier" />
       <item value="fixed Delay String" />
-      <item value="extension" />
     </histories>
     <option name="languageScores">
       <map>
