@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="enumerate String Properties" />
+      <item value="prevails" />
       <item value="get Exact File Name" />
       <item value="has Successed" />
       <item value="the identity value for the accumulating function" />
@@ -53,8 +55,6 @@
       <item value="Exhausted available authentication methods" />
       <item value="adjustment" />
       <item value="used Up" />
-      <item value="find Existing Algorithms" />
-      <item value="Promiscuous Verifier" />
     </histories>
     <option name="languageScores">
       <map>
