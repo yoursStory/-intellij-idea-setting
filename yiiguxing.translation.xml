@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Compatible Service" />
       <item value="read From Source When No Replicas Original" />
       <item value="enumerate String Properties" />
       <item value="prevails" />
@@ -54,7 +55,6 @@
       <item value="Transport Exception" />
       <item value="auth Password" />
       <item value="Exhausted available authentication methods" />
-      <item value="adjustment" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1680486843146" />
+    <option name="lastTrimTime" value="1681095514707" />
   </component>
   <component name="Settings">
     <option name="autoReplace" value="true" />
