@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="capture" />
+      <item value="orginal" />
       <item value="Compatible Service" />
       <item value="read From Source When No Replicas Original" />
       <item value="enumerate String Properties" />
@@ -53,8 +55,6 @@
       <item value="  A channel is the basic medium for application-layer data on top of an SSH transport." />
       <item value="transport-layer" />
       <item value="Transport Exception" />
-      <item value="auth Password" />
-      <item value="Exhausted available authentication methods" />
     </histories>
     <option name="languageScores">
       <map>
