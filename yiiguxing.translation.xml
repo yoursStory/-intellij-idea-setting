@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="second" />
       <item value="multiply" />
       <item value="分钟" />
       <item value="capture" />
@@ -54,7 +55,6 @@
       <item value="We expect to receive channel open confirmationrejection and want to be able to next this packet." />
       <item value="violently" />
       <item value="Direct channels are those that are initiated by us." />
-      <item value="  A channel is the basic medium for application-layer data on top of an SSH transport." />
     </histories>
     <option name="languageScores">
       <map>
