@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ceil" />
       <item value="second" />
       <item value="multiply" />
       <item value="分钟" />
@@ -54,7 +55,6 @@
       <item value="      Await this event to have a definite {@code true} or {@code false} value, for {@code timeout} duration.&#10;     &#10;      @param timeout timeout&#10;      @param unit    the time unit for the timeout&#10;     &#10;      @throws T if another thread meanwhile informs this event of an error, or timeout expires" />
       <item value="We expect to receive channel open confirmationrejection and want to be able to next this packet." />
       <item value="violently" />
-      <item value="Direct channels are those that are initiated by us." />
     </histories>
     <option name="languageScores">
       <map>
