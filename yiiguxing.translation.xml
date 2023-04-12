@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multiply" />
       <item value="capture" />
       <item value="orginal" />
       <item value="Compatible Service" />
@@ -54,7 +55,6 @@
       <item value="Direct channels are those that are initiated by us." />
       <item value="  A channel is the basic medium for application-layer data on top of an SSH transport." />
       <item value="transport-layer" />
-      <item value="Transport Exception" />
     </histories>
     <option name="languageScores">
       <map>
