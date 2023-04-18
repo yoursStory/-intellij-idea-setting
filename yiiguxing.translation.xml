@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="GLUE GROOVY" />
       <item value="SERIAL EXECUTION" />
       <item value="SHARDING BROADCAST" />
       <item value="set Filter Processes Url" />
@@ -54,7 +55,6 @@
       <item value="Sync Export Task" />
       <item value="Config" />
       <item value="MD Common Constants" />
-      <item value="Delete Outlined" />
     </histories>
     <option name="languageScores">
       <map>
