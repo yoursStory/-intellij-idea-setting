@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Filter Processes Url" />
       <item value="守护进程" />
       <item value="Deamon ON" />
       <item value="ON" />
@@ -54,7 +55,6 @@
       <item value="Delete Outlined" />
       <item value="Caret Right Outlined" />
       <item value="Area Chart Outlined" />
-      <item value="      Deletes the file or directory denoted by this abstract pathname.  If&#10;      this pathname denotes a directory, then the directory must be empty in&#10;      order to be deleted.&#10;     &#10;      &lt;p&gt; Note that the {@link java.nio.file.Files} class defines the {@link&#10;      java.nio.file.Filesdelete(Path) delete} method to throw an {@link IOException}&#10;      when a file cannot be deleted. This is useful for error reporting and to&#10;      diagnose why a file cannot be deleted.&#10;     &#10;      @return  &lt;code&gt;true&lt;code&gt; if and only if the file or directory is&#10;               successfully deleted; &lt;code&gt;false&lt;code&gt; otherwise&#10;     &#10;      @throws  SecurityException&#10;               If a security manager exists and its {@link&#10;               java.lang.SecurityManagercheckDelete} method denies&#10;               delete access to the file" />
     </histories>
     <option name="languageScores">
       <map>
