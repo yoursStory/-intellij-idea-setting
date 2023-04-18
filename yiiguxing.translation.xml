@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SERIAL EXECUTION" />
+      <item value="SHARDING BROADCAST" />
       <item value="set Filter Processes Url" />
       <item value="守护进程" />
       <item value="Deamon ON" />
@@ -53,8 +55,6 @@
       <item value="Config" />
       <item value="MD Common Constants" />
       <item value="Delete Outlined" />
-      <item value="Caret Right Outlined" />
-      <item value="Area Chart Outlined" />
     </histories>
     <option name="languageScores">
       <map>
