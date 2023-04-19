@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="transientable" />
       <item value="fisok" />
       <item value="mandatory" />
       <item value="precision" />
@@ -54,7 +55,6 @@
       <item value="tranform Value" />
       <item value="volatile" />
       <item value="get Request Column Restrict Name" />
-      <item value="metadata Complex" />
     </histories>
     <option name="languageScores">
       <map>
