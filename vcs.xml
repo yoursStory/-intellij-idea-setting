@@ -110,9 +110,13 @@
           <option name="url" value="https://gitee.com/robergroup/chiner-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.19.21:9000/vaf/npm3/npm3-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\github" />
+    <option name="cloneParentDir" value="D:\Projects\vaf\npm3" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
