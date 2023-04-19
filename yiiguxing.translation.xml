@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mandatory" />
+      <item value="precision" />
       <item value="GLUE GROOVY" />
       <item value="SERIAL EXECUTION" />
       <item value="SHARDING BROADCAST" />
@@ -53,8 +55,6 @@
       <item value="get Request Column Restrict Name" />
       <item value="metadata Complex" />
       <item value="Sync Export Task" />
-      <item value="Config" />
-      <item value="MD Common Constants" />
     </histories>
     <option name="languageScores">
       <map>
