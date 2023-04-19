@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fisok" />
       <item value="mandatory" />
       <item value="precision" />
       <item value="GLUE GROOVY" />
@@ -54,7 +55,6 @@
       <item value="volatile" />
       <item value="get Request Column Restrict Name" />
       <item value="metadata Complex" />
-      <item value="Sync Export Task" />
     </histories>
     <option name="languageScores">
       <map>
