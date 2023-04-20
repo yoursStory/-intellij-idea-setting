@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="2783" />
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PDM" />
+      <item value="DA" />
+      <item value="元数建模" />
       <item value="  ClassCacheUtils is utility class to cache some info of classes read and write&#10;  method" />
       <item value="top Limit Template" />
       <item value="&#9;  If not equal null, means this column has a converter class to translate field&#10;&#9;  value to column value or reverse. Note: @Version and @Enumerated annotated&#10;&#9;  will also be recorded as converterClass in this field" />
@@ -52,9 +55,6 @@
       <item value="second" />
       <item value="multiply" />
       <item value="分钟" />
-      <item value="capture" />
-      <item value="orginal" />
-      <item value="Compatible Service" />
     </histories>
     <option name="languageScores">
       <map>
