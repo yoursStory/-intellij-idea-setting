@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  ClassCacheUtils is utility class to cache some info of classes read and write&#10;  method" />
+      <item value="top Limit Template" />
       <item value="&#9;  If not equal null, means this column has a converter class to translate field&#10;&#9;  value to column value or reverse. Note: @Version and @Enumerated annotated&#10;&#9;  will also be recorded as converterClass in this field" />
       <item value="&#9;  If not equal null, means this column has a converter class to translate field&#10;&#9;  value to column value or reverse. Note: @Version and @Enumerated annotated&#10;&#9;  will a" />
       <item value="&#9;  Indicates that the persistence provider should pick an appropriate&#10;&#9;  strategy for the particular database. The &lt;code&gt;AUTO&lt;code&gt; generation&#10;&#9;  strategy may expect a database resource to exist, or it may attempt to&#10;&#9;  create one. A vendor may provide documentation on how to create such&#10;&#9;  resources in the event that it does not support schema generation or&#10;&#9;  cannot create the schema resource at runtime." />
@@ -53,8 +55,6 @@
       <item value="capture" />
       <item value="orginal" />
       <item value="Compatible Service" />
-      <item value="read From Source When No Replicas Original" />
-      <item value="enumerate String Properties" />
     </histories>
     <option name="languageScores">
       <map>
