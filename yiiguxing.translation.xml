@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="    Returns the {@code int} value that is equal to {@code value}, if possible.&#10;   &#10;    @param value any value in the range of the {@code int} type&#10;    @return the {@code int} value that equals {@code value}&#10;    @throws IllegalArgumentException if {@code value} is greater than {@link IntegerMAX_VALUE} or&#10;        less than {@link IntegerMIN_VALUE}" />
+      <item value="  Static utility methods pertaining to {@code int} primitives, that are not already found in either&#10;  {@link Integer} or {@link Arrays}.&#10; &#10;  &lt;p&gt;See the Guava User Guide article on &lt;a&#10;  href=&quot;https:github.comgoogleguavawikiPrimitivesExplained&quot;&gt;primitive utilities&lt;a&gt;." />
       <item value="      Convert a string to the Java literal and enclose it with double quotes.&#10;      Null will result in &quot;null&quot; (without double quotes)." />
       <item value="&#9;  Check if is a dialect reserved word of ANSI-SQL reserved word&#10;&#9;  &#10;&#9;  @return false:not reserved word. true:reserved by dialect or ANSI-SQL" />
       <item value="&#9;  Manually call this method to reload tail TableModels when database structure&#10;&#9;  be changed by DDL command" />
@@ -53,8 +55,6 @@
       <item value="fill Fields Calc Value" />
       <item value="Dialect Pagination Template" />
       <item value="transientable" />
-      <item value="fisok" />
-      <item value="mandatory" />
     </histories>
     <option name="languageScores">
       <map>
