@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  The platform-independent Unique Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;  ...  &#10;   t.index().forColumn(&quot;column1&quot;);&#10;   or&#10;   t.index(&quot;indexName&quot;).forColumn(&quot;column1&quot;,&quot;column2&quot;);" />
+      <item value="Project Original" />
+      <item value="&#9;  if ddl set to false, will not create DDL when call TableModelUtils's&#10;&#9;  entity2Model() and oneEntity2Model methods" />
+      <item value="ref Table And Columns" />
+      <item value="The platform-independent Foreign Key Constraint model" />
+      <item value="scale" />
+      <item value="get Scale" />
+      <item value="get Precision" />
+      <item value="precision" />
+      <item value="Optional, put an extra tail String at end of column definition DDL" />
+      <item value="column Definition" />
       <item value="PDM" />
       <item value="DA" />
       <item value="元数建模" />
@@ -36,7 +47,6 @@
       <item value="transientable" />
       <item value="fisok" />
       <item value="mandatory" />
-      <item value="precision" />
       <item value="GLUE GROOVY" />
       <item value="SERIAL EXECUTION" />
       <item value="SHARDING BROADCAST" />
@@ -45,16 +55,6 @@
       <item value="Deamon ON" />
       <item value="ON" />
       <item value="是否守护" />
-      <item value="download Probe Install Conf" />
-      <item value="send Async" />
-      <item value="get Credentials" />
-      <item value="retrieve User" />
-      <item value="      Constructs a new, empty tree set, sorted according to the&#10;      natural ordering of its elements.  All elements inserted into&#10;      the set must implement the {@link Comparable} interface.&#10;      Furthermore, all such elements must be &lt;i&gt;mutually&#10;      comparable&lt;i&gt;: {@code e1.compareTo(e2)} must not throw a&#10;      {@code ClassCastException} for any elements {@code e1} and&#10;      {@code e2} in the set.  If the user attempts to add an element&#10;      to the set that violates this constraint (for example, the user&#10;      attempts to add a string element to a set whose elements are&#10;      integers), the {@code add} call will throw a&#10;      {@code ClassCastException}." />
-      <item value="      Returns an array of strings naming the files and directories in the&#10;      directory denoted by this abstract pathname.&#10;     &#10;      &lt;p&gt; If this abstract pathname does not denote a directory, then this&#10;      method returns {@code null}.  Otherwise an array of strings is&#10;      returned, one for each file or directory in the directory.  Names&#10;      denoting the directory itself and the directory's parent directory are&#10;      not included in the result.  Each string is a file name rather than a&#10;      complete path.&#10;     &#10;      &lt;p&gt; There is no guarantee that the name strings in the resulting array&#10;      will appear in any specific order; they are not, in particular,&#10;      guaranteed to appear in alphabetical order.&#10;     &#10;      &lt;p&gt; Note that the {@link java.nio.file.Files} class defines the {@link&#10;      java.nio.file.FilesnewDirectoryStream(Path) newDirectoryStream} method to&#10;      open a directory and iterate over the names of the files in the directory.&#10;      This may use less resources when working with very large directories, and&#10;      may be more responsive when working with remote directories." />
-      <item value="ceil" />
-      <item value="second" />
-      <item value="multiply" />
-      <item value="分钟" />
     </histories>
     <option name="languageScores">
       <map>
