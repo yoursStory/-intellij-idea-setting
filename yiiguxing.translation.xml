@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="identity Column String" />
+      <item value="NOSONAR" />
+      <item value="append Column DD Lin Buf" />
       <item value="&#9;  A shortcut method to add Foreign constraint for single column, for multiple&#10;&#9;  columns please use tableModel.fkey() method instead" />
       <item value="shart" />
       <item value="&#9; Mark is a shartTable column, for ORM tool use " />
@@ -52,9 +55,6 @@
       <item value="accumulate And Get" />
       <item value="Signal Chart Service" />
       <item value="remove Inactive Tasks" />
-      <item value="Signal Chart Controller" />
-      <item value="DASHBOARD" />
-      <item value="assign Table Alias" />
     </histories>
     <option name="languageScores">
       <map>
