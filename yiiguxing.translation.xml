@@ -5,13 +5,17 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="compound" />
+      <item value="  The platform-independent Foreign Key Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;     ...&#10;   t.fkey(&quot;column1&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;)&#10;   &#10;   or compound foreign key:   &#10;   t.fkey(&quot;column1&quot;,&quot;column2&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;, &quot;refColumn2&quot;);" />
+      <item value="Identity" />
+      <item value="Comment" />
+      <item value="supports Column Check" />
       <item value="identity Column String" />
       <item value="NOSONAR" />
       <item value="append Column DD Lin Buf" />
       <item value="&#9;  A shortcut method to add Foreign constraint for single column, for multiple&#10;&#9;  columns please use tableModel.fkey() method instead" />
       <item value="shart" />
       <item value="&#9; Mark is a shartTable column, for ORM tool use " />
-      <item value="compound" />
       <item value="Add a not null DDL piece if support" />
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table...&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL" />
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table...&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MyS" />
@@ -51,10 +55,6 @@
       <item value="the identity value for the accumulating function" />
       <item value="task Progress Probe" />
       <item value="get And Decrement" />
-      <item value="accumulate" />
-      <item value="accumulate And Get" />
-      <item value="Signal Chart Service" />
-      <item value="remove Inactive Tasks" />
     </histories>
     <option name="languageScores">
       <map>
