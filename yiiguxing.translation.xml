@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#9;  If not equal null, means this column has a converter class to translate field&#10;&#9;  value to column value or reverse. Note: @Version and @Enumerated annotated&#10;&#9;  will also be recorded as converterClass in this field" />
+      <item value="&#9;  If not equal null, means this column has a converter class to translate field&#10;&#9;  value to column value or reverse. Note: @Version and @Enumerated annotated&#10;&#9;  will a" />
+      <item value="&#9;  Indicates that the persistence provider should pick an appropriate&#10;&#9;  strategy for the particular database. The &lt;code&gt;AUTO&lt;code&gt; generation&#10;&#9;  strategy may expect a database resource to exist, or it may attempt to&#10;&#9;  create one. A vendor may provide documentation on how to create such&#10;&#9;  resources in the event that it does not support schema generation or&#10;&#9;  cannot create the schema resource at runtime." />
+      <item value="&#9;&#10;&#9;  Indicates that the persistence provider must assign primary keys for the&#10;&#9;  entity using a database sequence." />
+      <item value="&#9;&#10;&#9;  Indicates that the persistence provider must assign primary keys for the&#10;&#9;  entity using an underlying database table to ensure uniqueness." />
+      <item value="  A ColumnModel definition represents a platform dependent column in a Database&#10;  Table, from 1.0.5 this class name changed from &quot;Column&quot; to &quot;ColumnModel&quot; to&#10;  avoid naming conflict to JPA's &quot;@Column&quot; annotation&#10;  " />
       <item value="compound" />
       <item value="  The platform-independent Foreign Key Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;     ...&#10;   t.fkey(&quot;column1&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;)&#10;   &#10;   or compound foreign key:   &#10;   t.fkey(&quot;column1&quot;,&quot;column2&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;, &quot;refColumn2&quot;);" />
       <item value="Identity" />
@@ -49,12 +55,6 @@
       <item value="Compatible Service" />
       <item value="read From Source When No Replicas Original" />
       <item value="enumerate String Properties" />
-      <item value="prevails" />
-      <item value="get Exact File Name" />
-      <item value="has Successed" />
-      <item value="the identity value for the accumulating function" />
-      <item value="task Progress Probe" />
-      <item value="get And Decrement" />
     </histories>
     <option name="languageScores">
       <map>
