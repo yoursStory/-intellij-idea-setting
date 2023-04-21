@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="  Represents a predicate (boolean-valued function) of one argument.&#10; &#10;  &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;a&gt;&#10;  whose functional method is {@link test(Object)}.&#10; &#10;  @param &lt;T&gt; the type of the input to the predicate" />
+      <item value="      Evaluates this predicate on the given argument.&#10;     &#10;      @param t the input argument&#10;      @return {@code true} if the input argument matches the predicate,&#10;      otherwise {@code false}" />
       <item value="Predicate" />
       <item value="compute If Absent" />
       <item value="precision" />
@@ -53,8 +55,6 @@
       <item value="shart" />
       <item value="&#9; Mark is a shartTable column, for ORM tool use " />
       <item value="Add a not null DDL piece if support" />
-      <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table...&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL" />
-      <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table...&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MyS" />
     </histories>
     <option name="languageScores">
       <map>
