@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fkey Constraints" />
+      <item value="unique Consts" />
       <item value="check Not Empty Reserved Words" />
       <item value="Reverse" />
       <item value="    Returns the {@code int} value that is equal to {@code value}, if possible.&#10;   &#10;    @param value any value in the range of the {@code int} type&#10;    @return the {@code int} value that equals {@code value}&#10;    @throws IllegalArgumentException if {@code value} is greater than {@link IntegerMAX_VALUE} or&#10;        less than {@link IntegerMIN_VALUE}" />
@@ -13,8 +15,6 @@
       <item value="&#9;  Check if is a dialect reserved word of ANSI-SQL reserved word&#10;&#9;  &#10;&#9;  @return false:not reserved word. true:reserved by dialect or ANSI-SQL" />
       <item value="&#9;  Manually call this method to reload tail TableModels when database structure&#10;&#9;  be changed by DDL command" />
       <item value="actuator" />
-      <item value="unique Consts" />
-      <item value="fkey Constraints" />
       <item value="index Consts" />
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table... engine=xxx&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL&#10;&#9;  engineTail only effect when dialect support engine" />
       <item value="  The platform-independent Unique Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;  ...  &#10;   t.index().forColumn(&quot;column1&quot;);&#10;   or&#10;   t.index(&quot;indexName&quot;).forColumn(&quot;column1&quot;,&quot;column2&quot;);" />
