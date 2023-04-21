@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Predicate" />
       <item value="compute If Absent" />
       <item value="precision" />
       <item value="fkey Constraints" />
@@ -54,7 +55,6 @@
       <item value="Add a not null DDL piece if support" />
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table...&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL" />
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table...&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MyS" />
-      <item value="check constraint for table" />
     </histories>
     <option name="languageScores">
       <map>
