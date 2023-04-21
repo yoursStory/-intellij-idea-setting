@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="precision" />
       <item value="fkey Constraints" />
       <item value="unique Consts" />
       <item value="check Not Empty Reserved Words" />
@@ -25,7 +26,6 @@
       <item value="scale" />
       <item value="get Scale" />
       <item value="get Precision" />
-      <item value="precision" />
       <item value="Optional, put an extra tail String at end of column definition DDL" />
       <item value="column Definition" />
       <item value="PDM" />
