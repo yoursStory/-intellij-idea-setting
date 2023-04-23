@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Add a listener to the configuration, after the server modified the configuration, the client will use the&#10;      incoming listener callback. Recommended asynchronous processing, the application can implement the getExecutor&#10;      method in the ManagerListener, provide a thread pool of execution. If provided, use the main thread callback, May&#10;      block other configurations or be blocked by other configurations." />
       <item value="  Represents a predicate (boolean-valued function) of one argument.&#10; &#10;  &lt;p&gt;This is a &lt;a href=&quot;package-summary.html&quot;&gt;functional interface&lt;a&gt;&#10;  whose functional method is {@link test(Object)}.&#10; &#10;  @param &lt;T&gt; the type of the input to the predicate" />
       <item value="      Evaluates this predicate on the given argument.&#10;     &#10;      @param t the input argument&#10;      @return {@code true} if the input argument matches the predicate,&#10;      otherwise {@code false}" />
       <item value="Predicate" />
@@ -54,7 +55,6 @@
       <item value="&#9;  A shortcut method to add Foreign constraint for single column, for multiple&#10;&#9;  columns please use tableModel.fkey() method instead" />
       <item value="shart" />
       <item value="&#9; Mark is a shartTable column, for ORM tool use " />
-      <item value="Add a not null DDL piece if support" />
     </histories>
     <option name="languageScores">
       <map>
