@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="      Causes the current thread to wait, if necessary, until the&#10;      process represented by this {@code Process} object has&#10;      terminated, or the specified waiting time elapses.&#10;     &#10;      &lt;p&gt;If the process has already terminated then this method returns&#10;      immediately with the value {@code true}.  If the process has not&#10;      terminated and the timeout value is less than, or equal to, zero, then&#10;      this method returns immediately with the value {@code false}.&#10;     &#10;      &lt;p&gt;The default implementation of this methods polls the {@code exitValue}&#10;      to check if the process has terminated. Concrete implementations of this&#10;      class are strongly encouraged to override this method with a more&#10;      efficient implementation.&#10;     &#10;      @param timeout the maximum time to wait&#10;      @param unit the time unit of the {@code timeout} argument" />
       <item value="needs Escaping" />
       <item value="count Leading Backslash" />
       <item value="      Constructs a process builder with the specified operating&#10;      system program and arguments.  This constructor does &lt;i&gt;not&lt;i&gt;&#10;      make a copy of the {@code command} list.  Subsequent&#10;      updates to the list will be reflected in the state of the&#10;      process builder.  It is not checked whether&#10;      {@code command} corresponds to a valid operating system&#10;      command." />
@@ -54,7 +55,6 @@
       <item value="supports Column Check" />
       <item value="identity Column String" />
       <item value="NOSONAR" />
-      <item value="append Column DD Lin Buf" />
     </histories>
     <option name="languageScores">
       <map>
