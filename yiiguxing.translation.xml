@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CLICKHOUSE" />
       <item value="truncate Table Async" />
       <item value="    Creates a new table with the specified number of regions.  The start key specified will become&#10;    the end key of the first region of the table, and the end key specified will become the start&#10;    key of the last region of the table (the first region has a null start key and the last region&#10;    has a null end key). BigInteger math will be used to divide the key range specified into enough&#10;    segments to make the required number of total regions. Synchronous operation.&#10;   &#10;    @param desc table descriptor for table&#10;    @param startKey beginning of key range&#10;    @param endKey end of key range&#10;    @param numRegions the total number of regions to create&#10;    @throws IllegalArgumentException if the table name is reserved&#10;    @throws org.apache.hadoop.hbase.MasterNotRunningException if master is not running&#10;    @throws org.apache.hadoop.hbase.TableExistsException if table already exists (If concurrent&#10;    threads, the table may have been created between " />
       <item value="    Return the list of attached co-processor represented&#10;   &#10;    @return The list of CoprocessorDescriptor" />
@@ -54,7 +55,6 @@
       <item value="DA" />
       <item value="元数建模" />
       <item value="  ClassCacheUtils is utility class to cache some info of classes read and write&#10;  method" />
-      <item value="top Limit Template" />
     </histories>
     <option name="languageScores">
       <map>
