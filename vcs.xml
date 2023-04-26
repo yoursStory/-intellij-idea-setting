@@ -130,6 +130,10 @@
           <option name="url" value="git@github.com:HY-ZhengWei/HBaseClient.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:HY-ZhengWei/hy.common.hbase.1.x.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\github" />
