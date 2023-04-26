@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="    Pattern that matches a coprocessor specification. Form is:&#10;    {@code &lt;coprocessor jar file location&gt; '|' &lt;class name&gt; ['|' &lt;priority&gt; ['|' &lt;arguments&gt;]]}&#10;    where arguments are {@code &lt;KEY&gt; '=' &lt;VALUE&gt; [,...]}&#10;    For example: {@code hdfs:foo.jar|com.foo.FooRegionObserver|1001|arg1=1,arg2=2}" />
+      <item value="   Used by HBase Shell interface to access this metadata&#10;    attribute which denotes the maximum size of the store file after which a&#10;    region split occurs." />
+      <item value="  Annotation to inform users of a package, class or method's intended audience.&#10;  Currently the audience can be {@link Public}, {@link LimitedPrivate} or&#10;  {@link Private}. &lt;br&gt;&#10;  All public classes must have InterfaceAudience annotation. &lt;br&gt;&#10;  &lt;ul&gt;&#10;  &lt;li&gt;Public classes that are not marked with this annotation must be&#10;  considered by default as {@link Private}.&lt;li&gt;&#10; &#10;  &lt;li&gt;External applications must only use classes that are marked&#10;  {@link Public}. Avoid using non public classes as these classes&#10;  could be removed or change in incompatible ways.&lt;li&gt;&#10; &#10;  &lt;li&gt;Some projects may choose to give special consideration to related&#10;  projects. Such consideration can be done by using the {@link LimitedPrivate}&#10;  annotation with a named set of projects.&lt;li&gt;&#10; &#10;  &lt;li&gt; Methods may have a different annotation that it is more restrictive&#10;  compared to the audience classification of the class. Example: A class&#10;  might be {@link Public}, but a method may be {@link LimitedPrivate}&#10;  &lt;li&gt;&lt;ul&gt;" />
       <item value="      Causes the current thread to wait, if necessary, until the&#10;      process represented by this {@code Process} object has&#10;      terminated, or the specified waiting time elapses.&#10;     &#10;      &lt;p&gt;If the process has already terminated then this method returns&#10;      immediately with the value {@code true}.  If the process has not&#10;      terminated and the timeout value is less than, or equal to, zero, then&#10;      this method returns immediately with the value {@code false}.&#10;     &#10;      &lt;p&gt;The default implementation of this methods polls the {@code exitValue}&#10;      to check if the process has terminated. Concrete implementations of this&#10;      class are strongly encouraged to override this method with a more&#10;      efficient implementation.&#10;     &#10;      @param timeout the maximum time to wait&#10;      @param unit the time unit of the {@code timeout} argument" />
       <item value="needs Escaping" />
       <item value="count Leading Backslash" />
@@ -52,9 +55,6 @@
       <item value="  The platform-independent Foreign Key Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;     ...&#10;   t.fkey(&quot;column1&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;)&#10;   &#10;   or compound foreign key:   &#10;   t.fkey(&quot;column1&quot;,&quot;column2&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;, &quot;refColumn2&quot;);" />
       <item value="Identity" />
       <item value="Comment" />
-      <item value="supports Column Check" />
-      <item value="identity Column String" />
-      <item value="NOSONAR" />
     </histories>
     <option name="languageScores">
       <map>
