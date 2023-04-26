@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PREFETCH BLOCKS ON OPEN" />
+      <item value="COMPRESSION" />
+      <item value="KEEP DELETED CELLS" />
+      <item value="NEW VERSION BEHAVIOR" />
+      <item value="EVICT BLOCKS ON CLOSE" />
+      <item value="      A map which holds the configuration specific to the column family. The&#10;      keys of the map have the same names as config keys and override the&#10;      defaults with cf-specific settings. Example usage may be for compactions,&#10;      etc." />
       <item value="    Pattern that matches a coprocessor specification. Form is:&#10;    {@code &lt;coprocessor jar file location&gt; '|' &lt;class name&gt; ['|' &lt;priority&gt; ['|' &lt;arguments&gt;]]}&#10;    where arguments are {@code &lt;KEY&gt; '=' &lt;VALUE&gt; [,...]}&#10;    For example: {@code hdfs:foo.jar|com.foo.FooRegionObserver|1001|arg1=1,arg2=2}" />
       <item value="   Used by HBase Shell interface to access this metadata&#10;    attribute which denotes the maximum size of the store file after which a&#10;    region split occurs." />
       <item value="  Annotation to inform users of a package, class or method's intended audience.&#10;  Currently the audience can be {@link Public}, {@link LimitedPrivate} or&#10;  {@link Private}. &lt;br&gt;&#10;  All public classes must have InterfaceAudience annotation. &lt;br&gt;&#10;  &lt;ul&gt;&#10;  &lt;li&gt;Public classes that are not marked with this annotation must be&#10;  considered by default as {@link Private}.&lt;li&gt;&#10; &#10;  &lt;li&gt;External applications must only use classes that are marked&#10;  {@link Public}. Avoid using non public classes as these classes&#10;  could be removed or change in incompatible ways.&lt;li&gt;&#10; &#10;  &lt;li&gt;Some projects may choose to give special consideration to related&#10;  projects. Such consideration can be done by using the {@link LimitedPrivate}&#10;  annotation with a named set of projects.&lt;li&gt;&#10; &#10;  &lt;li&gt; Methods may have a different annotation that it is more restrictive&#10;  compared to the audience classification of the class. Example: A class&#10;  might be {@link Public}, but a method may be {@link LimitedPrivate}&#10;  &lt;li&gt;&lt;ul&gt;" />
@@ -49,12 +55,6 @@
       <item value="&#9;  If not equal null, means this column has a converter class to translate field&#10;&#9;  value to column value or reverse. Note: @Version and @Enumerated annotated&#10;&#9;  will a" />
       <item value="&#9;  Indicates that the persistence provider should pick an appropriate&#10;&#9;  strategy for the particular database. The &lt;code&gt;AUTO&lt;code&gt; generation&#10;&#9;  strategy may expect a database resource to exist, or it may attempt to&#10;&#9;  create one. A vendor may provide documentation on how to create such&#10;&#9;  resources in the event that it does not support schema generation or&#10;&#9;  cannot create the schema resource at runtime." />
       <item value="&#9;&#10;&#9;  Indicates that the persistence provider must assign primary keys for the&#10;&#9;  entity using a database sequence." />
-      <item value="&#9;&#10;&#9;  Indicates that the persistence provider must assign primary keys for the&#10;&#9;  entity using an underlying database table to ensure uniqueness." />
-      <item value="  A ColumnModel definition represents a platform dependent column in a Database&#10;  Table, from 1.0.5 this class name changed from &quot;Column&quot; to &quot;ColumnModel&quot; to&#10;  avoid naming conflict to JPA's &quot;@Column&quot; annotation&#10;  " />
-      <item value="compound" />
-      <item value="  The platform-independent Foreign Key Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;     ...&#10;   t.fkey(&quot;column1&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;)&#10;   &#10;   or compound foreign key:   &#10;   t.fkey(&quot;column1&quot;,&quot;column2&quot;).ref(&quot;refTable&quot;, &quot;refColumn1&quot;, &quot;refColumn2&quot;);" />
-      <item value="Identity" />
-      <item value="Comment" />
     </histories>
     <option name="languageScores">
       <map>
