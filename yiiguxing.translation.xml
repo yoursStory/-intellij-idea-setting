@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Indices" />
+      <item value="LONGTEXT" />
       <item value="precision" />
       <item value="CLICKHOUSE" />
       <item value="truncate Table Async" />
@@ -53,8 +55,6 @@
       <item value="column Definition" />
       <item value="PDM" />
       <item value="DA" />
-      <item value="元数建模" />
-      <item value="  ClassCacheUtils is utility class to cache some info of classes read and write&#10;  method" />
     </histories>
     <option name="languageScores">
       <map>
