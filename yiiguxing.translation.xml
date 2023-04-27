@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="precision" />
       <item value="CLICKHOUSE" />
       <item value="truncate Table Async" />
       <item value="    Creates a new table with the specified number of regions.  The start key specified will become&#10;    the end key of the first region of the table, and the end key specified will become the start&#10;    key of the last region of the table (the first region has a null start key and the last region&#10;    has a null end key). BigInteger math will be used to divide the key range specified into enough&#10;    segments to make the required number of total regions. Synchronous operation.&#10;   &#10;    @param desc table descriptor for table&#10;    @param startKey beginning of key range&#10;    @param endKey end of key range&#10;    @param numRegions the total number of regions to create&#10;    @throws IllegalArgumentException if the table name is reserved&#10;    @throws org.apache.hadoop.hbase.MasterNotRunningException if master is not running&#10;    @throws org.apache.hadoop.hbase.TableExistsException if table already exists (If concurrent&#10;    threads, the table may have been created between " />
@@ -28,7 +29,6 @@
       <item value="      Evaluates this predicate on the given argument.&#10;     &#10;      @param t the input argument&#10;      @return {@code true} if the input argument matches the predicate,&#10;      otherwise {@code false}" />
       <item value="Predicate" />
       <item value="compute If Absent" />
-      <item value="precision" />
       <item value="fkey Constraints" />
       <item value="unique Consts" />
       <item value="check Not Empty Reserved Words" />
