@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Reserved Word" />
       <item value="check Not Empty Reserved Words" />
       <item value="get Indices" />
       <item value="LONGTEXT" />
@@ -54,7 +55,6 @@
       <item value="Optional, put an extra tail String at end of column definition DDL" />
       <item value="column Definition" />
       <item value="PDM" />
-      <item value="DA" />
     </histories>
     <option name="languageScores">
       <map>
