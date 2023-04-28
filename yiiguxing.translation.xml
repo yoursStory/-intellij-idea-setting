@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exist" />
+      <item value="EXSIT" />
       <item value="sync" />
       <item value="create Multiset Table String" />
       <item value="transientable" />
@@ -53,8 +55,6 @@
       <item value="ref Table And Columns" />
       <item value="The platform-independent Foreign Key Constraint model" />
       <item value="scale" />
-      <item value="get Scale" />
-      <item value="get Precision" />
     </histories>
     <option name="languageScores">
       <map>
