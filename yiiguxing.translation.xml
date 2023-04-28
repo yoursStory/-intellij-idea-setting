@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sync" />
       <item value="create Multiset Table String" />
       <item value="transientable" />
       <item value="is Reserved Word" />
@@ -54,7 +55,6 @@
       <item value="scale" />
       <item value="get Scale" />
       <item value="get Precision" />
-      <item value="Optional, put an extra tail String at end of column definition DDL" />
     </histories>
     <option name="languageScores">
       <map>
