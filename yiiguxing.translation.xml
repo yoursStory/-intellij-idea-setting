@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Assert" />
       <item value="PDM EMPTY COLUMN TYPE ERROR" />
       <item value="exist" />
       <item value="EXSIT" />
@@ -54,7 +55,6 @@
       <item value="Project Original" />
       <item value="&#9;  if ddl set to false, will not create DDL when call TableModelUtils's&#10;&#9;  entity2Model() and oneEntity2Model methods" />
       <item value="ref Table And Columns" />
-      <item value="The platform-independent Foreign Key Constraint model" />
     </histories>
     <option name="languageScores">
       <map>
