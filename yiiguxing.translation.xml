@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="BALANCE" />
+      <item value="BALANCE ERROR" />
       <item value="Assert" />
       <item value="PDM EMPTY COLUMN TYPE ERROR" />
       <item value="exist" />
@@ -53,8 +55,6 @@
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table... engine=xxx&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL&#10;&#9;  engineTail only effect when dialect support engine" />
       <item value="  The platform-independent Unique Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;  ...  &#10;   t.index().forColumn(&quot;column1&quot;);&#10;   or&#10;   t.index(&quot;indexName&quot;).forColumn(&quot;column1&quot;,&quot;column2&quot;);" />
       <item value="Project Original" />
-      <item value="&#9;  if ddl set to false, will not create DDL when call TableModelUtils's&#10;&#9;  entity2Model() and oneEntity2Model methods" />
-      <item value="ref Table And Columns" />
     </histories>
     <option name="languageScores">
       <map>
