@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Mutator Callback" />
       <item value="add Fuzzy Row Filter" />
       <item value="BALANCE" />
       <item value="BALANCE ERROR" />
@@ -54,7 +55,6 @@
       <item value="actuator" />
       <item value="index Consts" />
       <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table... engine=xxx&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL&#10;&#9;  engineTail only effect when dialect support engine" />
-      <item value="  The platform-independent Unique Constraint model&#10;  &#10;  &lt;pre&gt;&#10;  Usage:&#10;  Table t=new Table('Customer');&#10;  ...  &#10;   t.index().forColumn(&quot;column1&quot;);&#10;   or&#10;   t.index(&quot;indexName&quot;).forColumn(&quot;column1&quot;,&quot;column2&quot;);" />
     </histories>
     <option name="languageScores">
       <map>
