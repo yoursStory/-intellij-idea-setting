@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Aviator Evaluator" />
       <item value="Mutator Callback" />
       <item value="add Fuzzy Row Filter" />
       <item value="BALANCE" />
@@ -54,7 +55,6 @@
       <item value="&#9;  Manually call this method to reload tail TableModels when database structure&#10;&#9;  be changed by DDL command" />
       <item value="actuator" />
       <item value="index Consts" />
-      <item value="&#9;  Optional, If support engine like MySQL or MariaDB, add engineTail at the end&#10;&#9;  of &quot;create table... engine=xxx&quot; DDL, usually used to set encode String like &quot; DEFAULT&#10;&#9;  CHARSET=utf8&quot; for MySQL&#10;&#9;  engineTail only effect when dialect support engine" />
     </histories>
     <option name="languageScores">
       <map>
