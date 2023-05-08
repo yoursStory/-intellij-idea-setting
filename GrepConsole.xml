@@ -14,11 +14,6 @@
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="style">
                         <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
                           <option name="bold" value="true" />
                         </GrepStyle>
                       </option>
@@ -29,8 +24,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-935919616" />
-                              <option name="enabled" value="true" />
+                              <option name="color" value="-13172736" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
@@ -42,15 +36,13 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-937820105" />
-                              <option name="enabled" value="true" />
+                              <option name="color" value="-15073225" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
