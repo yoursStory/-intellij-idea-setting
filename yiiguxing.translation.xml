@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="225" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Copilot" />
       <item value="indices" />
       <item value="  &#10;    Set the limit of rows for this scan. We will terminate the scan if the number of returned rows&#10;    reaches this value.&#10;    &lt;p&gt;&#10;    This condition will be tested at last, after all other conditions such as stopRow, filter, etc.&#10;    @param limit the limit of rows for this scan" />
       <item value="Aviator Evaluator" />
@@ -54,7 +55,6 @@
       <item value="  Static utility methods pertaining to {@code int} primitives, that are not already found in either&#10;  {@link Integer} or {@link Arrays}.&#10; &#10;  &lt;p&gt;See the Guava User Guide article on &lt;a&#10;  href=&quot;https:github.comgoogleguavawikiPrimitivesExplained&quot;&gt;primitive utilities&lt;a&gt;." />
       <item value="      Convert a string to the Java literal and enclose it with double quotes.&#10;      Null will result in &quot;null&quot; (without double quotes)." />
       <item value="&#9;  Check if is a dialect reserved word of ANSI-SQL reserved word&#10;&#9;  &#10;&#9;  @return false:not reserved word. true:reserved by dialect or ANSI-SQL" />
-      <item value="&#9;  Manually call this method to reload tail TableModels when database structure&#10;&#9;  be changed by DDL command" />
     </histories>
     <option name="languageScores">
       <map>
