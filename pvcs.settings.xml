@@ -1,0 +1,175 @@
+<application>
+  <component name="commitTemplateConfiguration">
+    <option name="selectType">
+      <map>
+        <entry key="Default">
+          <value>
+            <commitMessageTypeEntry>
+              <option name="template" value="Default" />
+              <option name="name" value="FEAT" />
+              <option name="title" value="Features" />
+              <option name="description" value="A new feature" />
+              <option name="enabled" value="true" />
+            </commitMessageTypeEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="commitMessageTypeList">
+      <list>
+        <commitMessageTypeEntry>
+          <option name="template" value="PingAn" />
+          <option name="name" value="ReqDev" />
+          <option name="title" value="需求开发" />
+          <option name="description" value="Requirements development" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="PingAn" />
+          <option name="name" value="BugFix" />
+          <option name="title" value="修复Bug" />
+          <option name="description" value="Bug fixes" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="PingAn" />
+          <option name="name" value="FaultFix" />
+          <option name="title" value="故障修复" />
+          <option name="description" value="Fault repair" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="FEAT" />
+          <option name="title" value="Features" />
+          <option name="description" value="A new feature" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="FIX" />
+          <option name="title" value="Bug Fixes" />
+          <option name="description" value="A bug fix" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="DOCS" />
+          <option name="title" value="Documentation" />
+          <option name="description" value="Documentation only changes" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="STYLE" />
+          <option name="title" value="Styles" />
+          <option name="description" value="Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="REFACTOR" />
+          <option name="title" value="Code Refactoring" />
+          <option name="description" value="A code change that neither fixes a bug nor adds a feature" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="PERF" />
+          <option name="title" value="Performance Improvements" />
+          <option name="description" value="A code change that improves performance" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="TEST" />
+          <option name="title" value="Tests" />
+          <option name="description" value="Adding missing tests or correcting existing tests" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="BUILD" />
+          <option name="title" value="Builds" />
+          <option name="description" value="Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="CI" />
+          <option name="title" value="Continuous Integrations" />
+          <option name="description" value="Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="CHORE" />
+          <option name="title" value="Chores" />
+          <option name="description" value="Other changes that don't modify src or test files" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+        <commitMessageTypeEntry>
+          <option name="template" value="Default" />
+          <option name="name" value="REVERT" />
+          <option name="title" value="Reverts" />
+          <option name="description" value="Reverts a previous commit" />
+          <option name="enabled" value="true" />
+        </commitMessageTypeEntry>
+      </list>
+    </option>
+    <option name="commitMessageFormList">
+      <list>
+        <commitMessageFormEntry>
+          <option name="template" value="RegEx Branch Demo" />
+          <option name="label" value="Description" />
+          <option name="name" value="desc" />
+          <option name="tips" value="Description" />
+          <option name="type" value="TextArea" />
+          <option name="enabled" value="true" />
+        </commitMessageFormEntry>
+        <commitMessageFormEntry>
+          <option name="template" value="PingAn" />
+          <option name="label" value="提交描述" />
+          <option name="name" value="desc" />
+          <option name="tips" value="提交描述" />
+          <option name="type" value="TextArea" />
+          <option name="enabled" value="true" />
+        </commitMessageFormEntry>
+        <commitMessageFormEntry>
+          <option name="template" value="PingAn" />
+          <option name="label" value="ID" />
+          <option name="name" value="id" />
+          <option name="tips" value="1.如果是需求开发，请填写 需求ID&lt;br&gt;2.如果是修复Bug，请填写 BugID&lt;br&gt;3.如果是故障修复，请填写 故障ID&lt;br&gt;4.请填写纯数学，多个以逗号分隔（英语逗号）" />
+          <option name="type" value="Text" />
+          <option name="enabled" value="true" />
+        </commitMessageFormEntry>
+        <commitMessageFormEntry>
+          <option name="template" value="Default" />
+          <option name="label" value="Description" />
+          <option name="name" value="desc" />
+          <option name="tips" value="Description" />
+          <option name="type" value="TextArea" />
+          <option name="value" value="1. add pdm module, success tested&#10;2. dataset and 维表 bind  model id" />
+          <option name="enabled" value="true" />
+        </commitMessageFormEntry>
+        <commitMessageFormEntry>
+          <option name="template" value="Default" />
+          <option name="label" value="Closed issues" />
+          <option name="name" value="closedIssues" />
+          <option name="tips" value="Closed issues" />
+          <option name="type" value="Text" />
+          <option name="value" value="" />
+          <option name="enabled" value="true" />
+        </commitMessageFormEntry>
+      </list>
+    </option>
+    <option name="emojisConfig">
+      <map>
+        <entry key="INCLUDE_MOJI_DESCRIPTION" value="1" />
+        <entry key="SWITCH_EMOJI" value="1" />
+        <entry key="TEXT_AFTER_UNICODE" value=" " />
+        <entry key="USE_UNICODE" value="0" />
+      </map>
+    </option>
+  </component>
+</application>
