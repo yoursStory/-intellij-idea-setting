@@ -149,7 +149,7 @@
           <option name="name" value="desc" />
           <option name="tips" value="Description" />
           <option name="type" value="TextArea" />
-          <option name="value" value="1. add pdm module, success tested&#10;2. dataset and 维表 bind  model id" />
+          <option name="value" value="1. export 接口重构 避免使用BaseController导致uni-user依赖" />
           <option name="enabled" value="true" />
         </commitMessageFormEntry>
         <commitMessageFormEntry>
