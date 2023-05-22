@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Simple Handler Chain" />
       <item value="Data Writer" />
       <item value="Immutable Pair" />
       <item value="schema Name" />
@@ -112,8 +113,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
