@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Name Mapping Intercepter" />
       <item value="process" />
       <item value="Data Intercepter" />
       <item value="Daas Dimension Reader" />
@@ -116,9 +117,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
+        <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="9" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
       </map>
     </option>
   </component>
