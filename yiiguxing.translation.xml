@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="process" />
       <item value="Data Intercepter" />
       <item value="Daas Dimension Reader" />
       <item value="Simple Handler Chain" />
@@ -116,7 +117,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
