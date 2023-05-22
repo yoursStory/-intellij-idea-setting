@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Ready" />
       <item value="空闲" />
       <item value="Switch Status" />
       <item value="ACTIVE" />
@@ -126,7 +127,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
