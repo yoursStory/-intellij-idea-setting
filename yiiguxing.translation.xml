@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="umber of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the initial" />
       <item value="Generated Criteria" />
       <item value="Name Mapping Intercepter" />
       <item value="process" />
