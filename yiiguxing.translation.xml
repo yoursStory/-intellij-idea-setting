@@ -102,6 +102,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="validity Period" />
+      <item value="authorization" />
       <item value="Authorization Provider" />
       <item value="Retrieves and removes the head of this queue, or returns null if this queue is empty. Returns: the head of this queue, or null if this queue is empty" />
       <item value="Extracts element at current take position, advances, and signals. Call only when holding lock." />
@@ -134,8 +136,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
