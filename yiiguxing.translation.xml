@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="trigger" />
       <item value="set Interceptors" />
       <item value="refreshable Authorize Token" />
       <item value="validity Period" />
@@ -120,7 +121,6 @@
       <item value="ACTIVE" />
       <item value="Inactive" />
       <item value="Subscribe Status" />
-      <item value="trigger" />
       <item value="umber of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the initial" />
       <item value="Generated Criteria" />
       <item value="Name Mapping Intercepter" />
@@ -138,8 +138,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
