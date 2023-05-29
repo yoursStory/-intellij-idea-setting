@@ -154,9 +154,13 @@
           <option name="url" value="http://172.30.19.21:9000/vaf/common/uni-data-subscribe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ZhongFuCheng3y/austin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\vaf\common" />
+    <option name="cloneParentDir" value="D:\Projects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
