@@ -102,6 +102,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Pending" />
+      <item value="Task Pending Holder" />
+      <item value="Assemble Action" />
+      <item value="recall" />
       <item value="is Discard" />
       <item value="title Suffer" />
       <item value="formattor" />
@@ -147,8 +151,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
