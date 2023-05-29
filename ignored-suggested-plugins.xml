@@ -1,0 +1,11 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.jetbrains.jax.ws" />
+        <option value="com.intellij.spring.batch" />
+        <option value="com.intellij.javaee.batch" />
+      </list>
+    </option>
+  </component>
+</application>

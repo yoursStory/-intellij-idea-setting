@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="executions" />
       <item value="set Anchor State" />
       <item value="Wx Ma Redis Better Config Impl" />
       <item value="Pending" />
@@ -153,8 +154,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
