@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Output Capture Extension" />
       <item value="violations" />
       <item value="Failure to find org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.9.0-Beta1 in https:maven.aliyun.comrepositorycentral was cached in the local repository, resolution will not be reattempted until the update interval of aliyunmaven has elapsed or updates are forced" />
       <item value="Listener for the {@link SpringApplication} {@code run} method. {@link SpringApplicationRunListener}s are loaded via the {@link SpringFactoriesLoader} and should declare a public constructor that accepts a {@link SpringApplication} instance and a {@code String[]} of arguments. A new {@link SpringApplicationRunListener} instance will be created for each run." />
@@ -151,7 +152,6 @@
       <item value="Immutable Pair" />
       <item value="schema Name" />
       <item value="pdm model column no refer error" />
-      <item value="refer" />
     </histories>
     <option name="languageScores">
       <map>
