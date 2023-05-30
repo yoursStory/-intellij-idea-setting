@@ -102,6 +102,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Failure to find org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.9.0-Beta1 in https:maven.aliyun.comrepositorycentral was cached in the local repository, resolution will not be reattempted until the update interval of aliyunmaven has elapsed or updates are forced" />
       <item value="Listener for the {@link SpringApplication} {@code run} method. {@link SpringApplicationRunListener}s are loaded via the {@link SpringFactoriesLoader} and should declare a public constructor that accepts a {@link SpringApplication} instance and a {@code String[]} of arguments. A new {@link SpringApplicationRunListener} instance will be created for each run." />
       <item value="executions" />
       <item value="set Anchor State" />
@@ -151,12 +152,11 @@
       <item value="pdm model column no refer error" />
       <item value="refer" />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false. Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections 5.1.1 and 5.1.4 , for details." />
-      <item value="prohibited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
