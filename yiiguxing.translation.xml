@@ -101,7 +101,18 @@
     <option name="lastTrimTime" value="1685168582287" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="formatter" />
+      <item value="formattor" />
+      <item value="format" />
+      <item value="formator" />
+      <item value="formator [O'R]" />
+      <item value="for [F'O'R]" />
+      <item value="Formator" />
+      <item value="Formator Intercepter" />
       <item value="abbreviate" />
       <item value="Erorr" />
       <item value="Output Capture Extension" />
@@ -117,7 +128,6 @@
       <item value="recall" />
       <item value="is Discard" />
       <item value="title Suffer" />
-      <item value="formattor" />
       <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the nextElement method return successive elements of the series. For example, to print all elements of a Vector&lt;E&gt; v: for (Enumeration&lt;E&gt; e = v.elements(); e.hasMoreElements();) System.out.println(e.nextElement()); Methods are provided to enumerate through the elements of a vector, the keys of a hashtable, and the values in a hashtable. Enumerations are also used to specify the input streams to a SequenceInputStream. API Note: The functionality of this interface is duplicated by the Iterator interface. In addition, Iterator adds an optional remove operation, and has shorter method names. New implementations should consider using Iterator in preference to Enumeration. It is possib" />
       <item value="Number of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the initial" />
       <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
@@ -145,19 +155,13 @@
       <item value="Subscribe Status" />
       <item value="umber of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the initial" />
       <item value="Generated Criteria" />
-      <item value="Name Mapping Intercepter" />
-      <item value="process" />
-      <item value="Data Intercepter" />
-      <item value="Daas Dimension Reader" />
-      <item value="Simple Handler Chain" />
-      <item value="Data Writer" />
-      <item value="Immutable Pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
-        <entry key="FRENCH" value="2" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="59" />
+        <entry key="FRENCH" value="3" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
       </map>
     </option>
