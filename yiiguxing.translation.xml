@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="compute" />
       <item value="refresh" />
       <item value="flush" />
       <item value="flush Buffer" />
@@ -154,12 +155,11 @@
       <item value="poll" />
       <item value="fair" />
       <item value="capacity" />
-      <item value="Array Blocking Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
