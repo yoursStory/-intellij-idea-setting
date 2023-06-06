@@ -105,6 +105,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="process Node Test Address" />
+      <item value="handle Node Test Address" />
       <item value="compute" />
       <item value="refresh" />
       <item value="flush" />
@@ -153,13 +155,11 @@
       <item value="Retrieves and removes the head of this queue, or returns null if this queue is empty. Returns: the head of this queue, or null if this queue is empty" />
       <item value="Extracts element at current take position, advances, and signals. Call only when holding lock." />
       <item value="poll" />
-      <item value="fair" />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
