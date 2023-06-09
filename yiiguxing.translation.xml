@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Bean Supplier" />
       <item value="The annotated element must not be null nor empty. Supported types are: CharSequence (length of character sequence is evaluated) Collection (collection size is evaluated) Map (map size is evaluated) Array (array length is evaluated) Since: 2.0 Author: Emmanuel Bernard, Hardy Ferentschik" />
       <item value="related Device Name" />
       <item value="process Node Test Address" />
@@ -154,12 +155,11 @@
       <item value="validity Period" />
       <item value="authorization" />
       <item value="Authorization Provider" />
-      <item value="Retrieves and removes the head of this queue, or returns null if this queue is empty. Returns: the head of this queue, or null if this queue is empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
