@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Calculate the next Temporal that matches this expression. Params: temporal – the seed value Returns: the next temporal that matches this expression, or null if no such temporal can be found" />
       <item value="period" />
       <item value="hour before event time" />
       <item value="compute If Absent" />
@@ -154,12 +155,11 @@
       <item value="Number of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the initial" />
       <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
       <item value="get Instance" />
-      <item value="Compare this snippet from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
