@@ -98,13 +98,17 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688025478404" />
+    <option name="lastTrimTime" value="1688542248324" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
+      <item value="Execute the annotated method with a fixed period between the end of the last invocation and the start of the next. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the delay" />
+      <item value="Number of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit." />
+      <item value="Execute the annotated method with a fixed period between the end of the last invocation and the start of the next. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the delay as a String value — for example, a placeholder or a java.time.Duration compliant value" />
       <item value="Calculate the next Temporal that matches this expression. Params: temporal – the seed value Returns: the next temporal that matches this expression, or null if no such temporal can be found" />
       <item value="period" />
       <item value="hour before event time" />
@@ -151,15 +155,11 @@
       <item value="recall" />
       <item value="is Discard" />
       <item value="title Suffer" />
-      <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the nextElement method return successive elements of the series. For example, to print all elements of a Vector&lt;E&gt; v: for (Enumeration&lt;E&gt; e = v.elements(); e.hasMoreElements();) System.out.println(e.nextElement()); Methods are provided to enumerate through the elements of a vector, the keys of a hashtable, and the values in a hashtable. Enumerations are also used to specify the input streams to a SequenceInputStream. API Note: The functionality of this interface is duplicated by the Iterator interface. In addition, Iterator adds an optional remove operation, and has shorter method names. New implementations should consider using Iterator in preference to Enumeration. It is possib" />
-      <item value="Number of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the initial" />
-      <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
-      <item value="get Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
