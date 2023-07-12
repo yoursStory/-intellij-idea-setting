@@ -98,13 +98,14 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688542248324" />
+    <option name="lastTrimTime" value="1689129360679" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="deal" />
       <item value="excution Id" />
       <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
       <item value="Execute the annotated method with a fixed period between the end of the last invocation and the start of the next. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the delay" />
@@ -154,12 +155,11 @@
       <item value="Task Pending Holder" />
       <item value="Assemble Action" />
       <item value="recall" />
-      <item value="is Discard" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
