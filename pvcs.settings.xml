@@ -149,7 +149,7 @@
           <option name="name" value="desc" />
           <option name="tips" value="Description" />
           <option name="type" value="TextArea" />
-          <option name="value" value="修复Long类型id在浏览器溢出bug, 序列化id为string类型" />
+          <option name="value" value="fix bug" />
           <option name="enabled" value="true" />
         </commitMessageFormEntry>
         <commitMessageFormEntry>
