@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="delete Processing Time Timer" />
       <item value="transient" />
       <item value="Transaction" />
       <item value="Sources may assign timestamps to elements and may manually emit watermarks via the methods SourceFunction.SourceContext.collectWithTimestamp(Object, long) and SourceFunction.SourceContext.emitWatermark(Watermark)." />
@@ -154,12 +155,11 @@
       <item value="Erorr" />
       <item value="Output Capture Extension" />
       <item value="violations" />
-      <item value="Failure to find org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.9.0-Beta1 in https:maven.aliyun.comrepositorycentral was cached in the local repository, resolution will not be reattempted until the update interval of aliyunmaven has elapsed or updates are forced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
