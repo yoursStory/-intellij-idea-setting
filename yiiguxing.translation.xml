@@ -105,6 +105,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="transient" />
+      <item value="Transaction" />
+      <item value="Sources may assign timestamps to elements and may manually emit watermarks via the methods SourceFunction.SourceContext.collectWithTimestamp(Object, long) and SourceFunction.SourceContext.emitWatermark(Watermark)." />
+      <item value="The StreamExecutionEnvironment is the context in which a streaming program is executed. A LocalStreamEnvironment will cause execution in the current JVM, a RemoteStreamEnvironment will cause execution on a remote setup. The environment provides methods to control the job execution (such as setting the parallelism or the fault tolerancecheckpointing parameters) and to interact with the outside world (data access)." />
       <item value="walkthrough" />
       <item value="Keyed Process Function" />
       <item value="Skeleton" />
@@ -151,15 +155,11 @@
       <item value="Output Capture Extension" />
       <item value="violations" />
       <item value="Failure to find org.jetbrains.kotlin:kotlin-stdlib-jdk8:jar:1.9.0-Beta1 in https:maven.aliyun.comrepositorycentral was cached in the local repository, resolution will not be reattempted until the update interval of aliyunmaven has elapsed or updates are forced" />
-      <item value="Listener for the {@link SpringApplication} {@code run} method. {@link SpringApplicationRunListener}s are loaded via the {@link SpringFactoriesLoader} and should declare a public constructor that accepts a {@link SpringApplication} instance and a {@code String[]} of arguments. A new {@link SpringApplicationRunListener} instance will be created for each run." />
-      <item value="executions" />
-      <item value="set Anchor State" />
-      <item value="Wx Ma Redis Better Config Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
