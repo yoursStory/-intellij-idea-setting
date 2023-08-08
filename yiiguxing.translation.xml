@@ -98,13 +98,14 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689584224351" />
+    <option name="lastTrimTime" value="1691474071263" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="insert Batch Update On Duplicate Key" />
       <item value="delete Processing Time Timer" />
       <item value="transient" />
       <item value="Transaction" />
@@ -154,12 +155,11 @@
       <item value="abbreviate" />
       <item value="Erorr" />
       <item value="Output Capture Extension" />
-      <item value="violations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
