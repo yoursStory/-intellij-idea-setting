@@ -105,6 +105,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="wakeup" />
+      <item value="seek" />
       <item value="drain To" />
       <item value="not Empty" />
       <item value="not Insufficient" />
@@ -153,13 +155,11 @@
       <item value="format" />
       <item value="formator" />
       <item value="formator [O'R]" />
-      <item value="for [F'O'R]" />
-      <item value="Formator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
