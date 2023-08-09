@@ -105,6 +105,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="drain To" />
+      <item value="not Empty" />
+      <item value="not Insufficient" />
+      <item value="byte Capacity" />
       <item value="insert Batch Update On Duplicate Key" />
       <item value="delete Processing Time Timer" />
       <item value="transient" />
@@ -151,15 +155,11 @@
       <item value="formator [O'R]" />
       <item value="for [F'O'R]" />
       <item value="Formator" />
-      <item value="Formator Intercepter" />
-      <item value="abbreviate" />
-      <item value="Erorr" />
-      <item value="Output Capture Extension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
