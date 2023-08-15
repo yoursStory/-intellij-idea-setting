@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="communication" />
       <item value="lock Interruptibly" />
       <item value="not Insufficient" />
       <item value="UnsupportedOperationException – if addition of elements is not supported by the specified collection ClassCastException – if the class of an element of this queue prevents it from being added to the specified collection NullPointerException – if the specified collection is null IllegalArgumentException – if the specified collection is this queue, or some property of an element of this queue prevents it from being added to the specified collection" />
@@ -154,12 +155,11 @@
       <item value="Override" />
       <item value="@Order defines the sort order for an annotated component. The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value). NOTE: Since Spring 4.0, annotation-based ordering is supported for many kinds of components in Spring, even for collection injection where the order values of the target components are taken into account (either from their target class or from their @Bean method). While such order values may influence priorities at injection points, please be aware that they do not influence singleton startup order which is an orthogonal concern determined by dependency relationships and @DependsOn declarations (influencing a runtime-determined dependency graph). Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation in ordering scenarios. Note that @Priority may have additional semantics when a single element has to be picked (see AnnotationAwareOrderComparator.getPriority). Alternatively, order values may also be determined on a per-instance basis through the Ordered interface, allowing for configuration-determined instance values instead of hard-coded values attached to a particular class. Consult the javadoc for OrderComparator for details on the sort semantics for non-ordered objects." />
       <item value="} In the sample above the condition will match if no bean of type MyService is already contained in the BeanFactory. The condition can only match the bean definitions that have been processed by the application context so far and, as such, it is strongly recommended to use this condition on auto-configuration classes only. If a candidate bean may be created by another auto-configuration, make sure that the one using this condition runs after." />
-      <item value="@Conditional that only matches when no beans meeting the specified requirements are already contained in the BeanFactory. None of the requirements must be met for the condition to match and the requirements do not have to be met by the same bean. When placed on a @Bean method, the bean class defaults to the return type of the factory method:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
