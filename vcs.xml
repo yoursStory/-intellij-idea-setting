@@ -202,9 +202,13 @@
           <option name="url" value="ssh://git@172.30.19.21:60522/vaf/tenant3/compas-boce-subscriber.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wgzhao/Addax.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\vaf\tenant3" />
+    <option name="cloneParentDir" value="D:\Projects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
