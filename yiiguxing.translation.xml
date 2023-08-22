@@ -98,13 +98,15 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692006077449" />
+    <option name="lastTrimTime" value="1692669599646" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="boce Operator" />
+      <item value="query Link Ordinary" />
       <item value="Compliant" />
       <item value="clear Same Source" />
       <item value="过滤" />
@@ -153,13 +155,12 @@
       <item value="associated Columns" />
       <item value="association" />
       <item value="aggregate" />
-      <item value="Bean Supplier" />
-      <item value="The annotated element must not be null nor empty. Supported types are: CharSequence (length of character sequence is evaluated) Collection (collection size is evaluated) Map (map size is evaluated) Array (array length is evaluated) Since: 2.0 Author: Emmanuel Bernard, Hardy Ferentschik" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="ENGLISH" value="132" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
