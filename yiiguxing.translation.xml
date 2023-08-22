@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="get External Id" />
       <item value="boce Operator" />
       <item value="query Link Ordinary" />
       <item value="Compliant" />
@@ -154,13 +155,12 @@
       <item value="Immutable Collections" />
       <item value="associated Columns" />
       <item value="association" />
-      <item value="aggregate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="132" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
