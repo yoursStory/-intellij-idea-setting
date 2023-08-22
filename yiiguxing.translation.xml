@@ -105,6 +105,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="I Delimiter Based Frame Decoder" />
+      <item value="Abstract base class for ChannelInboundHandler implementations which provide implementations of all of their methods. This implementation just forward the operation to the next ChannelHandler in the ChannelPipeline. Sub-classes may override a method implementation to change this. Be aware that messages are not released after the channelRead(ChannelHandlerContext, Object) method returns automatically. If you are looking for a ChannelInboundHandler implementation that releases the received messages automatically, please see SimpleChannelInboundHandler." />
+      <item value="Channel Inbound Handler Adapter" />
+      <item value="Deferred Result" />
       <item value="get External Id" />
       <item value="boce Operator" />
       <item value="query Link Ordinary" />
@@ -151,16 +155,12 @@
       <item value="Calculate the next Temporal that matches this expression. Params: temporal – the seed value Returns: the next temporal that matches this expression, or null if no such temporal can be found" />
       <item value="period" />
       <item value="hour before event time" />
-      <item value="compute If Absent" />
-      <item value="Immutable Collections" />
-      <item value="associated Columns" />
-      <item value="association" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
+        <entry key="CHINESE" value="136" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="ENGLISH" value="137" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
