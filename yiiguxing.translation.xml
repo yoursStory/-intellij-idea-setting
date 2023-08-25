@@ -105,6 +105,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Get the current subscription. Will return the same topics used in the most recent call to subscribe(Collection, ConsumerRebalanceListener), or an empty set if no such call has been made. Returns: The set of topics currently subscribed to" />
+      <item value="Get the set of partitions that were previously paused by a call to pause(Collection). Returns: The set of paused partitions" />
+      <item value="Atomically sets the value to newValue if the current value == expectedValue, with memory effects as specified by VarHandle.compareAndSet. Params: expectedValue – the expected value newValue – the new value Returns: true if successful. False return indicates that the actual value was not equal to the expected value." />
       <item value="I Delimiter Based Frame Decoder" />
       <item value="Abstract base class for ChannelInboundHandler implementations which provide implementations of all of their methods. This implementation just forward the operation to the next ChannelHandler in the ChannelPipeline. Sub-classes may override a method implementation to change this. Be aware that messages are not released after the channelRead(ChannelHandlerContext, Object) method returns automatically. If you are looking for a ChannelInboundHandler implementation that releases the received messages automatically, please see SimpleChannelInboundHandler." />
       <item value="Channel Inbound Handler Adapter" />
@@ -152,15 +155,12 @@
       <item value="Execute the annotated method with a fixed period between the end of the last invocation and the start of the next. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the delay" />
       <item value="Number of units of time to delay before the first execution of a fixedRate or fixedDelay task. The time unit is milliseconds by default but can be overridden via timeUnit." />
       <item value="Execute the annotated method with a fixed period between the end of the last invocation and the start of the next. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the delay as a String value — for example, a placeholder or a java.time.Duration compliant value" />
-      <item value="Calculate the next Temporal that matches this expression. Params: temporal – the seed value Returns: the next temporal that matches this expression, or null if no such temporal can be found" />
-      <item value="period" />
-      <item value="hour before event time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
+        <entry key="CHINESE" value="139" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="ENGLISH" value="140" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
