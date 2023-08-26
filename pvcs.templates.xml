@@ -1,0 +1,5 @@
+<application>
+  <component name="commitMessageTemplates">
+    <option name="defaultTempalteName" value="Default" />
+  </component>
+</application>

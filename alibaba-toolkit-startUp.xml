@@ -1,12 +1,63 @@
 <application>
   <component name="TipsStore">
+    <entry projectPath="D:/Downloads/kl-cloud/kl-e-sign" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/LOGLYST_CLOUD/iptv-hash-consistency" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/TRAFFICVIEW_V2.X_WEB/middleware" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/TRAFFICVIEW_V2.X_WEB/web" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/TRAFFICVIEW_V2.X_WEB/web-server" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/VAF/npm3/uni-config-web" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/demo/dege-demo" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/flink/flink-playgrounds" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/flink/frauddetection" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/Addax" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/ApiManager" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/COLA" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/HBaseClient" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/MoneyKeeper" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/MyUploader" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/MyUploader-Backend" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/ausin" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/chiner-java" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/hy.common.hbase.1.x" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/jdialects" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/spring-boot" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/spring-boot-loader" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/github/spring-boot-starter-hbase" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/data-terminater" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/devops-web" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/probe-manager" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-alarm-analysis" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-alarm-subscribe" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-bi" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-config" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-data-subscribe" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-main-web" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-netvista-boce-server-v2" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-probe-manager" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-process-analysis" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/uni-user" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/vaf-daas-server" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/vaf-framework" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/common/vaf-gateway" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/npm3/npm3-web" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/npm3/uni-config" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/probe/probe-edge-service" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/probe/uni-boce-server-zijin" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/probe/zijinyuan-probe-adapter" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/tanant3/cms-main-server" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/tenant3/cms-main-server" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/tenant3/compas-boce-subscriber" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/vaf/tenant3/liaoling-zhiguan-sync" startUpFlag="FIRST" />
+    <entry projectPath="D:/Projects/web_common/database-sync" startUpFlag="FIRST" />
     <entry projectPath="D:/project/CBoard" startUpFlag="FIRST" />
     <entry projectPath="D:/project/DataX_alibaba" startUpFlag="FIRST" />
     <entry projectPath="D:/project/DataX_wgzhao" startUpFlag="FIRST" />
     <entry projectPath="D:/project/SpringCloud" startUpFlag="FIRST" />
     <entry projectPath="D:/project/ballcat" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/data-terminater" startUpFlag="FIRST" />
     <entry projectPath="D:/project/datagear" startUpFlag="FIRST" />
     <entry projectPath="D:/project/datax-web" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/dolphinscheduler" startUpFlag="FIRST" />
     <entry projectPath="D:/project/drools" startUpFlag="FIRST" />
     <entry projectPath="D:/project/fernflower" startUpFlag="FIRST" />
     <entry projectPath="D:/project/iptv-gateway-sevice" startUpFlag="FIRST" />
@@ -17,13 +68,16 @@
     <entry projectPath="D:/project/java-ipr-api" startUpFlag="FIRST" />
     <entry projectPath="D:/project/java-ipr-cloud" startUpFlag="FIRST" />
     <entry projectPath="D:/project/jeecg-boot" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/junixsocket" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kboss-release" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kboss_merged" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kl-cloud" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kl-cloud-clone" startUpFlag="FIRST" />
     <entry projectPath="D:/project/kl-cloud-new" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/kohlschutter-parent" startUpFlag="FIRST" />
     <entry projectPath="D:/project/leecode" startUpFlag="FIRST" />
     <entry projectPath="D:/project/liaoling-zhiguan-sync" startUpFlag="FIRST" />
+    <entry projectPath="D:/project/nacos" startUpFlag="FIRST" />
     <entry projectPath="D:/project/oshi" startUpFlag="FIRST" />
     <entry projectPath="D:/project/phoenix" startUpFlag="FIRST" />
     <entry projectPath="D:/project/probe-management-test" startUpFlag="FIRST" />
