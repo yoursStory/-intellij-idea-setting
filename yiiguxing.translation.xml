@@ -98,13 +98,14 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692669599646" />
+    <option name="lastTrimTime" value="1693452378212" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Simple holder class that associates a LocaleContext instance with the current thread. The LocaleContext will be inherited by any child threads spawned by the current thread if the inheritable flag is set to true. Used as a central holder for the current Locale in Spring, wherever necessary: for example, in MessageSourceAccessor. DispatcherServlet automatically exposes its current Locale here. Other applications can expose theirs too, to make classes like MessageSourceAccessor automatically use that Locale." />
       <item value="Enumeration" />
       <item value="Create a new CentralDirectoryEndRecord instance from the specified RandomAccessData, searching backwards from the end until a valid block is located. Params: data – the source data" />
       <item value="Sets the file-pointer offset, measured from the beginning of this file, at which the next read or write occurs. The offset may be set beyond the end of the file. Setting the offset beyond the end of the file does not change the file length. The file length will change only by writing after the offset has been set beyond the end of the file. Params: pos – the offset position, measured in bytes from the beginning of the file, at which to set the file pointer. Throws: IOException – if pos is less than 0 or if an IO error occurs." />
@@ -154,13 +155,12 @@
       <item value="Keyed Process Function" />
       <item value="Skeleton" />
       <item value="amend" />
-      <item value="deal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
+        <entry key="CHINESE" value="146" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
