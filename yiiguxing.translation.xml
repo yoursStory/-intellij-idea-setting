@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="FIXED" />
       <item value="Simple holder class that associates a LocaleContext instance with the current thread. The LocaleContext will be inherited by any child threads spawned by the current thread if the inheritable flag is set to true. Used as a central holder for the current Locale in Spring, wherever necessary: for example, in MessageSourceAccessor. DispatcherServlet automatically exposes its current Locale here. Other applications can expose theirs too, to make classes like MessageSourceAccessor automatically use that Locale." />
       <item value="Enumeration" />
       <item value="Create a new CentralDirectoryEndRecord instance from the specified RandomAccessData, searching backwards from the end until a valid block is located. Params: data – the source data" />
@@ -154,13 +155,12 @@
       <item value="walkthrough" />
       <item value="Keyed Process Function" />
       <item value="Skeleton" />
-      <item value="amend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="147" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
