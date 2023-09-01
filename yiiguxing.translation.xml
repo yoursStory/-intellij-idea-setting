@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="peer Dependencies" />
       <item value="Stealth" />
       <item value="FIXED" />
       <item value="Simple holder class that associates a LocaleContext instance with the current thread. The LocaleContext will be inherited by any child threads spawned by the current thread if the inheritable flag is set to true. Used as a central holder for the current Locale in Spring, wherever necessary: for example, in MessageSourceAccessor. DispatcherServlet automatically exposes its current Locale here. Other applications can expose theirs too, to make classes like MessageSourceAccessor automatically use that Locale." />
@@ -154,13 +155,12 @@
       <item value="Sources may assign timestamps to elements and may manually emit watermarks via the methods SourceFunction.SourceContext.collectWithTimestamp(Object, long) and SourceFunction.SourceContext.emitWatermark(Watermark)." />
       <item value="The StreamExecutionEnvironment is the context in which a streaming program is executed. A LocalStreamEnvironment will cause execution in the current JVM, a RemoteStreamEnvironment will cause execution on a remote setup. The environment provides methods to control the job execution (such as setting the parallelism or the fault tolerancecheckpointing parameters) and to interact with the outside world (data access)." />
       <item value="walkthrough" />
-      <item value="Keyed Process Function" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="148" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
