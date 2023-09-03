@@ -98,13 +98,20 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692669599646" />
+    <option name="lastTrimTime" value="1693452378212" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="peer Dependencies" />
+      <item value="Stealth" />
+      <item value="FIXED" />
+      <item value="Simple holder class that associates a LocaleContext instance with the current thread. The LocaleContext will be inherited by any child threads spawned by the current thread if the inheritable flag is set to true. Used as a central holder for the current Locale in Spring, wherever necessary: for example, in MessageSourceAccessor. DispatcherServlet automatically exposes its current Locale here. Other applications can expose theirs too, to make classes like MessageSourceAccessor automatically use that Locale." />
+      <item value="Enumeration" />
+      <item value="Create a new CentralDirectoryEndRecord instance from the specified RandomAccessData, searching backwards from the end until a valid block is located. Params: data – the source data" />
+      <item value="Sets the file-pointer offset, measured from the beginning of this file, at which the next read or write occurs. The offset may be set beyond the end of the file. Setting the offset beyond the end of the file does not change the file length. The file length will change only by writing after the offset has been set beyond the end of the file. Params: pos – the offset position, measured in bytes from the beginning of the file, at which to set the file pointer. Throws: IOException – if pos is less than 0 or if an IO error occurs." />
       <item value="Determine if the specified JarEntry is a nested item that should be added to the classpath. The method is called once for each entry. Params: entry – the jar entry Returns: true if the entry is a nested item (jar or folder)" />
       <item value="Returns the archives that will be used to construct the class path. Returns: the class path archives Throws: Exception – if the class path archives cannot be obtained" />
       <item value="Get the current subscription. Will return the same topics used in the most recent call to subscribe(Collection, ConsumerRebalanceListener), or an empty set if no such call has been made. Returns: The set of topics currently subscribed to" />
@@ -148,19 +155,12 @@
       <item value="Sources may assign timestamps to elements and may manually emit watermarks via the methods SourceFunction.SourceContext.collectWithTimestamp(Object, long) and SourceFunction.SourceContext.emitWatermark(Watermark)." />
       <item value="The StreamExecutionEnvironment is the context in which a streaming program is executed. A LocalStreamEnvironment will cause execution in the current JVM, a RemoteStreamEnvironment will cause execution on a remote setup. The environment provides methods to control the job execution (such as setting the parallelism or the fault tolerancecheckpointing parameters) and to interact with the outside world (data access)." />
       <item value="walkthrough" />
-      <item value="Keyed Process Function" />
-      <item value="Skeleton" />
-      <item value="amend" />
-      <item value="deal" />
-      <item value="excution Id" />
-      <item value="Execute the annotated method with a fixed period between invocations. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the period" />
-      <item value="Execute the annotated method with a fixed period between the end of the last invocation and the start of the next. The time unit is milliseconds by default but can be overridden via timeUnit. Returns: the delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
+        <entry key="CHINESE" value="148" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="ENGLISH" value="149" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
