@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="legacy" />
       <item value="peer Dependencies" />
       <item value="Stealth" />
       <item value="FIXED" />
@@ -154,13 +155,12 @@
       <item value="Transaction" />
       <item value="Sources may assign timestamps to elements and may manually emit watermarks via the methods SourceFunction.SourceContext.collectWithTimestamp(Object, long) and SourceFunction.SourceContext.emitWatermark(Watermark)." />
       <item value="The StreamExecutionEnvironment is the context in which a streaming program is executed. A LocalStreamEnvironment will cause execution in the current JVM, a RemoteStreamEnvironment will cause execution on a remote setup. The environment provides methods to control the job execution (such as setting the parallelism or the fault tolerancecheckpointing parameters) and to interact with the outside world (data access)." />
-      <item value="walkthrough" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
+        <entry key="CHINESE" value="149" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
