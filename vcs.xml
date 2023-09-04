@@ -218,9 +218,21 @@
           <option name="url" value="ssh://git@172.30.19.21:60522/devops/deploy-pyscripts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.virtueit.net/k23028551001/trafficeviewweb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.virtueit.net/k23028551001/middleware.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.virtueit.net/k23028551001/webserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\devops" />
+    <option name="cloneParentDir" value="D:\Projects\shangyanyuan" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
