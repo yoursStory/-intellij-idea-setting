@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="propagation" />
       <item value="Quartz Quick Job Builder" />
       <item value="legacy" />
       <item value="peer Dependencies" />
@@ -154,13 +155,12 @@
       <item value="delete Processing Time Timer" />
       <item value="transient" />
       <item value="Transaction" />
-      <item value="Sources may assign timestamps to elements and may manually emit watermarks via the methods SourceFunction.SourceContext.collectWithTimestamp(Object, long) and SourceFunction.SourceContext.emitWatermark(Watermark)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
+        <entry key="CHINESE" value="151" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
