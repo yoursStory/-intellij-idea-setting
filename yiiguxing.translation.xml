@@ -105,6 +105,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="ArithmeticException – if divisor==0, or roundingMode==ROUND_UNNECESSARY and this.scale() is insufficient to represent the result of the division exactly." />
+      <item value="ROUND UNNECESSARY" />
+      <item value="rounding Mode" />
+      <item value="multiply" />
       <item value="set Use Deprecated Executor" />
       <item value="propagation" />
       <item value="Quartz Quick Job Builder" />
@@ -151,16 +155,12 @@
       <item value="wakeup" />
       <item value="seek" />
       <item value="not Empty" />
-      <item value="byte Capacity" />
-      <item value="insert Batch Update On Duplicate Key" />
-      <item value="delete Processing Time Timer" />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
+        <entry key="CHINESE" value="157" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="ENGLISH" value="158" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
