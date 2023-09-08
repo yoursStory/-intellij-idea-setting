@@ -105,6 +105,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="set Use Deprecated Executor" />
       <item value="propagation" />
       <item value="Quartz Quick Job Builder" />
       <item value="legacy" />
@@ -154,13 +155,12 @@
       <item value="insert Batch Update On Duplicate Key" />
       <item value="delete Processing Time Timer" />
       <item value="transient" />
-      <item value="Transaction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
+        <entry key="CHINESE" value="152" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
