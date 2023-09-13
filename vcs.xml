@@ -250,9 +250,13 @@
           <option name="url" value="http://172.30.19.21:9000/trafficview_v2.x_web/vgw/license.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mitch-haraldsson/greenLicense" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\TRAFFICVIEW_V2.X_WEB" />
+    <option name="cloneParentDir" value="D:\Projects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
