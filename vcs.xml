@@ -242,9 +242,13 @@
           <option name="url" value="http://git.virtueit.net/k23028551001/middlewarecloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.19.21:9000/vaf/tenant3/uni-alarm-subscribe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\shangyanyuan" />
+    <option name="cloneParentDir" value="D:\Projects\vaf\tenant3" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
