@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="param.get License Path()" />
+      <item value="Creates a directory by creating all nonexistent parent directories first. Unlike the createDirectory method, an exception is not thrown if the directory could not be created because it already exists. The attrs parameter is optional file-attributes to set atomically when creating the nonexistent directories. Each file attribute is identified by its name. If more than one attribute of the same name is included in the array then all but the last occurrence is ignored. If this method fails, then it may do so after creating some, but not all, of the parent directories. Params: dir – the directory to create attrs – an optional list of file attributes to set atomically when creating the directory" />
       <item value="java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process &quot;jps.track.ap.dependencies&quot; VM flag to enabledisable incremental annotation processing environment." />
       <item value="inaccurate" />
       <item value="Default Cipher Param" />
@@ -156,14 +158,12 @@
       <item value="Column" />
       <item value="Column Type Converter" />
       <item value="Immutable Triple" />
-      <item value="Perf Record" />
-      <item value="Record Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
+        <entry key="CHINESE" value="171" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="ENGLISH" value="173" />
         <entry key="FRENCH" value="4" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
