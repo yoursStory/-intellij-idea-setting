@@ -108,6 +108,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Cipher Param" />
+      <item value="Returns the time when the license begins to be valid. The default is null. Returns: Value of property notBefore." />
+      <item value="Returns the time when the license ends to be valid. The default is null. Returns: Value of property notAfter." />
       <item value="Sigar" />
       <item value="Checks the given password for compliance to the current password policy. The default policy implemented by this class ensures that the password is at least six characters long and consists of letters and digits." />
       <item value="!hasLetter || !hasDigit" />
@@ -155,15 +158,12 @@
       <item value="Compliant" />
       <item value="clear Same Source" />
       <item value="过滤" />
-      <item value="Columns Type Converter" />
-      <item value="columns" />
-      <item value="column" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
+        <entry key="CHINESE" value="177" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="ENGLISH" value="178" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
