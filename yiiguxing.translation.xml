@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Performs a final update on the digest using the specified array of bytes, then completes the digest computation. That is, this method first calls update(input), passing the input array to the update method, then calls digest(). Params: input – the input to be updated before the digest is completed." />
+      <item value="manufacturer" />
       <item value="serial" />
       <item value="get CPU Serial" />
       <item value="Identifier" />
@@ -156,14 +158,12 @@
       <item value="Sets the file-pointer offset, measured from the beginning of this file, at which the next read or write occurs. The offset may be set beyond the end of the file. Setting the offset beyond the end of the file does not change the file length. The file length will change only by writing after the offset has been set beyond the end of the file. Params: pos – the offset position, measured in bytes from the beginning of the file, at which to set the file pointer. Throws: IOException – if pos is less than 0 or if an IO error occurs." />
       <item value="Determine if the specified JarEntry is a nested item that should be added to the classpath. The method is called once for each entry. Params: entry – the jar entry Returns: true if the entry is a nested item (jar or folder)" />
       <item value="Returns the archives that will be used to construct the class path. Returns: the class path archives Throws: Exception – if the class path archives cannot be obtained" />
-      <item value="Get the current subscription. Will return the same topics used in the most recent call to subscribe(Collection, ConsumerRebalanceListener), or an empty set if no such call has been made. Returns: The set of topics currently subscribed to" />
-      <item value="Get the set of partitions that were previously paused by a call to pause(Collection). Returns: The set of paused partitions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
+        <entry key="CHINESE" value="190" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
