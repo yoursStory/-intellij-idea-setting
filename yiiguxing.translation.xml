@@ -108,6 +108,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="serial" />
+      <item value="get CPU Serial" />
+      <item value="Identifier" />
+      <item value="Immutable" />
+      <item value="The CPU's identifier strings ,including name, vendor, stepping, model, and family information (also called the signature of a CPU). &lt;p&gt; The Processor Identifier is primarily associated with Intel-based chips. Attempts are made to provide comparable values for other chip manufacturers." />
+      <item value="This class represents the entire Central Processing Unit (CPU) of a computer system, which may contain one or more physical packages (sockets), one or more physical processors (cores), and one or more logical processors (what the Operating System sees, which may include hyperthreaded cores.)" />
+      <item value="get MAC Address Finger" />
+      <item value="A network interface in the machine, including statistics. Thread safe for the designed use of retrieving the most recent data. Users should be aware that the updateAttributes() method may update attributes, including the time stamp, and should externally synchronize such usage to ensure consistent calculations." />
+      <item value="Determines if the MAC address on this interface corresponds to a known Virtual Machine. Returns: true if the MAC address corresponds to a known virtual machine." />
+      <item value="Gets a list NetworkIF objects, representing a network interface. Params: includeLocalInterfaces – whether to include local interfaces (loopback or no hardware address) in the result" />
       <item value="beaturing" />
       <item value="Cipher Param" />
       <item value="Returns the time when the license begins to be valid. The default is null. Returns: Value of property notBefore." />
@@ -148,22 +158,12 @@
       <item value="Returns the archives that will be used to construct the class path. Returns: the class path archives Throws: Exception – if the class path archives cannot be obtained" />
       <item value="Get the current subscription. Will return the same topics used in the most recent call to subscribe(Collection, ConsumerRebalanceListener), or an empty set if no such call has been made. Returns: The set of topics currently subscribed to" />
       <item value="Get the set of partitions that were previously paused by a call to pause(Collection). Returns: The set of paused partitions" />
-      <item value="Atomically sets the value to newValue if the current value == expectedValue, with memory effects as specified by VarHandle.compareAndSet. Params: expectedValue – the expected value newValue – the new value Returns: true if successful. False return indicates that the actual value was not equal to the expected value." />
-      <item value="I Delimiter Based Frame Decoder" />
-      <item value="Abstract base class for ChannelInboundHandler implementations which provide implementations of all of their methods. This implementation just forward the operation to the next ChannelHandler in the ChannelPipeline. Sub-classes may override a method implementation to change this. Be aware that messages are not released after the channelRead(ChannelHandlerContext, Object) method returns automatically. If you are looking for a ChannelInboundHandler implementation that releases the received messages automatically, please see SimpleChannelInboundHandler." />
-      <item value="Channel Inbound Handler Adapter" />
-      <item value="Deferred Result" />
-      <item value="get External Id" />
-      <item value="boce Operator" />
-      <item value="query Link Ordinary" />
-      <item value="Compliant" />
-      <item value="clear Same Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="188" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="189" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
