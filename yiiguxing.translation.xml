@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Digest Util" />
       <item value="inited" />
       <item value="Performs a final update on the digest using the specified array of bytes, then completes the digest computation. That is, this method first calls update(input), passing the input array to the update method, then calls digest(). Params: input – the input to be updated before the digest is completed." />
       <item value="manufacturer" />
@@ -157,13 +158,12 @@
       <item value="Enumeration" />
       <item value="Create a new CentralDirectoryEndRecord instance from the specified RandomAccessData, searching backwards from the end until a valid block is located. Params: data – the source data" />
       <item value="Sets the file-pointer offset, measured from the beginning of this file, at which the next read or write occurs. The offset may be set beyond the end of the file. Setting the offset beyond the end of the file does not change the file length. The file length will change only by writing after the offset has been set beyond the end of the file. Params: pos – the offset position, measured in bytes from the beginning of the file, at which to set the file pointer. Throws: IOException – if pos is less than 0 or if an IO error occurs." />
-      <item value="Determine if the specified JarEntry is a nested item that should be added to the classpath. The method is called once for each entry. Params: entry – the jar entry Returns: true if the entry is a nested item (jar or folder)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
+        <entry key="CHINESE" value="192" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
