@@ -108,6 +108,16 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="ACTIVE" />
+      <item value="INACTIVE" />
+      <item value="EXPIRED" />
+      <item value="OFFICIAL" />
+      <item value="stander" />
+      <item value="正式" />
+      <item value="TRIAL" />
+      <item value="Marker annotation that indicates that the logical property that the accessor (field, gettersetter method or Creator parameter [of {@link JsonCreator}-annotated constructor or factory method]) is to be ignored by introspection-based serialization and deserialization functionality. &lt;p&gt; Annotation only needs to be added to one of the accessors (often getter method, but may be setter, field or creator parameter), if the complete removal of the property is desired. However: if only particular accessor is to be ignored (for example, when ignoring one of potentially conflicting setter methods), this can be done by annotating other not-to-be-ignored accessors with {@link JsonProperty} (or its equivalents). This is considered so-called &quot;split property&quot; case and allows definitions of &quot;read-only&quot; (read from input into POJO) and &quot;write-only&quot; (write in output but ignore on output)" />
+      <item value="Marker annotation that indicates that the logical property that the accessor (field, gettersetter method or Creator parameter [of JsonCreator-annotated constructor or factory method]) is to be ignored by introspection-based serialization and deserialization functionality. Annotation only needs to be added to one of the accessors (often getter method, but may be setter, field or creator parameter), if the complete removal of the property is desired. However: if only particular accessor is to be ignored (for example, when ignoring one of potentially conflicting setter methods), this can be done by annotating other not-to-be-ignored accessors with JsonProperty (or its equivalents). This is considered so-called &quot;split property&quot; case and allows definitions of &quot;read-only&quot; (read from input into POJO) and &quot;write-only&quot; (write in output but ignore on output) NOTE! As Jackson 2.6, there is a new and improved way to define `read-only` and `write-only` properties, using JsonProperty.access() annotation: this is recommended over use of separate JsonIgnore and JsonProperty annotations. For example, a &quot;getter&quot; method that would otherwise denote a property (like, say, &quot;getValue&quot; to suggest property &quot;value&quot;) to serialize, would be ignored and no such property would be output unless another annotation defines alternative method to use. When ignoring the whole property, the default behavior if encountering such property in input is to ignore it without exception; but if there is a JsonAnySetter it will be called instead. Either way, no exception will be thrown. Annotation is usually used just a like a marker annotation, that is, without explicitly defining 'value' argument (which defaults to true): but argument can be explicitly defined. This can be done to override an existing `JsonIgnore` by explicitly defining one with 'false' argument: either in a sub-class, or by using &quot;mix-in annotations&quot;." />
+      <item value="state" />
       <item value="actuate" />
       <item value="Digest Util" />
       <item value="inited" />
@@ -148,22 +158,12 @@
       <item value="ROUND UNNECESSARY" />
       <item value="rounding Mode" />
       <item value="multiply" />
-      <item value="set Use Deprecated Executor" />
-      <item value="propagation" />
-      <item value="Quartz Quick Job Builder" />
-      <item value="legacy" />
-      <item value="peer Dependencies" />
-      <item value="Stealth" />
-      <item value="FIXED" />
-      <item value="Simple holder class that associates a LocaleContext instance with the current thread. The LocaleContext will be inherited by any child threads spawned by the current thread if the inheritable flag is set to true. Used as a central holder for the current Locale in Spring, wherever necessary: for example, in MessageSourceAccessor. DispatcherServlet automatically exposes its current Locale here. Other applications can expose theirs too, to make classes like MessageSourceAccessor automatically use that Locale." />
-      <item value="Enumeration" />
-      <item value="Create a new CentralDirectoryEndRecord instance from the specified RandomAccessData, searching backwards from the end until a valid block is located. Params: data – the source data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
+        <entry key="CHINESE" value="205" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
