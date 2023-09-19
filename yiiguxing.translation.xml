@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Trial" />
       <item value="expire Time" />
       <item value="registered Time" />
       <item value="ACTIVE" />
@@ -157,13 +158,12 @@
       <item value="Copyright (c) 2010, 2019, Oracle andor its affiliates. All rights reserved. DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER. This code is free software; you can redistribute it andor modify it under the terms of the GNU General Public License version 2 only, as published by the Free Software Foundation. Oracle designates this particular file as subject to the &quot;Classpath&quot; exception as provided by Oracle in the LICENSE file that accompanied this code. This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License version 2 for more details (a copy is included in the LICENSE file that accompanied this code). You should have received a copy of the GNU General Public License version 2 along with this work; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA. Please contact Oracle, 500 Oracle Parkway, Redwood Shores, CA 94065 USA or visit www.oracle.com if you need additional information or have any questions." />
       <item value="invalid" />
       <item value="ArithmeticException – if divisor==0, or roundingMode==ROUND_UNNECESSARY and this.scale() is insufficient to represent the result of the division exactly." />
-      <item value="ROUND UNNECESSARY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
+        <entry key="CHINESE" value="208" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
