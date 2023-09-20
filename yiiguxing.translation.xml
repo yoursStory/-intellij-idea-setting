@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="issued" />
+      <item value="Returns a description of the entity which allocates a license for using the licensing subject. This could be a computer or a user or something else. The default is null. Returns: Value of property consumerType." />
       <item value="Encodes, compresses and encrypts the given license certificate and returns the result as a license key. Please note that this method does not sign the certificate. @param certificate The license certificate - may &lt;em&gt;not&lt;em&gt; be {@code null}. @return The license key - {@code null} is never returned. @throws Exception An instance of a subclass of this class for various reasons. Note that you should always use {@link ThrowablegetLocalizedMessage()} to get a (possibly localized) meaningful detail message." />
       <item value="get License Notary" />
       <item value="Returns the preferences node where the encoded licence is stored or should get stored. This method may return {@code null} if the license manager is neither used to {@link LicenseManagerinstall(java.io.File)} a license nor to {@link LicenseManagerverify()} an installed license. &lt;p&gt; Note that the preferences node should be globally unique; otherwise, another application could overwrite your license key! Thus, it is recommended to follow Sun's guideline of creating globally unique package names by prefixing them with your globally unique Internet domain. You should then put the main class of your application in this package and return its user preferences node. This is because across platforms you will normally only have write access to the user preferences. @return The nullable preferences node for persisting the license key." />
@@ -156,14 +158,12 @@
       <item value="param.get License Path()" />
       <item value="Creates a directory by creating all nonexistent parent directories first. Unlike the createDirectory method, an exception is not thrown if the directory could not be created because it already exists. The attrs parameter is optional file-attributes to set atomically when creating the nonexistent directories. Each file attribute is identified by its name. If more than one attribute of the same name is included in the array then all but the last occurrence is ignored. If this method fails, then it may do so after creating some, but not all, of the parent directories. Params: dir – the directory to create attrs – an optional list of file attributes to set atomically when creating the directory" />
       <item value="java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process &quot;jps.track.ap.dependencies&quot; VM flag to enabledisable incremental annotation processing environment." />
-      <item value="inaccurate" />
-      <item value="Default Cipher Param" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
+        <entry key="CHINESE" value="220" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="ENGLISH" value="221" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
