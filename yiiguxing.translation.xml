@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="diagnosis" />
       <item value="INACTIVE" />
       <item value="Not Registered" />
       <item value="install Licenese" />
@@ -157,13 +158,12 @@
       <item value="Gets a list NetworkIF objects, representing a network interface. Params: includeLocalInterfaces – whether to include local interfaces (loopback or no hardware address) in the result" />
       <item value="beaturing" />
       <item value="Cipher Param" />
-      <item value="Returns the time when the license begins to be valid. The default is null. Returns: Value of property notBefore." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
+        <entry key="CHINESE" value="229" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
