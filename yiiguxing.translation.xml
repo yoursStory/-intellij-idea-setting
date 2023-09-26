@@ -108,6 +108,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Returns the ChannelFuture which will be notified when this channel is closed. This method always returns the same future instance." />
+      <item value="TCP NODELAY" />
+      <item value="I Delimiter Based Frame Decoder" />
+      <item value="framer" />
       <item value="Calls {@link ChannelHandlerContextfireChannelInactive()} to forward to the next {@link ChannelInboundHandler} in the {@link ChannelPipeline}. Sub-classes may override this method to change behavior." />
       <item value="optimizes" />
       <item value="single" />
@@ -154,16 +158,12 @@
       <item value="serial" />
       <item value="get CPU Serial" />
       <item value="Identifier" />
-      <item value="Immutable" />
-      <item value="The CPU's identifier strings ,including name, vendor, stepping, model, and family information (also called the signature of a CPU). &lt;p&gt; The Processor Identifier is primarily associated with Intel-based chips. Attempts are made to provide comparable values for other chip manufacturers." />
-      <item value="This class represents the entire Central Processing Unit (CPU) of a computer system, which may contain one or more physical packages (sockets), one or more physical processors (cores), and one or more logical processors (what the Operating System sees, which may include hyperthreaded cores.)" />
-      <item value="get MAC Address Finger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
+        <entry key="CHINESE" value="238" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="ENGLISH" value="239" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
