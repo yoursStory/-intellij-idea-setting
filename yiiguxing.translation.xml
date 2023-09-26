@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="optimizes" />
+      <item value="single" />
       <item value="Digest Utils" />
       <item value="digest" />
       <item value="diagnosis" />
@@ -156,14 +158,12 @@
       <item value="This class represents the entire Central Processing Unit (CPU) of a computer system, which may contain one or more physical packages (sockets), one or more physical processors (cores), and one or more logical processors (what the Operating System sees, which may include hyperthreaded cores.)" />
       <item value="get MAC Address Finger" />
       <item value="A network interface in the machine, including statistics. Thread safe for the designed use of retrieving the most recent data. Users should be aware that the updateAttributes() method may update attributes, including the time stamp, and should externally synchronize such usage to ensure consistent calculations." />
-      <item value="Determines if the MAC address on this interface corresponds to a known Virtual Machine. Returns: true if the MAC address corresponds to a known virtual machine." />
-      <item value="Gets a list NetworkIF objects, representing a network interface. Params: includeLocalInterfaces – whether to include local interfaces (loopback or no hardware address) in the result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
+        <entry key="CHINESE" value="233" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="ENGLISH" value="234" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
