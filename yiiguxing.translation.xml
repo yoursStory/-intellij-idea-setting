@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="is Async" />
       <item value="Returns the ChannelFuture which will be notified when this channel is closed. This method always returns the same future instance." />
       <item value="TCP NODELAY" />
       <item value="I Delimiter Based Frame Decoder" />
@@ -157,13 +158,12 @@
       <item value="manufacturer" />
       <item value="serial" />
       <item value="get CPU Serial" />
-      <item value="Identifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
+        <entry key="CHINESE" value="239" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
