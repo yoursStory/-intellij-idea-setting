@@ -108,6 +108,13 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="refresh" />
+      <item value="p 2 p Delay" />
+      <item value="delay" />
+      <item value="resource Addr" />
+      <item value="source Addr Belong" />
+      <item value="源地址归属" />
+      <item value="source Addr" />
       <item value="delimitation" />
       <item value="compute" />
       <item value="get Quality Abnormality File Path" />
@@ -151,19 +158,12 @@
       <item value="OFFICIAL" />
       <item value="stander" />
       <item value="正式" />
-      <item value="TRIAL" />
-      <item value="Marker annotation that indicates that the logical property that the accessor (field, gettersetter method or Creator parameter [of {@link JsonCreator}-annotated constructor or factory method]) is to be ignored by introspection-based serialization and deserialization functionality. &lt;p&gt; Annotation only needs to be added to one of the accessors (often getter method, but may be setter, field or creator parameter), if the complete removal of the property is desired. However: if only particular accessor is to be ignored (for example, when ignoring one of potentially conflicting setter methods), this can be done by annotating other not-to-be-ignored accessors with {@link JsonProperty} (or its equivalents). This is considered so-called &quot;split property&quot; case and allows definitions of &quot;read-only&quot; (read from input into POJO) and &quot;write-only&quot; (write in output but ignore on output)" />
-      <item value="Marker annotation that indicates that the logical property that the accessor (field, gettersetter method or Creator parameter [of JsonCreator-annotated constructor or factory method]) is to be ignored by introspection-based serialization and deserialization functionality. Annotation only needs to be added to one of the accessors (often getter method, but may be setter, field or creator parameter), if the complete removal of the property is desired. However: if only particular accessor is to be ignored (for example, when ignoring one of potentially conflicting setter methods), this can be done by annotating other not-to-be-ignored accessors with JsonProperty (or its equivalents). This is considered so-called &quot;split property&quot; case and allows definitions of &quot;read-only&quot; (read from input into POJO) and &quot;write-only&quot; (write in output but ignore on output) NOTE! As Jackson 2.6, there is a new and improved way to define `read-only` and `write-only` properties, using JsonProperty.access() annotation: this is recommended over use of separate JsonIgnore and JsonProperty annotations. For example, a &quot;getter&quot; method that would otherwise denote a property (like, say, &quot;getValue&quot; to suggest property &quot;value&quot;) to serialize, would be ignored and no such property would be output unless another annotation defines alternative method to use. When ignoring the whole property, the default behavior if encountering such property in input is to ignore it without exception; but if there is a JsonAnySetter it will be called instead. Either way, no exception will be thrown. Annotation is usually used just a like a marker annotation, that is, without explicitly defining 'value' argument (which defaults to true): but argument can be explicitly defined. This can be done to override an existing `JsonIgnore` by explicitly defining one with 'false' argument: either in a sub-class, or by using &quot;mix-in annotations&quot;." />
-      <item value="state" />
-      <item value="actuate" />
-      <item value="Digest Util" />
-      <item value="inited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
+        <entry key="CHINESE" value="249" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="ENGLISH" value="250" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
