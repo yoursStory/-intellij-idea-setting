@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="delimitation" />
       <item value="compute" />
       <item value="get Quality Abnormality File Path" />
       <item value="quality Abnormal" />
@@ -157,13 +158,12 @@
       <item value="actuate" />
       <item value="Digest Util" />
       <item value="inited" />
-      <item value="Performs a final update on the digest using the specified array of bytes, then completes the digest computation. That is, this method first calls update(input), passing the input array to the update method, then calls digest(). Params: input – the input to be updated before the digest is completed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
+        <entry key="CHINESE" value="243" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
