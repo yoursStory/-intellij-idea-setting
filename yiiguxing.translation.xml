@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="optimizes" />
       <item value="fill Random" />
       <item value="refresh" />
       <item value="p 2 p Delay" />
@@ -126,7 +127,6 @@
       <item value="I Delimiter Based Frame Decoder" />
       <item value="framer" />
       <item value="Calls {@link ChannelHandlerContextfireChannelInactive()} to forward to the next {@link ChannelInboundHandler} in the {@link ChannelPipeline}. Sub-classes may override this method to change behavior." />
-      <item value="optimizes" />
       <item value="single" />
       <item value="Digest Utils" />
       <item value="digest" />
@@ -161,9 +161,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
+        <entry key="CHINESE" value="251" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
