@@ -108,6 +108,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the nextElement method return successive elements of the series. For example, to print all elements of a Vector&lt;E&gt; v: for (Enumeration&lt;E&gt; e = v.elements(); e.hasMoreElements();) System.out.println(e.nextElement()); Methods are provided to enumerate through the elements of a vector, the keys of a hashtable, and the values in a hashtable. Enumerations are also used to specify the input streams to a SequenceInputStream. API Note: The functionality of this interface is duplicated by the Iterator interface. In addition, Iterator adds an optional remove operation, and has shorter method names. New implementations should consider using Iterator in preference to Enumeration. It is possible to adapt an" />
+      <item value="Returns an enumeration of the keys in this table. Returns: an enumeration of the keys in this table" />
+      <item value="Returns a Set view of the keys contained in this map. The set is backed by the map, so changes to the map are reflected in the set, and vice-versa. The set supports element removal, which removes the corresponding mapping from this map, via the Iterator.remove, Set.remove, removeAll, retainAll, and clear operations. It does not support the add or addAll operations. The view's iterators and spliterators are weakly consistent. The view's spliterator reports Spliterator.CONCURRENT, Spliterator.DISTINCT, and Spliterator.NONNULL." />
       <item value="Union Campus Authorization Provider" />
       <item value="enabled" />
       <item value="shade" />
@@ -155,15 +158,12 @@
       <item value="&lt;p&gt;There are two separate trees of preference nodes, one for user preferences and one for system preferences. Each user has a separate user preference tree, and all users in a given system share the same system preference tree. The precise description of &quot;user&quot; and &quot;system&quot; will vary from implementation to implementation. Typical information stored in the user preference tree might include font choice, color choice, or preferred window location and size for a particular application. Typical information stored in the system preference tree might include installation configuration data for an application." />
       <item value="A node in a hierarchical collection of preference data. This class allows applications to store and retrieve user and system preference and configuration data. This data is stored persistently in an implementation-dependent backing store. Typical implementations include flat files, OS-specific registries, directory servers and SQL databases. The user of this class needn't be concerned with details of the backing store." />
       <item value="A node in a hierarchical collection of preference data. This class allows applications to store and retrieve user and system preference and configuration data. This data is stored persistently in an implementation-dependent backing store. Typical implementations include flat files, OS-specific registries, directory servers and SQL databases. The user of this class needn't be concerned with details of the backing store. &lt;p&gt;There are two separate trees of preference nodes, one for user preferences and one for system preferences. Each user has a separate user preference tree, and all users in a given system share the same system preference tree. The precise description of &quot;user&quot; and &quot;system&quot; will vary from implementation to implementation. Typical information stored in the user preference tree might include font choice, color choice, or preferred window location and size for a particular application. Typical information stored in the system preference tree might include installation configuration data for an application." />
-      <item value="Trial" />
-      <item value="expire Time" />
-      <item value="registered Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
+        <entry key="CHINESE" value="257" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
