@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Union Campus Authorization Provider" />
       <item value="enabled" />
       <item value="shade" />
       <item value="milliseconds" />
@@ -157,11 +158,10 @@
       <item value="Trial" />
       <item value="expire Time" />
       <item value="registered Time" />
-      <item value="ACTIVE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
+        <entry key="CHINESE" value="255" />
         <entry key="CROATIAN" value="1" />
         <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="4" />
