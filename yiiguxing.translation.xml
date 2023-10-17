@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697009462443" />
+    <option name="lastTrimTime" value="1697509744988" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="generator" />
+      <item value="generater" />
       <item value="A view of a ConcurrentHashMap as a Set of keys, in which additions may optionally be enabled by mapping to a common value. This class cannot be directly instantiated. See keySet(), keySet(V), newKeySet(), newKeySet(int)." />
       <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the nextElement method return successive elements of the series. For example, to print all elements of a Vector&lt;E&gt; v: for (Enumeration&lt;E&gt; e = v.elements(); e.hasMoreElements();) System.out.println(e.nextElement()); Methods are provided to enumerate through the elements of a vector, the keys of a hashtable, and the values in a hashtable. Enumerations are also used to specify the input streams to a SequenceInputStream. API Note: The functionality of this interface is duplicated by the Iterator interface. In addition, Iterator adds an optional remove operation, and has shorter method names. New implementations should consider using Iterator in preference to Enumeration. It is possible to adapt an" />
       <item value="Returns an enumeration of the keys in this table. Returns: an enumeration of the keys in this table" />
@@ -156,14 +158,12 @@
       <item value="Preferences" />
       <item value="&lt;p&gt;The root node has an absolute path name of {@code &quot;&quot;}. Children of the root node have absolute path names of {@code &quot;&quot; + }&lt;i&gt;&amp;lt;node name&amp;gt;&lt;i&gt;. All other nodes have absolute path names of &lt;i&gt;&amp;lt;parent's absolute path name&amp;gt;&lt;i&gt;{@code + &quot;&quot; + }&lt;i&gt;&amp;lt;node name&amp;gt;&lt;i&gt;. Note that all absolute path names begin with the slash character. &lt;p&gt;A node &lt;i&gt;n&lt;i&gt;'s path name relative to its ancestor &lt;i&gt;a&lt;i&gt; is simply the string that must be appended to &lt;i&gt;a&lt;i&gt;'s absolute path name in order to form &lt;i&gt;n&lt;i&gt;'s absolute path name, with the initial slash character (if present) removed. Note that: &lt;ul&gt; &lt;li&gt;No relative path names begin with the slash character. &lt;li&gt;Every node's path name relative to itself is the empty string. &lt;li&gt;Every node's path name relative to its parent is its node name (except for the root node, which does not have a parent). &lt;li&gt;Every node's path name relative to the root is its absolute path name with the initial slash character removed. &lt;ul&gt;" />
       <item value="&lt;p&gt;Nodes in a preference tree are named in a similar fashion to directories in a hierarchical file system. Every node in a preference tree has a &lt;i&gt;node name&lt;i&gt; (which is not necessarily unique), a unique &lt;i&gt;absolute path name&lt;i&gt;, and a path name &lt;i&gt;relative&lt;i&gt; to each ancestor including itself." />
-      <item value="&lt;p&gt;There are two separate trees of preference nodes, one for user preferences and one for system preferences. Each user has a separate user preference tree, and all users in a given system share the same system preference tree. The precise description of &quot;user&quot; and &quot;system&quot; will vary from implementation to implementation. Typical information stored in the user preference tree might include font choice, color choice, or preferred window location and size for a particular application. Typical information stored in the system preference tree might include installation configuration data for an application." />
-      <item value="A node in a hierarchical collection of preference data. This class allows applications to store and retrieve user and system preference and configuration data. This data is stored persistently in an implementation-dependent backing store. Typical implementations include flat files, OS-specific registries, directory servers and SQL databases. The user of this class needn't be concerned with details of the backing store." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
+        <entry key="CHINESE" value="260" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="ENGLISH" value="261" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
