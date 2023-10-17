@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="tolerable" />
       <item value="Get the baseboard manufacturer. Returns: The manufacturer." />
       <item value="Get the baseboard serial number. Returns: The serial number." />
       <item value="Get the computer system baseboardmotherboard. Returns: A Baseboard object for this system" />
@@ -157,13 +158,12 @@
       <item value="custom" />
       <item value="machine Finger Point" />
       <item value="Initializes and validates the license content, creates a new signed license certificate for it and compresses, encrypts and returns it as a license key. &lt;p&gt; As a side effect, the given license {@code content} is initialized with some reasonable defaults unless the respective properties have already been set." />
-      <item value="issued" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
+        <entry key="CHINESE" value="269" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
