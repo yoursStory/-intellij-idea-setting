@@ -108,6 +108,14 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Get the baseboard manufacturer. Returns: The manufacturer." />
+      <item value="Get the baseboard serial number. Returns: The serial number." />
+      <item value="Get the computer system baseboardmotherboard. Returns: A Baseboard object for this system" />
+      <item value="Get the computer system serial number, if available. Performs a best-effort attempt to retrieve a unique serial number from the computer system. This may originate from the baseboard, BIOS, processor, etc. This value is provided for information only. Caution should be exercised if using this result to &quot;fingerprint&quot; a system for licensing or other purposes, as the result may change based on program permissions or installation of software packages. Specifically, on Linux and FreeBSD, this requires either root permissions, or installation of the (deprecated) HAL library (lshal command). Linux also attempts to read the dmiid serial number files in sysfs, which are read-only root by default but may have permissions altered by the user. Returns: the System Serial Number, if available, otherwise returns &quot;unknown" />
+      <item value="Instantiates a ComputerSystem object. This represents the physical hardware, including components such as BIOSFirmware and a motherboard, logic board, etc." />
+      <item value="duration" />
+      <item value="A group of mutually exclusive options." />
+      <item value="Main entry-point into the library. Options represents a collection of Option objects, which describe the possible options for a command-line. It may flexibly parse long and short options, with or without values. Additionally, it may parse only a portion of a commandline, allowing for flexible multi-stage parsing." />
       <item value="generator" />
       <item value="generater" />
       <item value="A view of a ConcurrentHashMap as a Set of keys, in which additions may optionally be enabled by mapping to a common value. This class cannot be directly instantiated. See keySet(), keySet(V), newKeySet(), newKeySet(int)." />
@@ -150,20 +158,12 @@
       <item value="machine Finger Point" />
       <item value="Initializes and validates the license content, creates a new signed license certificate for it and compresses, encrypts and returns it as a license key. &lt;p&gt; As a side effect, the given license {@code content} is initialized with some reasonable defaults unless the respective properties have already been set." />
       <item value="issued" />
-      <item value="Returns a description of the entity which allocates a license for using the licensing subject. This could be a computer or a user or something else. The default is null. Returns: Value of property consumerType." />
-      <item value="Encodes, compresses and encrypts the given license certificate and returns the result as a license key. Please note that this method does not sign the certificate. @param certificate The license certificate - may &lt;em&gt;not&lt;em&gt; be {@code null}. @return The license key - {@code null} is never returned. @throws Exception An instance of a subclass of this class for various reasons. Note that you should always use {@link ThrowablegetLocalizedMessage()} to get a (possibly localized) meaningful detail message." />
-      <item value="get License Notary" />
-      <item value="Returns the preferences node where the encoded licence is stored or should get stored. This method may return {@code null} if the license manager is neither used to {@link LicenseManagerinstall(java.io.File)} a license nor to {@link LicenseManagerverify()} an installed license. &lt;p&gt; Note that the preferences node should be globally unique; otherwise, another application could overwrite your license key! Thus, it is recommended to follow Sun's guideline of creating globally unique package names by prefixing them with your globally unique Internet domain. You should then put the main class of your application in this package and return its user preferences node. This is because across platforms you will normally only have write access to the user preferences. @return The nullable preferences node for persisting the license key." />
-      <item value="Returns the license manager's subject as a descriptive string - {@code null} is never returned. @return A string which must compare equal to the &quot;subject&quot; property of the {@link LicenseContent} JavaBean. Note that this is public information which may be displayed to the user in a wizard or some other form." />
-      <item value="Preferences" />
-      <item value="&lt;p&gt;The root node has an absolute path name of {@code &quot;&quot;}. Children of the root node have absolute path names of {@code &quot;&quot; + }&lt;i&gt;&amp;lt;node name&amp;gt;&lt;i&gt;. All other nodes have absolute path names of &lt;i&gt;&amp;lt;parent's absolute path name&amp;gt;&lt;i&gt;{@code + &quot;&quot; + }&lt;i&gt;&amp;lt;node name&amp;gt;&lt;i&gt;. Note that all absolute path names begin with the slash character. &lt;p&gt;A node &lt;i&gt;n&lt;i&gt;'s path name relative to its ancestor &lt;i&gt;a&lt;i&gt; is simply the string that must be appended to &lt;i&gt;a&lt;i&gt;'s absolute path name in order to form &lt;i&gt;n&lt;i&gt;'s absolute path name, with the initial slash character (if present) removed. Note that: &lt;ul&gt; &lt;li&gt;No relative path names begin with the slash character. &lt;li&gt;Every node's path name relative to itself is the empty string. &lt;li&gt;Every node's path name relative to its parent is its node name (except for the root node, which does not have a parent). &lt;li&gt;Every node's path name relative to the root is its absolute path name with the initial slash character removed. &lt;ul&gt;" />
-      <item value="&lt;p&gt;Nodes in a preference tree are named in a similar fashion to directories in a hierarchical file system. Every node in a preference tree has a &lt;i&gt;node name&lt;i&gt; (which is not necessarily unique), a unique &lt;i&gt;absolute path name&lt;i&gt;, and a path name &lt;i&gt;relative&lt;i&gt; to each ancestor including itself." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="260" />
+        <entry key="CHINESE" value="268" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="261" />
+        <entry key="ENGLISH" value="269" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
