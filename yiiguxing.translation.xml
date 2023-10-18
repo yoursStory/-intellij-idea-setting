@@ -108,6 +108,10 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Official" />
+      <item value="OFFICIAL" />
+      <item value="generate Offical" />
+      <item value="Applyed T" />
       <item value="trial" />
       <item value="tolerable" />
       <item value="Get the baseboard manufacturer. Returns: The manufacturer." />
@@ -154,16 +158,12 @@
       <item value="INACTIVE" />
       <item value="Not Registered" />
       <item value="install Licenese" />
-      <item value="PKCS1 v1.5 unpadding (blocktype 1 (signature) and 2 (encryption)). Note that we want to make it a constant-time operation" />
-      <item value="customer" />
-      <item value="custom" />
-      <item value="machine Finger Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
+        <entry key="CHINESE" value="274" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="ENGLISH" value="275" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
