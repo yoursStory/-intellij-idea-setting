@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697509744988" />
+    <option name="lastTrimTime" value="1698055267986" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Allows customizing the response after the execution of an @ResponseBody or a ResponseEntity controller method but before the body is written with an HttpMessageConverter. Implementations may be registered directly with RequestMappingHandlerAdapter and ExceptionHandlerExceptionResolver or more likely annotated with @ControllerAdvice in which case they will be auto-detected by both." />
       <item value="Combine &quot;this&quot; request mapping info (i.e. the current instance) with another request mapping info instance. Example: combine type- and method-level request mappings. Returns: a new request mapping info instance; never null" />
       <item value="Official" />
       <item value="OFFICIAL" />
@@ -157,13 +158,12 @@
       <item value="digest" />
       <item value="diagnosis" />
       <item value="INACTIVE" />
-      <item value="Not Registered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
+        <entry key="CHINESE" value="276" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
