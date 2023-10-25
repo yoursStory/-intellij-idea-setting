@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="{@link ApplicationContextInitializer} that writes the {@link ConditionEvaluationReport} to the log. Reports are logged at the {@link LogLevelDEBUG DEBUG} level. A crash report triggers an info output suggesting the user runs again with debug enabled to display the report. &lt;p&gt; This initializer is not intended to be shared across multiple application context instances." />
       <item value="Marks this thread as either a {@linkplain isDaemon daemon} thread or a user thread. The Java Virtual Machine exits when the only threads running are all daemon threads. &lt;p&gt; This method must be invoked before the thread is started. @param on if {@code true}, marks this thread as a daemon thread @throws IllegalThreadStateException if this thread is {@linkplain isAlive alive} @throws SecurityException if {@link checkAccess} determines that the current thread cannot modify this thread" />
       <item value="Allows customizing the response after the execution of an @ResponseBody or a ResponseEntity controller method but before the body is written with an HttpMessageConverter. Implementations may be registered directly with RequestMappingHandlerAdapter and ExceptionHandlerExceptionResolver or more likely annotated with @ControllerAdvice in which case they will be auto-detected by both." />
       <item value="Combine &quot;this&quot; request mapping info (i.e. the current instance) with another request mapping info instance. Example: combine type- and method-level request mappings. Returns: a new request mapping info instance; never null" />
@@ -157,13 +158,12 @@
       <item value="single" />
       <item value="Digest Utils" />
       <item value="digest" />
-      <item value="diagnosis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
+        <entry key="CHINESE" value="278" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
