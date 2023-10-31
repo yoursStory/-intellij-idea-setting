@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="&quot;Acquires&quot; and returns the FileDescriptor for this impl A corresponding releaseFD is required to &quot;release&quot; the FileDescriptor." />
+      <item value="The workhorse of the connection operation. Tries several times to establish a connection to the given &lt;host, port&gt;. If unsuccessful, throws an IOException indicating what went wrong." />
       <item value="volatile" />
       <item value="is Running" />
       <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds" />
@@ -156,14 +158,12 @@
       <item value="delimitation" />
       <item value="compute" />
       <item value="get Quality Abnormality File Path" />
-      <item value="quality Abnormal" />
-      <item value="is Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
+        <entry key="CHINESE" value="288" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="ENGLISH" value="289" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
