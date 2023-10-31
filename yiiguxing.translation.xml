@@ -108,6 +108,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds" />
+      <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds as a String value, e.g. a placeholder or a java.time.Duration compliant value" />
+      <item value="cute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next. Returns: the delay in milliseconds" />
+      <item value="Abort Policy" />
+      <item value="Synchronous Queue" />
       <item value="@Order defines the sort order for an annotated component. The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value). NOTE: Since Spring 4.0, annotation-based ordering is supported for many kinds of components in Spring, even for collection injection where the order values of the target components are taken into account (either from their target class or from their @Bean method). While such order values may influence priorities at injection points, please be aware that they do not influence singleton startup order which is an orthogonal concern determined by dependency relationships and @DependsOn declarations (influencing a runtime-determined dependency graph). Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation in ordering scenarios. Note that @Priority may have additional semantics when a single element has to be picked (see AnnotationAwareOrderComparator.getPriority). Alternatively, order values may also be determined on a per-instance basis through the Ordered interface, allowing for configuration-determined instance values instead of hard-coded values attached to a particular class." />
       <item value="{@link ApplicationContextInitializer} that writes the {@link ConditionEvaluationReport} to the log. Reports are logged at the {@link LogLevelDEBUG DEBUG} level. A crash report triggers an info output suggesting the user runs again with debug enabled to display the report. &lt;p&gt; This initializer is not intended to be shared across multiple application context instances." />
       <item value="Marks this thread as either a {@linkplain isDaemon daemon} thread or a user thread. The Java Virtual Machine exits when the only threads running are all daemon threads. &lt;p&gt; This method must be invoked before the thread is started. @param on if {@code true}, marks this thread as a daemon thread @throws IllegalThreadStateException if this thread is {@linkplain isAlive alive} @throws SecurityException if {@link checkAccess} determines that the current thread cannot modify this thread" />
@@ -153,17 +158,12 @@
       <item value="is Async" />
       <item value="Returns the ChannelFuture which will be notified when this channel is closed. This method always returns the same future instance." />
       <item value="TCP NODELAY" />
-      <item value="I Delimiter Based Frame Decoder" />
-      <item value="framer" />
-      <item value="Calls {@link ChannelHandlerContextfireChannelInactive()} to forward to the next {@link ChannelInboundHandler} in the {@link ChannelPipeline}. Sub-classes may override this method to change behavior." />
-      <item value="single" />
-      <item value="Digest Utils" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="279" />
+        <entry key="CHINESE" value="284" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="280" />
+        <entry key="ENGLISH" value="285" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
