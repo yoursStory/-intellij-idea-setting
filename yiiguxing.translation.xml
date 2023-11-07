@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="– when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
       <item value="excludes" />
       <item value="process Inactivate Tasks" />
       <item value="STOPPED" />
@@ -157,13 +158,12 @@
       <item value="refresh" />
       <item value="p 2 p Delay" />
       <item value="delay" />
-      <item value="resource Addr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
+        <entry key="CHINESE" value="294" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="ENGLISH" value="295" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
