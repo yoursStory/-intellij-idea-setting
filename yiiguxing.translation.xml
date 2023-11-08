@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Evicting Queue" />
       <item value="compute If Absent" />
       <item value="relative" />
       <item value="relative Field" />
@@ -157,13 +158,12 @@
       <item value="Union Campus Authorization Provider" />
       <item value="enabled" />
       <item value="shade" />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
+        <entry key="CHINESE" value="300" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="300" />
+        <entry key="ENGLISH" value="301" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
