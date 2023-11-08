@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Evicting" />
       <item value="A deque which forwards all its method calls to another deque. Subclasses should override one or more methods to modify the behavior of the backing deque as desired per the decorator pattern . Warning: The methods of ForwardingDeque forward indiscriminately to the methods of the delegate. For example, overriding add alone will not change the behavior of offer which can lead to unexpected behavior. In this case, you should override offer as well. default method warning: This class does not forward calls to default methods. Instead, it inherits their default implementations. When those implementations invoke methods, they invoke methods on the ForwardingDeque." />
       <item value="Deque" />
       <item value="Concurrent Linked Deque" />
@@ -157,13 +158,12 @@
       <item value="Get the computer system serial number, if available. Performs a best-effort attempt to retrieve a unique serial number from the computer system. This may originate from the baseboard, BIOS, processor, etc. This value is provided for information only. Caution should be exercised if using this result to &quot;fingerprint&quot; a system for licensing or other purposes, as the result may change based on program permissions or installation of software packages. Specifically, on Linux and FreeBSD, this requires either root permissions, or installation of the (deprecated) HAL library (lshal command). Linux also attempts to read the dmiid serial number files in sysfs, which are read-only root by default but may have permissions altered by the user. Returns: the System Serial Number, if available, otherwise returns &quot;unknown" />
       <item value="Instantiates a ComputerSystem object. This represents the physical hardware, including components such as BIOSFirmware and a motherboard, logic board, etc." />
       <item value="duration" />
-      <item value="A group of mutually exclusive options." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
+        <entry key="CHINESE" value="312" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
