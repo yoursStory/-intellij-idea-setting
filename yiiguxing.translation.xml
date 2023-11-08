@@ -108,6 +108,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Deque" />
+      <item value="Concurrent Linked Deque" />
+      <item value="Concurrent Linked Queue" />
+      <item value="An optionally-bounded blocking deque based on linked nodes. The optional capacity bound constructor argument serves as a way to prevent excessive expansion. The capacity, if unspecified, is equal to Integer.MAX_VALUE. Linked nodes are dynamically created upon each insertion unless this would bring the deque above capacity. Most operations run in constant time (ignoring time spent blocking). Exceptions include remove, removeFirstOccurrence, removeLastOccurrence, contains, iterator.remove(), and the bulk operations, all of which run in linear time. This class and its iterator implement all of the optional methods of the Collection and Iterator interfaces. This class is a member of the Java Collections Framework." />
+      <item value="Linked Blocking Deque" />
+      <item value="An optionally-bounded blocking deque based on linked nodes. The optional capacity bound constructor argument serves as a way to prevent excessive expansion. The capacity, if unspecified, is equal to Integer.MAX_VALUE. Linked nodes are dynamically created upon each insertion unless this would bring the deque above capacity. Most operations run in constant time (ignoring time spent blocking). Exceptions include remove, removeFirstOccurrence, removeLastOccurrence, contains, iterator.remove(), and the bulk operations, all of which run in linear time. This class and its iterator implement all of the optional methods of the Collection and Iterator interfaces." />
       <item value="A queue which forwards all its method calls to another queue. Subclasses should override one or more methods to modify the behavior of the backing queue as desired per the decorator pattern . Warning: The methods of ForwardingQueue forward indiscriminately to the methods of the delegate. For example, overriding add alone will not change the behavior of offer which can lead to unexpected behavior. In this case, you should override offer as well, either providing your own implementation, or delegating to the provided standardOffer method. default method warning: This class does not forward calls to default methods. Instead, it inherits their default implementations. When those implementations invoke methods, they invoke methods on the ForwardingQueue. The standard methods are not guaranteed to be thread-safe, even when all of the methods that they depend on are thread-safe." />
       <item value="Retrieves, but does not remove, the head of this queue, or returns null if this queue is empty. Returns: the head of this queue, or null if this queue is empt" />
       <item value="If the specified key is not already associated with a value, attempts to compute its value using the given mapping function and enters it into this map unless null. The entire method invocation is performed atomically, so the function is applied at most once per key. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other mappings of this map." />
@@ -152,22 +158,17 @@
       <item value="duration" />
       <item value="A group of mutually exclusive options." />
       <item value="Main entry-point into the library. Options represents a collection of Option objects, which describe the possible options for a command-line. It may flexibly parse long and short options, with or without values. Additionally, it may parse only a portion of a commandline, allowing for flexible multi-stage parsing." />
-      <item value="generator" />
-      <item value="generater" />
-      <item value="A view of a ConcurrentHashMap as a Set of keys, in which additions may optionally be enabled by mapping to a common value. This class cannot be directly instantiated. See keySet(), keySet(V), newKeySet(), newKeySet(int)." />
-      <item value="An object that implements the Enumeration interface generates a series of elements, one at a time. Successive calls to the nextElement method return successive elements of the series. For example, to print all elements of a Vector&lt;E&gt; v: for (Enumeration&lt;E&gt; e = v.elements(); e.hasMoreElements();) System.out.println(e.nextElement()); Methods are provided to enumerate through the elements of a vector, the keys of a hashtable, and the values in a hashtable. Enumerations are also used to specify the input streams to a SequenceInputStream. API Note: The functionality of this interface is duplicated by the Iterator interface. In addition, Iterator adds an optional remove operation, and has shorter method names. New implementations should consider using Iterator in preference to Enumeration. It is possible to adapt an" />
-      <item value="Returns an enumeration of the keys in this table. Returns: an enumeration of the keys in this table" />
-      <item value="Returns a Set view of the keys contained in this map. The set is backed by the map, so changes to the map are reflected in the set, and vice-versa. The set supports element removal, which removes the corresponding mapping from this map, via the Iterator.remove, Set.remove, removeAll, retainAll, and clear operations. It does not support the add or addAll operations. The view's iterators and spliterators are weakly consistent. The view's spliterator reports Spliterator.CONCURRENT, Spliterator.DISTINCT, and Spliterator.NONNULL." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
+        <entry key="CHINESE" value="310" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="ENGLISH" value="310" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SESOTHO" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
