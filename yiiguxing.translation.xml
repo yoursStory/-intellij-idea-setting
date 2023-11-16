@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Constructs a new, empty tree set, sorted according to the natural ordering of its elements. All elements inserted into the set must implement the Comparable interface. Furthermore, all such elements must be mutually comparable: e1.compareTo(e2) must not throw a ClassCastException for any elements e1 and e2 in the set. If the user attempts to add an element to the set that violates this constraint (for example, the user attempts to add a string element to a set whose elements are integers), the add call will throw a ClassCastException." />
+      <item value="Adds the specified element to this set if it is not already present (optional operation). More formally, adds the specified element e to this set if the set contains no element e2 such that Objects.equals(e, e2). If this set already contains the element, the call leaves the set unchanged and returns false. In combination with the restriction on constructors, this ensures that sets never contain duplicate elements. The stipulation above does not imply that sets must accept all elements; sets may refuse to add any particular element, including null, and throw an exception, as described in the specification for Collection.add. Individual set implementations should clearly document any restrictions on the elements that they may contain." />
       <item value="drain" />
       <item value="drain To" />
       <item value="Throws: UnsupportedOperationException – if addition of elements is not supported by the specified collection ClassCastException – if the class of an element of this queue prevents it from being added to the specified collection NullPointerException – if the specified collection is null IllegalArgumentException – if the specified collection is this queue, or some property of an element of this queue prevents it from being added to the specified collection" />
@@ -156,14 +158,12 @@
       <item value="Applyed T" />
       <item value="trial" />
       <item value="tolerable" />
-      <item value="Get the baseboard manufacturer. Returns: The manufacturer." />
-      <item value="Get the baseboard serial number. Returns: The serial number." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
+        <entry key="CHINESE" value="318" />
         <entry key="CROATIAN" value="1" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="ENGLISH" value="319" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
