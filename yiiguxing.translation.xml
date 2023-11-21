@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699864709115" />
+    <option name="lastTrimTime" value="1700545564279" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="a boolean indicating if the InetAddress is a site local address; or false if address is not a site local unicast address." />
       <item value="proto" />
       <item value="Weekend" />
       <item value="Constructs a new, empty tree set, sorted according to the natural ordering of its elements. All elements inserted into the set must implement the Comparable interface. Furthermore, all such elements must be mutually comparable: e1.compareTo(e2) must not throw a ClassCastException for any elements e1 and e2 in the set. If the user attempts to add an element to the set that violates this constraint (for example, the user attempts to add a string element to a set whose elements are integers), the add call will throw a ClassCastException." />
@@ -157,14 +158,13 @@
       <item value="Official" />
       <item value="OFFICIAL" />
       <item value="generate Offical" />
-      <item value="Applyed T" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="320" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
