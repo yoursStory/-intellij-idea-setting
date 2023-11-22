@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="trend" />
       <item value="assign Dim Table Alias" />
       <item value="expand All Columns" />
       <item value="Indicates that a field in a @ConfigurationProperties object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the spring-boot-configuration-processor as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. This has no effect on collections and maps as these types are automatically identified. Since: 1.2.0 Author: Stephane Nicoll, Phillip Webb" />
@@ -157,14 +158,13 @@
       <item value="@Order defines the sort order for an annotated component. The value is optional and represents an order value as defined in the Ordered interface. Lower values have higher priority. The default value is Ordered.LOWEST_PRECEDENCE, indicating lowest priority (losing to any other specified order value). NOTE: Since Spring 4.0, annotation-based ordering is supported for many kinds of components in Spring, even for collection injection where the order values of the target components are taken into account (either from their target class or from their @Bean method). While such order values may influence priorities at injection points, please be aware that they do not influence singleton startup order which is an orthogonal concern determined by dependency relationships and @DependsOn declarations (influencing a runtime-determined dependency graph). Since Spring 4.1, the standard javax.annotation.Priority annotation can be used as a drop-in replacement for this annotation in ordering scenarios. Note that @Priority may have additional semantics when a single element has to be picked (see AnnotationAwareOrderComparator.getPriority). Alternatively, order values may also be determined on a per-instance basis through the Ordered interface, allowing for configuration-determined instance values instead of hard-coded values attached to a particular class." />
       <item value="{@link ApplicationContextInitializer} that writes the {@link ConditionEvaluationReport} to the log. Reports are logged at the {@link LogLevelDEBUG DEBUG} level. A crash report triggers an info output suggesting the user runs again with debug enabled to display the report. &lt;p&gt; This initializer is not intended to be shared across multiple application context instances." />
       <item value="Marks this thread as either a {@linkplain isDaemon daemon} thread or a user thread. The Java Virtual Machine exits when the only threads running are all daemon threads. &lt;p&gt; This method must be invoked before the thread is started. @param on if {@code true}, marks this thread as a daemon thread @throws IllegalThreadStateException if this thread is {@linkplain isAlive alive} @throws SecurityException if {@link checkAccess} determines that the current thread cannot modify this thread" />
-      <item value="Allows customizing the response after the execution of an @ResponseBody or a ResponseEntity controller method but before the body is written with an HttpMessageConverter. Implementations may be registered directly with RequestMappingHandlerAdapter and ExceptionHandlerExceptionResolver or more likely annotated with @ControllerAdvice in which case they will be auto-detected by both." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
+        <entry key="CHINESE" value="325" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
