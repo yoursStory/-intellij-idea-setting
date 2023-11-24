@@ -57,7 +57,8 @@
           <value>
             <ModuleSettings>
               <option name="moduleName" value="nrdev-service" />
-              <option name="testDirectoryRoot" value="web-server\src\test\java" />
+              <option name="templateLanguage" value="Java" />
+              <option name="testDirectoryRoot" value="nrdev-service\src\test\java" />
             </ModuleSettings>
           </value>
         </entry>
