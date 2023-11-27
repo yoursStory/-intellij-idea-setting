@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="Looking at the set of methods in a class, including superclass methods, and finding two methods or fields that differ only by capitalization is confusing to users of the class. It is similarly confusing to have a method and a field which differ only in capitalization or a method and a field with exactly the same name and visibility. In the case of methods, it may have been a mistake on the part of the original developer, who intended to override a superclass method, but instead added a new method with nearly the same name. Otherwise, this situation simply indicates poor naming. Method names should be action-oriented, and thus contain a verb, which is unlikely in the case where both a method and a member have the same name (with or without capitalization differences). However, renaming a public method could be disruptive to callers. Therefore renaming the member is the recommended action." />
       <item value="important" />
       <item value="restore time" />
       <item value="classify" />
@@ -157,11 +158,10 @@
       <item value="volatile" />
       <item value="is Running" />
       <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds" />
-      <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds as a String value, e.g. a placeholder or a java.time.Duration compliant value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
+        <entry key="CHINESE" value="330" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ENGLISH" value="330" />
