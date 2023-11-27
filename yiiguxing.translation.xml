@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="transient" />
+      <item value="By contract, fields in a Serializable class must themselves be either Serializable or transient. Even if the class is never explicitly serialized or deserialized, it is not safe to assume that this cannot happen. For instance, under load, most J2EE application frameworks flush objects to disk. An object that implements Serializable but contains non-transient, non-serializable data members (and thus violates the contract) could cause application crashes and open the door to attackers. In general, a Serializable class is expected to fulfil its contract and not exhibit unexpected behaviour when an instance is serialized. This rule raises an issue on: non-Serializable fields, collection fields when they are not private (because they could be assigned non-Serializable values externally), when a field is assigned a non-Serializable type within the class." />
       <item value="Looking at the set of methods in a class, including superclass methods, and finding two methods or fields that differ only by capitalization is confusing to users of the class. It is similarly confusing to have a method and a field which differ only in capitalization or a method and a field with exactly the same name and visibility. In the case of methods, it may have been a mistake on the part of the original developer, who intended to override a superclass method, but instead added a new method with nearly the same name. Otherwise, this situation simply indicates poor naming. Method names should be action-oriented, and thus contain a verb, which is unlikely in the case where both a method and a member have the same name (with or without capitalization differences). However, renaming a public method could be disruptive to callers. Therefore renaming the member is the recommended action." />
       <item value="important" />
       <item value="restore time" />
@@ -156,15 +158,13 @@
       <item value="&quot;Acquires&quot; and returns the FileDescriptor for this impl A corresponding releaseFD is required to &quot;release&quot; the FileDescriptor." />
       <item value="The workhorse of the connection operation. Tries several times to establish a connection to the given &lt;host, port&gt;. If unsuccessful, throws an IOException indicating what went wrong." />
       <item value="volatile" />
-      <item value="is Running" />
-      <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
+        <entry key="CHINESE" value="331" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
