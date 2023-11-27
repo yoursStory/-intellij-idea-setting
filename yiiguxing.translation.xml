@@ -109,6 +109,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Character classes in regular expressions are a convenient way to match one of several possible characters by listing the allowed characters or ranges of characters. If the same character is listed twice in the same character class or if the character class contains overlapping ranges, this has no effect. Thus duplicate characters in a character class are either a simple oversight or a sign that a range in the character class matches more than is intended or that the author misunderstood how character classes work and wanted to match more than one character. A common example of the latter mistake is trying to use a range like [0-99] to match numbers of up to two digits, when in fact it is equivalent to [0-9]. Another common cause is forgetting to escape the - character, creating an unintended range that overlaps with other characters in the character class." />
+      <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime." />
       <item value="If an InterruptedException or a ThreadDeath error is not handled properly, the information that the thread was interrupted will be lost. Handling this exception means either to re-throw it or manually re-interrupt the current thread by calling Thread.interrupt(). Simply logging the exception is not sufficient and counts as ignoring it. Between the moment the exception is caught and handled, is the right time to perform cleanup operations on the method’s state, if needed. What is the potential impact? Failing to interrupt the thread (or to re-throw) risks delaying the thread shutdown and losing the information that the thread was interrupted - probably without finishing its task." />
       <item value="transient" />
       <item value="By contract, fields in a Serializable class must themselves be either Serializable or transient. Even if the class is never explicitly serialized or deserialized, it is not safe to assume that this cannot happen. For instance, under load, most J2EE application frameworks flush objects to disk. An object that implements Serializable but contains non-transient, non-serializable data members (and thus violates the contract) could cause application crashes and open the door to attackers. In general, a Serializable class is expected to fulfil its contract and not exhibit unexpected behaviour when an instance is serialized. This rule raises an issue on: non-Serializable fields, collection fields when they are not private (because they could be assigned non-Serializable values externally), when a field is assigned a non-Serializable type within the class." />
@@ -157,12 +159,10 @@
       <item value="canonical" />
       <item value="Client Http Request Factory Supplier" />
       <item value="Get config and register Listener. If you want to pull it yourself when the program starts to get the configuration for the first time, and the registered Listener is used for future configuration updates, you can keep the original code unchanged, just add the system parameter: enableRemoteSyncConfig = &quot;true&quot; ( But there is network overhead); therefore we recommend that you use this interface directly" />
-      <item value="&quot;Acquires&quot; and returns the FileDescriptor for this impl A corresponding releaseFD is required to &quot;release&quot; the FileDescriptor." />
-      <item value="The workhorse of the connection operation. Tries several times to establish a connection to the given &lt;host, port&gt;. If unsuccessful, throws an IOException indicating what went wrong." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
+        <entry key="CHINESE" value="334" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ENGLISH" value="331" />
