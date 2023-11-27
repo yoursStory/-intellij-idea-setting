@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="340" />
     <histories>
+      <item value="classify" />
       <item value="In the interest of code clarity, static members of a base class should never be accessed using a derived type’s name. Doing so is confusing and could create the illusion that two different static members exist.&#10;" />
       <item value="In the interest of code clarity, static members of a base class should never be accessed using a derived type’s name. Doing so is confusing and could create the illusion that two different static members exist." />
       <item value="sweeper" />
@@ -157,14 +158,13 @@
       <item value="Number of milliseconds to delay before the first execution of a fixedRate or fixedDelay task. Returns: the initial delay in milliseconds as a String value, e.g. a placeholder or a java.time.Duration compliant value" />
       <item value="cute the annotated method with a fixed period in milliseconds between the end of the last invocation and the start of the next. Returns: the delay in milliseconds" />
       <item value="Abort Policy" />
-      <item value="Synchronous Queue" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="327" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
