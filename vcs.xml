@@ -314,9 +314,13 @@
           <option name="url" value="http://172.30.19.21:9000/vaf/common/vaf-daas-flow-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.30.19.21:9000/vaf/npm4/uni-alarm-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\vaf\common" />
+    <option name="cloneParentDir" value="D:\Projects\vaf\npm4" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
