@@ -109,6 +109,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="compute" />
+      <item value="remapping Function" />
       <item value="Character classes in regular expressions are a convenient way to match one of several possible characters by listing the allowed characters or ranges of characters. If the same character is listed twice in the same character class or if the character class contains overlapping ranges, this has no effect. Thus duplicate characters in a character class are either a simple oversight or a sign that a range in the character class matches more than is intended or that the author misunderstood how character classes work and wanted to match more than one character. A common example of the latter mistake is trying to use a range like [0-99] to match numbers of up to two digits, when in fact it is equivalent to [0-9]. Another common cause is forgetting to escape the - character, creating an unintended range that overlaps with other characters in the character class." />
       <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime." />
       <item value="If an InterruptedException or a ThreadDeath error is not handled properly, the information that the thread was interrupted will be lost. Handling this exception means either to re-throw it or manually re-interrupt the current thread by calling Thread.interrupt(). Simply logging the exception is not sufficient and counts as ignoring it. Between the moment the exception is caught and handled, is the right time to perform cleanup operations on the method’s state, if needed. What is the potential impact? Failing to interrupt the thread (or to re-throw) risks delaying the thread shutdown and losing the information that the thread was interrupted - probably without finishing its task." />
@@ -157,15 +159,13 @@
       <item value="process Inactivate Tasks" />
       <item value="STOPPED" />
       <item value="canonical" />
-      <item value="Client Http Request Factory Supplier" />
-      <item value="Get config and register Listener. If you want to pull it yourself when the program starts to get the configuration for the first time, and the registered Listener is used for future configuration updates, you can keep the original code unchanged, just add the system parameter: enableRemoteSyncConfig = &quot;true&quot; ( But there is network overhead); therefore we recommend that you use this interface directly" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="334" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="ENGLISH" value="333" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
