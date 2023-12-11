@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Composite Node" />
       <item value="contains Calculate" />
       <item value="compute" />
       <item value="remapping Function" />
@@ -158,14 +159,13 @@
       <item value="– when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
       <item value="excludes" />
       <item value="process Inactivate Tasks" />
-      <item value="STOPPED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="334" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
