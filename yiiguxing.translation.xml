@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1701938760823" />
+    <option name="lastTrimTime" value="1702433515043" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Returns the ProtectionDomain of this class. If there is a security manager installed, this method first calls the security manager's checkPermission method with a RuntimePermission(&quot;getProtectionDomain&quot;) permission to ensure it's ok to get the ProtectionDomain. Returns: the ProtectionDomain of this class Throws: SecurityException – if a security manager exists and its checkPermission method doesn't allow getting the ProtectionDomain." />
       <item value="Composite Node" />
       <item value="contains Calculate" />
       <item value="compute" />
@@ -158,14 +159,13 @@
       <item value="AFUNIX Datagram Socket" />
       <item value="– when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
       <item value="excludes" />
-      <item value="process Inactivate Tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
+        <entry key="CHINESE" value="335" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
