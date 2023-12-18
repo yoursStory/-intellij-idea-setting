@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702433515043" />
+    <option name="lastTrimTime" value="1702866726408" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="dict" />
       <item value="drill Condition" />
       <item value="DECIMAL" />
       <item value="Returns the ProtectionDomain of this class. If there is a security manager installed, this method first calls the security manager's checkPermission method with a RuntimePermission(&quot;getProtectionDomain&quot;) permission to ensure it's ok to get the ProtectionDomain. Returns: the ProtectionDomain of this class Throws: SecurityException – if a security manager exists and its checkPermission method doesn't allow getting the ProtectionDomain." />
@@ -158,14 +159,13 @@
       <item value="relative" />
       <item value="relative Field" />
       <item value="strategys" />
-      <item value="AFUNIX Datagram Socket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="337" />
+        <entry key="CHINESE" value="338" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
