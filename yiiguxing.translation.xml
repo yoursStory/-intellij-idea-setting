@@ -109,12 +109,12 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Composite Node" />
       <item value="volatile" />
       <item value="dict" />
       <item value="drill Condition" />
       <item value="DECIMAL" />
       <item value="Returns the ProtectionDomain of this class. If there is a security manager installed, this method first calls the security manager's checkPermission method with a RuntimePermission(&quot;getProtectionDomain&quot;) permission to ensure it's ok to get the ProtectionDomain. Returns: the ProtectionDomain of this class Throws: SecurityException – if a security manager exists and its checkPermission method doesn't allow getting the ProtectionDomain." />
-      <item value="Composite Node" />
       <item value="contains Calculate" />
       <item value="compute" />
       <item value="remapping Function" />
@@ -162,10 +162,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
+        <entry key="CHINESE" value="340" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
