@@ -334,9 +334,13 @@
           <option name="url" value="http://172.30.19.21:9000/vaf/cloud-network-quality/cloud-network-quality-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/justauth/JustAuth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\vaf\cloud-network-quality" />
+    <option name="cloneParentDir" value="D:\Projects\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
