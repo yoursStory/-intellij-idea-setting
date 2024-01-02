@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Authentication Principal" />
       <item value="is Auto Approve" />
       <item value="implicit" />
       <item value="login Internal" />
@@ -158,14 +159,13 @@
       <item value="Deque" />
       <item value="Concurrent Linked Deque" />
       <item value="Concurrent Linked Queue" />
-      <item value="An optionally-bounded blocking deque based on linked nodes. The optional capacity bound constructor argument serves as a way to prevent excessive expansion. The capacity, if unspecified, is equal to Integer.MAX_VALUE. Linked nodes are dynamically created upon each insertion unless this would bring the deque above capacity. Most operations run in constant time (ignoring time spent blocking). Exceptions include remove, removeFirstOccurrence, removeLastOccurrence, contains, iterator.remove(), and the bulk operations, all of which run in linear time. This class and its iterator implement all of the optional methods of the Collection and Iterator interfaces. This class is a member of the Java Collections Framework." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
+        <entry key="CHINESE" value="350" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
