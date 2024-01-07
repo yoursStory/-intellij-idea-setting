@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704161742031" />
+    <option name="lastTrimTime" value="1704594320142" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="auto Approve" />
       <item value="Authentication Principal" />
       <item value="is Auto Approve" />
       <item value="implicit" />
@@ -158,14 +159,13 @@
       <item value="A deque which forwards all its method calls to another deque. Subclasses should override one or more methods to modify the behavior of the backing deque as desired per the decorator pattern . Warning: The methods of ForwardingDeque forward indiscriminately to the methods of the delegate. For example, overriding add alone will not change the behavior of offer which can lead to unexpected behavior. In this case, you should override offer as well. default method warning: This class does not forward calls to default methods. Instead, it inherits their default implementations. When those implementations invoke methods, they invoke methods on the ForwardingDeque." />
       <item value="Deque" />
       <item value="Concurrent Linked Deque" />
-      <item value="Concurrent Linked Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
+        <entry key="CHINESE" value="351" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
