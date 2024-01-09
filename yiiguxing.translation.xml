@@ -109,6 +109,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 17 and the consumer needed a component for use during runtime, compatible with Java 11" />
+      <item value="compatible" />
+      <item value="compatibility" />
       <item value="auto Approve" />
       <item value="Authentication Principal" />
       <item value="is Auto Approve" />
@@ -156,16 +159,13 @@
       <item value="Throws: UnsupportedOperationException – if addition of elements is not supported by the specified collection ClassCastException – if the class of an element of this queue prevents it from being added to the specified collection NullPointerException – if the specified collection is null IllegalArgumentException – if the specified collection is this queue, or some property of an element of this queue prevents it from being added to the specified collection" />
       <item value="dimension" />
       <item value="Evicting" />
-      <item value="A deque which forwards all its method calls to another deque. Subclasses should override one or more methods to modify the behavior of the backing deque as desired per the decorator pattern . Warning: The methods of ForwardingDeque forward indiscriminately to the methods of the delegate. For example, overriding add alone will not change the behavior of offer which can lead to unexpected behavior. In this case, you should override offer as well. default method warning: This class does not forward calls to default methods. Instead, it inherits their default implementations. When those implementations invoke methods, they invoke methods on the ForwardingDeque." />
-      <item value="Deque" />
-      <item value="Concurrent Linked Deque" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
+        <entry key="CHINESE" value="354" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="ENGLISH" value="355" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
