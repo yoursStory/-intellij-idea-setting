@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="integtest" />
       <item value="messaging-client-oidc" />
       <item value="O Auth 2 Device Grant Request" />
       <item value="clock Skew" />
@@ -158,14 +159,13 @@
       <item value="assign Dim Table Alias" />
       <item value="expand All Columns" />
       <item value="Indicates that a field in a @ConfigurationProperties object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the spring-boot-configuration-processor as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. This has no effect on collections and maps as these types are automatically identified. Since: 1.2.0 Author: Stephane Nicoll, Phillip Webb" />
-      <item value="A variant of ObjectFactory designed specifically for injection points, allowing for programmatic optionality and lenient not-unique handling. As of 5.1, this interface extends Iterable and provides Stream support. It can be therefore be used in for loops, provides forEach iteration and allows for collection-style stream access." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="364" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
