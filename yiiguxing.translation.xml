@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="consent" />
       <item value="Returns the URL of the Authorization Server's Issuer Identifier." />
       <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 17 and the consumer needed a component for use during runtime, compatible with Java 11" />
       <item value="compatible" />
@@ -158,14 +159,13 @@
       <item value="drain" />
       <item value="drain To" />
       <item value="Throws: UnsupportedOperationException – if addition of elements is not supported by the specified collection ClassCastException – if the class of an element of this queue prevents it from being added to the specified collection NullPointerException – if the specified collection is null IllegalArgumentException – if the specified collection is this queue, or some property of an element of this queue prevents it from being added to the specified collection" />
-      <item value="dimension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
+        <entry key="CHINESE" value="356" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
