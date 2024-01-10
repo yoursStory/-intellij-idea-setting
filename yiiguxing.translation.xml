@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Performs authentication with the same contract as AuthenticationManager.authenticate(Authentication) . Params: authentication – the authentication request object. Returns: a fully authenticated object including credentials. May return null if the AuthenticationProvider is unable to support authentication of the passed Authentication object. In such a case, the next AuthenticationProvider that supports the presented Authentication class will be tried. Throws: AuthenticationException – if authentication fails." />
       <item value="consent" />
       <item value="Returns the URL of the Authorization Server's Issuer Identifier." />
       <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 17 and the consumer needed a component for use during runtime, compatible with Java 11" />
@@ -158,14 +159,13 @@
       <item value="Adds the specified element to this set if it is not already present (optional operation). More formally, adds the specified element e to this set if the set contains no element e2 such that Objects.equals(e, e2). If this set already contains the element, the call leaves the set unchanged and returns false. In combination with the restriction on constructors, this ensures that sets never contain duplicate elements. The stipulation above does not imply that sets must accept all elements; sets may refuse to add any particular element, including null, and throw an exception, as described in the specification for Collection.add. Individual set implementations should clearly document any restrictions on the elements that they may contain." />
       <item value="drain" />
       <item value="drain To" />
-      <item value="Throws: UnsupportedOperationException – if addition of elements is not supported by the specified collection ClassCastException – if the class of an element of this queue prevents it from being added to the specified collection NullPointerException – if the specified collection is null IllegalArgumentException – if the specified collection is this queue, or some property of an element of this queue prevents it from being added to the specified collection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
+        <entry key="CHINESE" value="357" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="FRENCH" value="4" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
