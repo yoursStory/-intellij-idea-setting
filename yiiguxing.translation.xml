@@ -109,6 +109,9 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Maps a List of AntPathRequestMatcher instances that do not care which HttpMethod is used. Params: antPatterns – the ant patterns to create AntPathRequestMatcher from Returns: the object that is chained after creating the RequestMatcher" />
+      <item value="The most basic example is to configure all URLs to require the role &quot;ROLE_USER&quot;. The configuration below requires authentication to every URL and will grant access to both the user &quot;admin&quot; and" />
+      <item value="Allows restricting access based upon the HttpServletRequest using RequestMatcher implementations (i.e. via URL patterns)." />
       <item value="integtest" />
       <item value="messaging-client-oidc" />
       <item value="O Auth 2 Device Grant Request" />
@@ -156,16 +159,13 @@
       <item value="In the interest of code clarity, static members of a base class should never be accessed using a derived type’s name. Doing so is confusing and could create the illusion that two different static members exist." />
       <item value="sweeper" />
       <item value="trend" />
-      <item value="assign Dim Table Alias" />
-      <item value="expand All Columns" />
-      <item value="Indicates that a field in a @ConfigurationProperties object should be treated as if it were a nested type. This annotation has no bearing on the actual binding processes, but it is used by the spring-boot-configuration-processor as a hint that a field is not bound as a single value. When this is specified, a nested group is created for the field and its type is harvested. This has no effect on collections and maps as these types are automatically identified. Since: 1.2.0 Author: Stephane Nicoll, Phillip Webb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="364" />
+        <entry key="CHINESE" value="367" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="365" />
+        <entry key="ENGLISH" value="368" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
