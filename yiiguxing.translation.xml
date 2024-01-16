@@ -109,6 +109,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="Reference (opaque) tokens are unique identifiers that serve as a reference to the token metadata and claims of the user andor client, stored at the provider." />
+      <item value="Self-contained tokens use a protected, time-limited data structure that contains token metadata and claims of the user andor client. JSON Web Token (JWT) is a widely used format." />
       <item value="O Auth 2 Client Credentials Authentication Provider" />
       <item value="jose" />
       <item value="Mutable User" />
@@ -157,15 +159,13 @@
       <item value="If an InterruptedException or a ThreadDeath error is not handled properly, the information that the thread was interrupted will be lost. Handling this exception means either to re-throw it or manually re-interrupt the current thread by calling Thread.interrupt(). Simply logging the exception is not sufficient and counts as ignoring it. Between the moment the exception is caught and handled, is the right time to perform cleanup operations on the method’s state, if needed. What is the potential impact? Failing to interrupt the thread (or to re-throw) risks delaying the thread shutdown and losing the information that the thread was interrupted - probably without finishing its task." />
       <item value="transient" />
       <item value="By contract, fields in a Serializable class must themselves be either Serializable or transient. Even if the class is never explicitly serialized or deserialized, it is not safe to assume that this cannot happen. For instance, under load, most J2EE application frameworks flush objects to disk. An object that implements Serializable but contains non-transient, non-serializable data members (and thus violates the contract) could cause application crashes and open the door to attackers. In general, a Serializable class is expected to fulfil its contract and not exhibit unexpected behaviour when an instance is serialized. This rule raises an issue on: non-Serializable fields, collection fields when they are not private (because they could be assigned non-Serializable values externally), when a field is assigned a non-Serializable type within the class." />
-      <item value="Looking at the set of methods in a class, including superclass methods, and finding two methods or fields that differ only by capitalization is confusing to users of the class. It is similarly confusing to have a method and a field which differ only in capitalization or a method and a field with exactly the same name and visibility. In the case of methods, it may have been a mistake on the part of the original developer, who intended to override a superclass method, but instead added a new method with nearly the same name. Otherwise, this situation simply indicates poor naming. Method names should be action-oriented, and thus contain a verb, which is unlikely in the case where both a method and a member have the same name (with or without capitalization differences). However, renaming a public method could be disruptive to callers. Therefore renaming the member is the recommended action." />
-      <item value="important" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
+        <entry key="CHINESE" value="375" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="ENGLISH" value="376" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
