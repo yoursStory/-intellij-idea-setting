@@ -109,6 +109,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="consent" />
       <item value="convertor" />
       <item value="Reference (opaque) tokens are unique identifiers that serve as a reference to the token metadata and claims of the user andor client, stored at the provider." />
       <item value="Self-contained tokens use a protected, time-limited data structure that contains token metadata and claims of the user andor client. JSON Web Token (JWT) is a widely used format." />
@@ -130,7 +131,6 @@
       <item value="This sample demonstrates the use of a public client that does not store credentials or authenticate with the authorization server. The following components show how to customize the authorization server to allow for device clients to perform requests to the OAuth 2.0 Device Authorization Endpoint and Token Endpoint without a clientIdclientSecret. CAUTION: These endpoints will not require any authentication, and can be accessed by any client that has a valid clientId. It is therefore RECOMMENDED to carefully monitor the use of these endpoints and employ any additional protections as needed, which is outside the scope of this sample." />
       <item value="CUSTOM CONSENT PAGE URI" />
       <item value="Performs authentication with the same contract as AuthenticationManager.authenticate(Authentication) . Params: authentication – the authentication request object. Returns: a fully authenticated object including credentials. May return null if the AuthenticationProvider is unable to support authentication of the passed Authentication object. In such a case, the next AuthenticationProvider that supports the presented Authentication class will be tried. Throws: AuthenticationException – if authentication fails." />
-      <item value="consent" />
       <item value="Returns the URL of the Authorization Server's Issuer Identifier." />
       <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 17 and the consumer needed a component for use during runtime, compatible with Java 11" />
       <item value="compatible" />
@@ -165,7 +165,7 @@
         <entry key="CHINESE" value="376" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
