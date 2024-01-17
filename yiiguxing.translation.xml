@@ -100,15 +100,13 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1705037384915" />
   </component>
-  <component name="Translation.Settings">
-    <option name="translator" value="MICROSOFT" />
-  </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="373" />
     <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="delete Batch" />
       <item value="consent" />
       <item value="convertor" />
       <item value="Reference (opaque) tokens are unique identifiers that serve as a reference to the token metadata and claims of the user andor client, stored at the provider." />
@@ -158,14 +156,13 @@
       <item value="Character classes in regular expressions are a convenient way to match one of several possible characters by listing the allowed characters or ranges of characters. If the same character is listed twice in the same character class or if the character class contains overlapping ranges, this has no effect. Thus duplicate characters in a character class are either a simple oversight or a sign that a range in the character class matches more than is intended or that the author misunderstood how character classes work and wanted to match more than one character. A common example of the latter mistake is trying to use a range like [0-99] to match numbers of up to two digits, when in fact it is equivalent to [0-9]. Another common cause is forgetting to escape the - character, creating an unintended range that overlaps with other characters in the character class." />
       <item value="Generic types shouldn’t be used raw (without type parameters) in variable declarations or return values. Doing so bypasses generic type checking, and defers the catch of unsafe code to runtime." />
       <item value="If an InterruptedException or a ThreadDeath error is not handled properly, the information that the thread was interrupted will be lost. Handling this exception means either to re-throw it or manually re-interrupt the current thread by calling Thread.interrupt(). Simply logging the exception is not sufficient and counts as ignoring it. Between the moment the exception is caught and handled, is the right time to perform cleanup operations on the method’s state, if needed. What is the potential impact? Failing to interrupt the thread (or to re-throw) risks delaying the thread shutdown and losing the information that the thread was interrupted - probably without finishing its task." />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
+        <entry key="CHINESE" value="377" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
