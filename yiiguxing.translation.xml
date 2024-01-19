@@ -106,6 +106,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="principal_name" />
+      <item value="is Consent" />
       <item value="is not a valid redirect URI or contains fragment" />
       <item value="Commences an authentication scheme. ExceptionTranslationFilter will populate the HttpSession attribute named AbstractAuthenticationProcessingFilter.SPRING_SECURITY_SAVED_REQUEST_KEY with the requested target URL before calling this method. Implementations should modify the headers on the ServletResponse as necessary to commence the authentication process. Params: request – that resulted in an AuthenticationException response – so that the user agent can begin authentication authException – that caused the invocation" />
       <item value="realm Name" />
@@ -154,15 +156,13 @@
       <item value="fillter" />
       <item value="status" />
       <item value="state" />
-      <item value="traversal Task Node Tree" />
-      <item value="pipeline" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
+        <entry key="CHINESE" value="391" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
