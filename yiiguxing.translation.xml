@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="erase Secret" />
       <item value="principal" />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false. Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections 5.1.1 and 5.1.4 , for details. Params: cls – the Class object to be checked Returns: the boolean value indicating whether objects of the type cls can be assigned to objects of this class Throws: NullPointerException – if the specified Class parameter is null." />
       <item value="principal_name" />
@@ -155,14 +156,13 @@
       <item value="login Internal" />
       <item value="anonymous" />
       <item value="fillter" />
-      <item value="status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
+        <entry key="CHINESE" value="393" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
