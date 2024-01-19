@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="principal" />
       <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false. Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections 5.1.1 and 5.1.4 , for details. Params: cls – the Class object to be checked Returns: the boolean value indicating whether objects of the type cls can be assigned to objects of this class Throws: NullPointerException – if the specified Class parameter is null." />
       <item value="principal_name" />
       <item value="is Consent" />
@@ -130,7 +131,6 @@
       <item value="jose" />
       <item value="Mutable User" />
       <item value="Registration" />
-      <item value="principal" />
       <item value="Used by the ExceptionTranslationFilter to commence a form login authentication via the UsernamePasswordAuthenticationFilter. Holds the location of the login form in the loginFormUrl property, and uses that to build a redirect URL to the login page. Alternatively, an absolute URL can be set in this property and that will be used exclusively. When using a relative URL, you can set the forceHttps property to true, to force the protocol used for the login form to be HTTPS, even if the original intercepted request for a resource used the HTTP protocol. When this happens, after a successful login (via HTTPS), the original resource will still be accessed as HTTP, via the original request URL. For the forced HTTPS feature to work, the PortMapper is consulted to determine the HTTP:HTTPS pairs. The value of forceHttps will have no effect if an absolute URL is used." />
       <item value="Maps a List of AntPathRequestMatcher instances that do not care which HttpMethod is used. Params: antPatterns – the ant patterns to create AntPathRequestMatcher from Returns: the object that is chained after creating the RequestMatcher" />
       <item value="The most basic example is to configure all URLs to require the role &quot;ROLE_USER&quot;. The configuration below requires authentication to every URL and will grant access to both the user &quot;admin&quot; and" />
@@ -159,10 +159,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="391" />
+        <entry key="CHINESE" value="392" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
