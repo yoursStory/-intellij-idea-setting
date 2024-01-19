@@ -1,10 +1,5 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="JSON" injector-id="java">
-      <display-name>HashMap.put (java.util)</display-name>
-      <single-file value="true" />
-      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("put").withParameters("java.lang.Object", "java.lang.Object").definedInClass("java.util.HashMap"))]]></place>
-    </injection>
     <injection language="MySQL" injector-id="java">
       <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
       <single-file value="false" />
