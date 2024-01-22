@@ -370,6 +370,10 @@
           <option name="url" value="ssh://git@172.30.19.21:60522/vaf/common/oauth2-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@172.30.19.21:60522/vaf/common/oauth2-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\vaf\common" />
