@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706577481818" />
+    <option name="lastTrimTime" value="1707126185550" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="373" />
@@ -106,6 +106,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="set Compatibility Mode" />
       <item value="APPLIED" />
       <item value="FILTER APPLIED" />
       <item value="token Introspection Endpoint" />
@@ -155,14 +156,13 @@
       <item value="Returns the URL of the Authorization Server's Issuer Identifier." />
       <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 17 and the consumer needed a component for use during runtime, compatible with Java 11" />
       <item value="compatible" />
-      <item value="compatibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
+        <entry key="CHINESE" value="402" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
