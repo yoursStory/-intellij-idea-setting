@@ -98,7 +98,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1707126185550" />
+    <option name="lastTrimTime" value="1708507024286" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="373" />
@@ -106,6 +106,8 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="217" />
     <histories>
+      <item value="ensure Compatibility" />
+      <item value="Compatibility Mode" />
       <item value="set Compatibility Mode" />
       <item value="APPLIED" />
       <item value="FILTER APPLIED" />
@@ -154,15 +156,13 @@
       <item value="CUSTOM CONSENT PAGE URI" />
       <item value="Performs authentication with the same contract as AuthenticationManager.authenticate(Authentication) . Params: authentication – the authentication request object. Returns: a fully authenticated object including credentials. May return null if the AuthenticationProvider is unable to support authentication of the passed Authentication object. In such a case, the next AuthenticationProvider that supports the presented Authentication class will be tried. Throws: AuthenticationException – if authentication fails." />
       <item value="Returns the URL of the Authorization Server's Issuer Identifier." />
-      <item value="Incompatible because this component declares a component for use during compile-time, compatible with Java 17 and the consumer needed a component for use during runtime, compatible with Java 11" />
-      <item value="compatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
+        <entry key="CHINESE" value="404" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="ENGLISH" value="405" />
         <entry key="FRENCH" value="4" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
