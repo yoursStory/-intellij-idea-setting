@@ -8,8 +8,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="release_key" type="PLAIN_TEXT" />
       <mapping pattern="hs_err_pid58940.log" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="shield" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
